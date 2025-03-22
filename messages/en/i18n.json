@@ -1,0 +1,2193 @@
+{
+  "metaData": {
+    "title": "Free AI Music Generator Online | Muzix ",
+    "description": "Transform text into music with our AI music generator. Create custom songs and instrumental tracks in minutes, no musical experience needed. Try our AI song generator now!",
+    "keywords": [
+      "ai music generator",
+      "ai song generator",
+      "text to music",
+      "ai composer",
+      "music creation tool"
+    ]
+  },
+  "heroSection": {
+    "h1": "Free AI Music Generator Online",
+    "subheadline": "Turn your words into songs using our advanced AI music generator - no musical experience required",
+    "pricing": {
+      "h1": "AI Music Generator Pricing",
+      "subheadline": "Choose the plan that best suits your needs."
+    }
+  },
+  "keyFeatures": {
+    "title": "Transform Text to Music Instantly",
+    "description": "Our AI music generator creates unique tracks in minutes using state-of-the-art technology",
+    "features": [
+      {
+        "title": "Lightning-Fast Generation",
+        "description": "Our AI music generator creates unique tracks in minutes using state-of-the-art technology"
+      },
+      {
+        "title": "Unlimited Downloads",
+        "description": "Download as many AI-generated songs as you need with our premium plan"
+      },
+      {
+        "title": "Custom Music Styles",
+        "description": "Generate music in any genre - from acoustic pop to electronic dance music"
+      },
+      {
+        "title": "Versatile Creation Options",
+        "description": "Create both lyrical songs and instrumental tracks with our AI song generator"
+      },
+      {
+        "title": "High-Quality Output",
+        "description": "Professional-grade audio suitable for commercial use"
+      },
+      {
+        "title": "User-Friendly Interface",
+        "description": "Simple three-step process to generate your perfect track"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How to Create Music with Our AI Music Generator",
+    "steps": {
+      "step1": {
+        "title": "Enter Your Input",
+        "description": "Start your AI music generation journey by entering lyrics (8 lines recommended) or choosing instrumental mode",
+        "tip": "More detailed lyrics help our AI music generator create better-matched compositions"
+      },
+      "step2": {
+        "title": "Select Your Style",
+        "description": "Our AI music generator supports multiple genres - choose your preferred style and describe the sound you envision",
+        "tip": "The more specific you are about mood and style, the better our AI understands your vision"
+      },
+      "step3": {
+        "title": "Generate & Download",
+        "description": "Let our AI music generator work its magic - click generate and download your unique custom track",
+        "tip": "Experiment with different styles using the same lyrics to explore various AI-generated interpretations"
+      },
+      "step4": {
+        "title": "Create Instrumental Music",
+        "description": "Want music without vocals? Our AI music generator excels at creating instrumental tracks - simply select the instrumental option to generate your perfect backing track",
+        "tip": "Experiment with different styles using the same lyrics to explore various AI-generated interpretations"
+      },
+      "step5": {
+        "title": "Share Your Creation",
+        "description": "Your AI-generated music is ready to share! Download and share your unique AI music generator creation with friends, family, or use it in your creative projects",
+        "tip": "Experiment with different styles using the same lyrics to explore various AI-generated interpretations"
+      }
+    }
+  },
+  "faq": {
+    "ai-music-generator": {
+      "title": "Frequently Asked Questions about AI Music Generator",
+      "q1": {
+        "question": "What is an AI Music Generator?",
+        "answer": "An AI Music Generator is an innovative tool powered by artificial intelligence that transforms your ideas into complete music tracks. Our AI Music Generator creates unique compositions in minutes, making music creation accessible to everyone - no musical expertise required. Whether you're a content creator, filmmaker, or music enthusiast, our AI Music Generator helps bring your musical vision to life."
+      },
+      "q2": {
+        "question": "How does our AI Music Generator create music?",
+        "answer": "Our AI Music Generator combines advanced artificial intelligence with deep learning technology to understand and create music from your inputs. The process is simple: input your desired lyrics or musical preferences, select your preferred genre and style, and watch as our AI Music Generator creates a unique track tailored to your specifications. The technology analyzes countless musical patterns to ensure each generated track meets professional quality standards."
+      },
+      "q3": {
+        "question": "What can I create with an AI Music Generator?",
+        "answer": "Our AI Music Generator is versatile enough to serve multiple creative needs. Content creators use it to generate custom background music for videos, podcasts, and presentations. Musicians leverage the AI Music Generator to explore new musical ideas and styles. Whether you need original tracks for social media content, gaming streams, or personal projects, our AI Music Generator can produce the perfect soundtrack."
+      },
+      "q4": {
+        "question": "Is your AI Music Generator free to use?",
+        "answer": "We offer a free starter plan that lets you experience our AI Music Generator's capabilities with a limited number of generations. For unlimited access to all features of our AI Music Generator, including higher quality outputs and more style options, consider upgrading to one of our premium plans."
+      },
+      "q5": {
+        "question": "Can I use tracks from your AI Music Generator commercially?",
+        "answer": "Yes! Premium users of our AI Music Generator receive full commercial rights to their generated tracks. Once you upgrade to a premium plan, any music created with our AI Music Generator can be used in your commercial projects, with complete ownership rights transferred to you."
+      },
+      "q6": {
+        "question": "How quickly does your AI Music Generator work?",
+        "answer": "Speed is one of the key advantages of our AI Music Generator. Most tracks are generated within minutes, though generation time may vary based on track complexity and current system demand. Our AI Music Generator prioritizes quality while maintaining efficient processing times."
+      },
+      "q7": {
+        "question": "What customization options does your AI Music Generator offer?",
+        "answer": "Our AI Music Generator provides extensive customization options. Beyond creating the music itself, you can add titles, descriptions, and tags to organize your generated tracks. The AI Music Generator also allows you to refine your creations with style adjustments and genre specifications to achieve your desired sound."
+      },
+      "q8": {
+        "question": "Can your AI Music Generator create instrumental tracks?",
+        "answer": "Absolutely! Our AI Music Generator excels at creating instrumental compositions. Simply select the instrumental option in our AI Music Generator interface, specify your desired style and mood, and generate professional-quality instrumental tracks perfect for any project."
+      },
+      "q9": {
+        "question": "How do credits work in your AI Music Generator?",
+        "answer": "Credits are the currency of our AI Music Generator system. Each plan includes a specific number of credits that you can use to generate music tracks. When using our AI Music Generator, one credit typically equals one music generation. Once you've used your allocated credits, you can easily purchase more to continue creating with our AI Music Generator."
+      }
+    },
+    "pricing": {
+      "h1": "AI Music Generator Pricing",
+      "description": "FAQs about AI Music Generator Pricing",
+      "subheadline": "Choose the plan that best suits your needs",
+      "q1": {
+        "question": "How the credits work?",
+        "answer": "Credits are the currency of our AI Music Generator system. Each plan includes a specific number of credits that you can use to generate music tracks. When using our AI Music Generator, one credit typically equals one music generation."
+      },
+      "q2": {
+        "question": "Can I use the AI Music Generator for commercial purposes?",
+        "answer": "Yes! Premium users of our AI Music Generator receive full commercial rights to their generated tracks. Once you upgrade to a premium plan, any music created with our AI Music Generator can be used in your commercial projects, with complete ownership rights transferred to you."
+      },
+      "q3": {
+        "question": "Can I switch between plans?",
+        "answer": "Yes! Only Upgrade to Premium plan to enjoy unlimited credits, We currently do not offer downgrade plans."
+      },
+      "q4": {
+        "question": "How do the subscription plans work?",
+        "answer": "Our subscription plans are designed to provide you with the best possible experience. You can choose a plan that suits your needs, and we'll handle the rest. Our plans are designed to be flexible, so you can always upgrade or downgrade as needed."
+      },
+      "q5": {
+        "question": "How do I cancel my subscription?",
+        "answer": "You can cancel subscription anytime, and you can use rest of your credits within the current plan."
+      },
+      "q6": {
+        "question": "Can I get a refund?",
+        "answer": "We currently do not offer refunds, but you can cancel your subscription anytime. and use rest of your credits within the current plan."
+      },
+      "q7": {
+        "question": "How do I upgrade to a premium plan?",
+        "answer": "You can upgrade to a premium plan by clicking the 'Upgrade' button on our pricing page. Once you've made the payment, your credits will be added to your account, and you can immediately start using our AI Music Generator."
+      }
+    }
+  },
+  "callToAction": {
+    "text": "Start Creating Music Now",
+    "button": "Try AI Music Generator",
+    "subtext": "Experience the rhythm of the future"
+  },
+  "ai-music-generator": {
+    "title": "AI Music Generator",
+    "description": "Create unique music with AI music generator, can use for personal and commercial purposes.",
+    "button": "Generate Song",
+    "clear-button": "Clear",
+    "seo-title": "Free AI Music Generator",
+    "seo-description": "Generate AI music for free with AI music generator. Create unlimited music tracks use it anywhere.",
+    "credits": "Number of credits",
+    "free-credits": "Number of free credits",
+    "lyrics": "AI Lyrics Generator",
+    "lyrics-placeholder": "Enter the lyrics here and hit the generate button to create a song.",
+    "lyrics-label": "Lyrics",
+    "lyrics-tooltip": "Use two verses (8 lines) for best results.",
+    "ask-login1": "Login to enjoy",
+    "ask-login2": "free credits",
+    "music-style": "Music Style",
+    "music-style-tooltip": "Describe the style of music you want (e.g.acoustic pop'). The models do not recognize artists' names but do understand genres and vibes.",
+    "music-style-placeholder": "Enter the music style here",
+    "song-title": "Song Title",
+    "song-title-tooltip": "Give song a title for sharing.",
+    "song-title-placeholder": "Enter the song title here",
+    "custom": "Custom",
+    "instrumental": "Instrumental",
+    "instrumental-tooltip": "Music without lyrics",
+    "isloading": "Please wait while we generate your song, this may take a few minutes. Or you can check back later in your",
+    "library": "Music Library",
+    "credits-alert": "You have no credits left, please purchase more credits",
+    "lyrics-length-alert": "Lyrics should be at least 200 characters",
+    "style-length-alert": "Music Style should not be empty",
+    "title-length-alert": "Song Title should not be empty",
+    "custom-description-alert": "Song description should not be empty!",
+    "custom-instrumental-style-length-alert": "Music Style should not be empty",
+    "custom-instrumental-title-length-alert": "Song Title should not be empty",
+    "song-description": "Song Description",
+    "song-description-tooltip": "Describe the song you want to generate.",
+    "song-description-placeholder": "A futuristic pop song about love",
+    "violence-alert": "Please do not include any artist names or violent, sexual, or offensive content in your lyrics or title. Otherwise your song may be rejected.",
+    "upgrade-alert": "Upgrade to Premium to unlock more features and enjoy Ad-free experience."
+  },
+  "signin": {
+    "home": "Home",
+    "signin": "Sign-In to Muzix",
+    "signup": "Sign-Up with Google"
+  },
+  "header": {
+    "tools": {
+      "title": "AI Tools",
+      "music": "AI Music Generator",
+      "music-description": "Create unique music with AI assistance",
+      "lyrics": "AI Lyrics Generator",
+      "lyrics-description": "Generate creative lyrics for your songs",
+      "rap": "AI Rap Generator",
+      "rap-description": "Generate rap songs with ease",
+      "band-name": "Band Name Generator",
+      "band-name-description": "Free online band name generator ",
+      "christmas": "Christmas Instrumental Music",
+      "christmas-description": "Elevate your holiday projects with enchanting Christmas instrumental music",
+      "instrumental": "AI Instrumental Generator",
+      "instrumental-description": "Generate instrumental music at ease.",
+      "rap-lyrics-generator": "Rap Lyrics Generator",
+      "rap-lyrics-description": "Create Unique Rap Songs Instantly",
+      "rap-name-generator": "Rap Name Generator",
+      "melody": "AI Melody Generator",
+      "melody-description": " Create unique melodies from simple text descriptions",
+      "rap-name-generator-description": "Create idea rap name with ease",
+      "music-group-name-generator": "Music Group Names Generator",
+      "music-group-name-generator-description": "Create Perfect Music Group Names Instantly",
+      "singing": "AI singing generator",
+      "singing-description": "Transform your musical ideas into reality with our AI singing generator.",
+      "yue-ai-music": "Yue AI Music",
+      "yue-ai-music-description": "Create full-length songs from lyrics using Yue AI Music Generator\n",
+      "diff-rhythm": "DiffRhythm AI Music Generator",
+      "diff-rhythm-description": "Generate full-length songs instantly with DiffRhythm AI Music Generator"
+    },
+    "discover": "Discover",
+    "pricing": "Pricing",
+    "library": "My Music",
+    "billing": "Billing",
+    "logout": "Logout",
+    "signin": "Sign In",
+    "free": {
+      "title": "Free Tools"
+    },
+    "music-games": {
+      "title": "Music Games"
+    }
+  },
+  "footer": {
+    "tools": {
+      "title": "AI Tools",
+      "music": "AI Music Generator",
+      "lyrics": "AI Lyrics Generator",
+      "rap": "AI Rap Generator",
+      "instrumental": "AI Instrumental Generator",
+      "rap-lyrics-generator": "Rap Lyrics Generator",
+      "rap-name-generator": "Rap Name Generator",
+      "melody": "AI Melody Generator",
+      "diff-rhythm": "DiffRhythm AI Music Generator"
+    },
+    "support": {
+      "title": "Support",
+      "faq": "FAQ",
+      "pricing": "Pricing"
+    },
+    "privacy": "Privacy Policy",
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "refund": "Refund Policy"
+    },
+    "free": {
+      "band-name": "Band Name Generator",
+      "title": "Free Tools"
+    }
+  },
+  "stripe": {
+    "Maestro": {
+      "name": "Maestro",
+      "description": "Unlimited musical possibilities",
+      "features": {
+        "songs": "2000 Songs",
+        "credits": "1000 credits for generation",
+        "lyricsCredits": "1000 credits for lyrics generation",
+        "priorityQueue": "Priority generation queue",
+        "pricePerGeneration": "0.01",
+        "monthlyPerGeneration": "0.015",
+        "commercial": "Commercial use",
+        "private": "Private Generation",
+        "downloads": "Unlimited downloads"
+      }
+    },
+    "Free": {
+      "name": "Free",
+      "description": "Taste of Music generation",
+      "features": {
+        "songs": "Few songs depends on load",
+        "credits": "Few credits for generation",
+        "lyricsCredits": "Few credits for lyrics generation",
+        "priorityQueue": "Shared generation queue",
+        "pricePerGeneration": "0",
+        "monthlyPerGeneration": "0",
+        "ads": "Free Music Generation with ad display"
+      }
+    },
+    "Virtuoso": {
+      "name": "Virtuoso",
+      "description": "Immerse yourself in the world of music",
+      "features": {
+        "songs": "400 Songs",
+        "credits": "200 credits for generation",
+        "lyricsCredits": "200 credits for lyrics generation",
+        "priorityQueue": "Priority generation queue",
+        "pricePerGeneration": "0.025",
+        "monthlyPerGeneration": "0.03",
+        "commercial": "Commercial use",
+        "private": "Private Generation",
+        "downloads": "Unlimited downloads"
+      }
+    },
+    "Extra Pack": {
+      "name": "Extra Pack",
+      "description": "Unlimited musical possibilities",
+      "features": {
+        "songs": "400 Songs",
+        "credits": "200 credits for generation",
+        "lyricsCredits": "Unlimited lyrics credits",
+        "commercial": "Commercial use allowed",
+        "downloads": "Unlimited downloads",
+        "private": "Private Generation"
+      }
+    },
+    "Pro Pack": {
+      "name": "Pro Pack",
+      "description": "Unlimited musical possibilities",
+      "features": {
+        "songs": "1000 Songs",
+        "credits": "500 credits for generation",
+        "lyricsCredits": "Unlimited lyrics credits",
+        "commercial": "Commercial use allowed",
+        "downloads": "Unlimited downloads",
+        "private": "Private Generation",
+        "priorityQueue": "Priority generation queue"
+      }
+    },
+    "button": "Compose Now",
+    "featured": "Popular",
+    "pay-as-you-go": "Pay As You Go Credits",
+    "credit": "credit",
+    "seo-title": "AI Music Generator Pricing",
+    "seo-description": "Choose the plan that fits your needs. Start your AI music journey today.",
+    "inquire": "For inquiries or assistance, please contact us.",
+    "free-button": "Start Free",
+    "annually": "Billed Annually",
+    "one-time": "One time purchase",
+    "monthly": "Billed Monthly",
+    "meta-title": "AI Music Generator Pricing | Muzix",
+    "meta-description": "Choose the plan that fits your needs. Start your AI music journey today."
+  },
+  "music-detail": {
+    "extend-description": "Now you can extend your music just click the + button next to the audio.",
+    "extend-tooltip": "Extend this Song",
+    "download-tooltip": "Download this Song",
+    "cancel-btn": "Cancel",
+    "extend-from-tooltip": "The time selected must be before the end of the song",
+    "delete-btn": "Delete",
+    "delete-modal-title": "Confirm Delete",
+    "delete-tooltip": "Are you sure you want to delete this music?",
+    "created-at": "Created At",
+    "h2": "AI Music Created By",
+    "lyrics": "Lyrics",
+    "music-style": "Music Style",
+    "meta-title": "AI Music Details | Muzix",
+    "meta-description": "Created by Muzix AI Music Generator.",
+    "confirm-btn": "Confirm",
+    "make-private-btn": "Private",
+    "make-private-tooltip": "Are you sure you want to make this music private?",
+    "make-private-title": "Confirm Make Private",
+    "pause": "Pause music",
+    "play": "Play Music"
+  },
+  "use-cases": {
+    "title": "What Our AI Music Generator Can Do",
+    "description": "Use our AI Music Generator to create unique and professional music for your needs",
+    "case01": {
+      "title": "Game Developers & Studios",
+      "description": "Level up your games with the AI Music Generator. Create dynamic soundtracks that adapt to gameplay, generate unique boss battle themes, or craft ambient background music that enhances player immersion in your virtual worlds"
+    },
+    "case02": {
+      "title": "Music & Creative Educators",
+      "description": "Revolutionize music education with the AI Music Generator. Create custom examples for theory lessons, generate backing tracks for student performances, and demonstrate musical concepts with instantly generated compositions."
+    },
+    "case03": {
+      "title": "Podcasters & Audio Creators",
+      "description": "Elevate your podcast with the AI Music Generator's professional sound design. Create signature intro themes, smooth transition jingles, and background ambiance that sets your show apart from the competition."
+    },
+    "case04": {
+      "title": "Theater & Performance Artists",
+      "description": "Enhance your performances with the AI Music Generator. Create custom background scores for plays, generate musical interludes for scene transitions, and produce unique soundscapes for immersive theatrical experiences."
+    },
+    "case05": {
+      "title": "Social Media Influencers",
+      "description": "Boost your social media content with the AI Music Generator's catchy tunes. Generate instantly catchy hooks, create unique intros, and add a professional touch to your videos and podcasts."
+    },
+    "case06": {
+      "title": "Corporate & Business Users",
+      "description": "Polish your business presentations using the AI Music Generator. Create professional background music for company videos, training materials, and corporate events that maintains your brand's professional image."
+    },
+    "case07": {
+      "title": "Wedding & Event Videographers",
+      "description": "Craft perfect wedding and event videos with the AI Music Generator. Create emotional soundtracks that capture special moments, generate ceremony music, and produce highlight reels with custom background scores."
+    },
+    "case08": {
+      "title": "Digital Artists & Animators",
+      "description": "Add a professional touch to your digital art with the AI Music Generator. Create unique soundtracks for animations, generate background music for videos, and enhance your visual projects with instantly generated compositions."
+    },
+    "case09": {
+      "title": "Radio & Audio Productions",
+      "description": "Streamline your audio production with the AI Music Generator. Create custom station jingles, generate bed music for radio shows, and produce unique sound elements that give your station a distinctive identity."
+    }
+  },
+  "benefits": {
+    "item01": {
+      "title": "Not a musician? No problem!",
+      "description": "With AI music generator, you don't need to be a musician to create music. You can use AI music generator to create music tracks for your own songs with any style and lyrics."
+    },
+    "item02": {
+      "title": "Capture the perfect style",
+      "description": "Have something in mind? You can just humming the melody or lyrics and AI music generator will create a music track for you with the perfect style."
+    },
+    "item03": {
+      "title": "Create your own music",
+      "description": "You can create your own music with AI music generator. You can create your own music with AI music generator. You can create your own music with AI music generator."
+    },
+    "item04": {
+      "title": "Customize your music",
+      "description": "You can customize your music with AI music generator. You can customize your music with AI music generator. You can customize your music with AI music generator."
+    }
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "description": "See what our users say about using the AI Music Generator.",
+    "testimonial01": {
+      "role": "Content Creator",
+      "description": "As a YouTuber, finding unique background music was always a challenge. The AI Music Generator has been a game-changer - I can create custom tracks for each video in minutes! The quality is incredible, and it saves me hours of searching through stock music."
+    },
+    "testimonial02": {
+      "role": "Music Producer",
+      "description": "I've experimented with several AI music tools, but this AI Music Generator stands out. It captures the exact mood I'm looking for and helps me quickly create professional-grade backing tracks. Perfect for when I need inspiration or quick demos!"
+    },
+    "testimonial03": {
+      "role": "Indie Game Developer",
+      "description": "Creating custom soundtracks for our games used to be a major bottleneck. The AI Music Generator changed everything - we can now generate unique music for different game levels instantly. The instrumental options are particularly impressive!"
+    },
+    "testimonial04": {
+      "role": "Film Composer",
+      "description": "The quality of music generated by this AI tool is outstanding. It helps me quickly prototype ideas for film scores and create variations on themes. A fantastic tool for any composer's workflow - it's like having an AI composer at your fingertips!"
+    },
+    "testimonial05": {
+      "role": "Podcast Host",
+      "description": "I've been using the AI Music Generator for my podcast, and it's been a game-changer. The AI Music Generator helps me create unique intros and outros for each episode, and the quality is incredible. It's a must-have for any podcaster!"
+    },
+    "testimonial06": {
+      "role": "Social Media Creator",
+      "description": "This AI Music Generator is incredibly versatile! I use it for everything - Instagram Reels, TikTok backgrounds, and YouTube shorts. The variety of genres and the speed of generation make it perfect for keeping up with social media demands."
+    }
+  },
+  "discover": {
+    "meta-title": "Discover AI Music Generator | Muzix",
+    "meta-description": "Explore with Muzix AI Music Generator, find the perfect soundtrack for your needs.",
+    "title": "Discover the Library of AI Music",
+    "subheadline": "Explore our collection of AI-generated music and find the perfect soundtrack for your needs.",
+    "button": "AI Music Generator"
+  },
+  "my-music": {
+    "meta-title": "My Music | Muzix",
+    "meta-description": "Your AI Music Library.",
+    "title": "My Music",
+    "subheadline": "Your AI Music Library.",
+    "button": "AI Music Generator"
+  },
+  "lyrics-generator": {
+    "meta-title": "AI Lyrics Generator | Muzix",
+    "meta-description": "Generate creative lyrics for your songs with Muzix AI Lyrics Generator.",
+    "title": "AI Lyrics Generator",
+    "subheadline": "Generate Lyrics with your descriptions powered by AI.",
+    "button": "Generate Lyrics",
+    "create-your-lyrics": "Create Your Lyrics",
+    "clear-button": "Clear",
+    "description": "Describe your song idea and let AI do the magic",
+    "description-placeholder": "Describe the lyrics you want to generate.",
+    "generate-button": "Generate",
+    "generated-lyrics": "Generated Lyrics",
+    "copy-button": "Copy",
+    "copied-button": "Copied",
+    "music-generator": "AI Music Generator",
+    "features": {
+      "title": "Why Choose Our AI Lyrics Generator?",
+      "description": "Powerful features that make songwriting effortless",
+      "items": [
+        {
+          "title": "Intelligent Lyric Creation",
+          "description": "Our advanced AI analyzes thousands of successful songs to generate unique, meaningful lyrics that match your style and intent. Whether you're writing pop, rock, hip-hop, or country, our lyrics generator adapts to your genre."
+        },
+        {
+          "title": "Multilingual Support",
+          "description": "Generate lyrics in multiple languages to reach a global audience. Our AI understands linguistic nuances and cultural context to create authentic-sounding lyrics in your chosen language."
+        },
+        {
+          "title": "Unlimited Free Generation",
+          "description": "Unlike other tools, our AI lyrics generator is completely free with no usage limits. Generate as many variations as you need until you find the perfect lyrics for your song."
+        },
+        {
+          "title": "Real-Time Results",
+          "description": "Get instant lyric suggestions as you type. Our AI processes your input in real-time, providing immediate creative options to build upon your ideas."
+        },
+        {
+          "title": "No Credit Card Required",
+          "description": "Unlike other tools, our AI lyrics generator is completely free with no usage limits. Generate as many variations as you need until you find the perfect lyrics for your song."
+        },
+        {
+          "title": "Fast and Reliable",
+          "description": "Our AI lyrics generator is fast and reliable, providing you with instant results. You can generate lyrics in seconds, so you can quickly find the perfect lyrics for your song."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How Our AI Lyrics Generator Works",
+      "description": "Creating perfect lyrics has never been easier",
+      "steps": {
+        "step1": {
+          "title": "Sign Up",
+          "description": "Create your free account to access the full power of our AI lyrics generator. No credit card required, just a simple registration to get started."
+        },
+        "step2": {
+          "title": "Describe Your Vision",
+          "description": "Enter keywords, themes, or emotions you want to convey in your lyrics. Our AI uses these inputs to understand your creative direction."
+        },
+        "step3": {
+          "title": "Generate Lyrics",
+          "description": "Click generate and watch as our AI creates complete, original lyrics based on your description. Each generation is unique and tailored to your input."
+        },
+        "step4": {
+          "title": "Refine and Perfect",
+          "description": "Edit, regenerate, or combine different outputs until you have the perfect lyrics. Save your favorites and export them for your projects."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Who Can Benefit from Our AI Lyrics Generator?",
+      "description": "From professional songwriters to hobbyist musicians, our tool helps everyone create better lyrics",
+      "case01": {
+        "title": "Songwriters & Musicians",
+        "description": "Break through creative blocks and explore new lyrical directions. Our AI lyrics generator helps you maintain your unique voice while providing fresh perspectives and ideas."
+      },
+      "case02": {
+        "title": "Content Creators",
+        "description": "Create original songs for your videos, podcasts, or social media content. Generate engaging lyrics that resonate with your audience."
+      },
+      "case03": {
+        "title": "Music Students",
+        "description": "Learn songwriting techniques by analyzing AI-generated lyrics and understanding different song structures. Perfect for educational purposes and skill development."
+      },
+      "case04": {
+        "title": "Hobbyists & Enthusiasts",
+        "description": "Turn your musical ideas into complete songs without professional writing experience. Our AI lyrics generator makes songwriting accessible to everyone."
+      },
+      "case05": {
+        "title": "Teachers & Educators",
+        "description": "Use our AI lyrics generator to create engaging examples for music theory lessons, generate backing tracks for student performances, and demonstrate musical concepts with instantly generated compositions."
+      },
+      "case06": {
+        "title": "Audio Creators",
+        "description": "Create unique soundtracks for your videos, podcasts, or social media content. Generate engaging lyrics that resonate with your audience."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions about AI Lyrics Generator",
+      "q1": {
+        "question": "Is this AI lyrics generator really free?",
+        "answer": "Yes, our AI Lyrics Generator is completely free to use. We believe in making creative tools accessible to everyone. There are no hidden charges or premium features - all capabilities are available to all users."
+      },
+      "q2": {
+        "question": "How original are the generated lyrics?",
+        "answer": "Our AI Lyrics Generator creates unique, original lyrics for every generation. While inspired by analyzing patterns in successful songs, each output is new and original content you can use in your projects."
+      },
+      "q3": {
+        "question": "Do I own the rights to generated lyrics?",
+        "answer": "Yes, you have full rights to use any lyrics generated through our AI Lyrics Generator. We don't store or claim any rights to the output - your creations belong entirely to you."
+      },
+      "q4": {
+        "question": "What languages are supported?",
+        "answer": "Our AI lyrics generator supports most major languages, allowing you to create songs for international audiences. The AI understands linguistic patterns and cultural contexts for authentic-sounding lyrics."
+      },
+      "q5": {
+        "question": "Can I use the generated lyrics for commercial purposes?",
+        "answer": "Yes, you can use the generated lyrics for commercial purposes. However, please ensure you have the necessary permissions and rights to use the lyrics in your projects."
+      },
+      "q6": {
+        "question": "How can I improve the quality of generated lyrics?",
+        "answer": "To improve the quality of generated lyrics, try the following tips: 1. Use specific, descriptive language to guide the AI. 2. Provide context or background information about your song. 3. Use a variety of input formats, such as lists or paragraphs, to help the AI understand your vision. 4. Experiment with different styles and themes to see how the AI responds."
+      }
+    },
+    "cta": {
+      "text": "Start Creating Amazing Lyrics Today",
+      "subtext": "Join thousands of creators who use our AI lyrics generator to bring their musical ideas to life. No credit card required, no usage limits - just pure creative freedom.",
+      "button": "Generate Your Lyrics"
+    }
+  },
+  "ai-rap-generator": {
+    "meta-title": "AI Rap Generator | Muzix",
+    "meta-description": "Create authentic rap songs in minutes using advanced AI technology",
+    "heroSection": {
+      "h1": "AI Rap Generator",
+      "description": "Create authentic rap songs in minutes using advanced AI technology",
+      "button": "Generate Rap",
+      "clear-button": "Clear",
+      "lyrics-placeholder": "Enter the lyrics here and hit the generate button to create a song.",
+      "ai-lyrics-generator": "AI Lyrics Generator",
+      "lyrics-label": "Lyrics",
+      "lyrics-tooltip": "Use two verses (8 lines) for best results.",
+      "song-title": "Song Title",
+      "song-title-tooltip": "Give song a title for sharing.",
+      "song-title-placeholder": "Enter the song title here",
+      "custom": "Custom",
+      "isloading": "Please wait while we generate your song, this may take a few minutes. Or you can check back later in your",
+      "credits-alert": "You have no credits left, please purchase more credits",
+      "lyrics-length-alert": "Lyrics should be at least 200 characters",
+      "title-length-alert": "Song Title should not be empty",
+      "custom-description-alert": "Song description should not be empty!",
+      "song-description": "Song Description",
+      "song-description-tooltip": "Describe the song you want to generate.",
+      "song-description-placeholder": "A rap song about love"
+    },
+    "features": {
+      "title": "Why Choose Our AI Rap Generator?",
+      "description": "Advanced features that elevate your rap game",
+      "items": [
+        {
+          "title": "Flow Analysis & Rhythm Matching",
+          "description": "Our rap music generator uses advanced AI to analyze rhythm patterns and ensure your lyrics flow naturally with any beat. The system understands complex rap structures, helping you create songs that sound professional and authentic."
+        },
+        {
+          "title": "Smart Rhyme Suggestions",
+          "description": "The AI rap generator automatically suggests powerful rhymes while maintaining your message and style. Create complex rhyme schemes, internal rhymes, and clever wordplay that make your tracks stand out."
+        },
+        {
+          "title": "Style Customization",
+          "description": "Our rap song maker adapts to your preferred style, whether you're into old school, trap, conscious rap, or any other subgenre. Generate lyrics that match your unique voice and artistic vision."
+        },
+        {
+          "title": "Real-Time Beat Synchronization",
+          "description": "Input your beat, and watch as our rap song generator creates perfectly synchronized lyrics. The AI understands tempo, timing, and musical structure to ensure your words hit at exactly the right moment."
+        },
+        {
+          "title": "Fast Generation",
+          "description": "Our AI rap generator is fast and reliable, providing you with instant results. You can generate lyrics in seconds, so you can quickly find the perfect lyrics for your song."
+        },
+        {
+          "title": "High Quality",
+          "description": "Our AI rap generator is fast and reliable, providing you with instant results. You can generate lyrics in seconds, so you can quickly find the perfect lyrics for your song."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How Our AI Rap Generator Works",
+      "description": "Creating professional rap songs has never been easier",
+      "steps": {
+        "step1": {
+          "title": "Choose Your Style",
+          "description": "Select your preferred rap style, tempo, and mood. Our rap music generator uses these preferences to create lyrics that match your artistic direction."
+        },
+        "step2": {
+          "title": "Input Your Theme",
+          "description": "Share your story, message, or topic. The AI rap generator transforms your ideas into powerful bars while maintaining authenticity and personal meaning."
+        },
+        "step3": {
+          "title": "Generate & Customize",
+          "description": "Our rap song maker instantly creates multiple verses and hooks. Edit, regenerate, or mix different outputs until you have the perfect track."
+        },
+        "step4": {
+          "title": "Export & Record",
+          "description": "Download your lyrics with timing markers, or use our integrated recording feature to lay down your track right away. Our rap song generator makes the entire process seamless."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Who Can Benefit from Our AI Rap Generator?",
+      "description": "From aspiring artists to established producers, our rap music generator empowers everyone to create compelling tracks",
+      "case01": {
+        "title": "Aspiring Rappers",
+        "description": "Use our AI rap generator to develop your style, practice your flow, and build a portfolio of original tracks. Perfect for artists looking to break into the industry."
+      },
+      "case02": {
+        "title": "Music Producers",
+        "description": "Create custom rap songs for your beats instantly. Our rap song maker helps you showcase your productions with professional-quality lyrics."
+      },
+      "case03": {
+        "title": "Content Creators",
+        "description": "Generate unique rap songs for your videos, social media, or streaming content. Our rap music generator helps you create engaging musical content that captures attention."
+      },
+      "case04": {
+        "title": "Freestyle Enthusiasts",
+        "description": "Practice and improve your freestyle skills with AI-generated prompts and rhyme suggestions. Turn improvised ideas into polished tracks with our rap song generator."
+      },
+      "case05": {
+        "title": "Music Students",
+        "description": "Learn rap techniques by analyzing AI-generated lyrics and understanding different song structures. Perfect for educational purposes and skill development."
+      },
+      "case06": {
+        "title": "Music Teachers",
+        "description": "Create engaging examples for music theory lessons, generate rap tracks for student performances, and demonstrate musical concepts with instantly generated compositions."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions about AI Rap Generator",
+      "q1": {
+        "question": "Can I use my own lyrics as a starting point?",
+        "answer": "Yes, you can use your own lyrics as a starting point. Our AI rap generator will analyze your lyrics and create a rap song that flows naturally with your style."
+      },
+      "q2": {
+        "question": "Can I use the generated lyrics in my songs?",
+        "answer": "Yes, you own all rights to the lyrics created using our rap song maker. Your creations are yours to use however you want, whether for personal projects or commercial releases."
+      },
+      "q3": {
+        "question": "Does the rap music generator work with any beat?",
+        "answer": "Yes, our AI rap generator adapts to any tempo and style of beat. Upload your track, and the system will create perfectly synchronized lyrics that match your music."
+      },
+      "q4": {
+        "question": "Do you offer free generation?",
+        "answer": "Yes, our AI rap generator offer few free credits for you to try it out. If you need more, we have multiple plans to choose from."
+      },
+      "q5": {
+        "question": "How quickly does your AI Rap Generator work?",
+        "answer": "Our AI rap generator is fast and reliable, providing you with instant results. You can generate lyrics in seconds, so you can quickly find the perfect lyrics for your song."
+      },
+      "q6": {
+        "question": "What is AI rap generator?",
+        "answer": "Our AI rap generator is a tool that uses artificial intelligence to create rap songs. It takes your input, such as a theme or a beat, and generates lyrics that match your style and intent. The AI rap generator can create hooks, verses, and even entire songs, all tailored to your specifications."
+      },
+      "q7": {
+        "question": "What is the difference between AI rap generator and other rap generators?",
+        "answer": "Our AI rap generator is different from other rap generators because it uses advanced AI technology to create rap songs. It analyzes thousands of successful rap songs to generate unique, meaningful lyrics that match your style and intent. Unlike other tools, our AI rap generator is completely free with no usage limits. Generate as many variations as you need until you find the perfect lyrics for your song."
+      },
+      "q8": {
+        "question": "Can I use the generated rap for commercial purposes?",
+        "answer": "Yes, you can use the generated rap for commercial purposes. However, please ensure you have the necessary permissions and rights to use the lyrics in your projects."
+      }
+    },
+    "cta": {
+      "text": "Start Creating Your Next Hit Today",
+      "subtext": "Join the revolution in rap music creation. Our AI rap generator gives you the tools to turn your ideas into professional tracks in minutes.",
+      "button": "Create Your First Track"
+    },
+    "benefits": {
+      "item01": {
+        "title": "No Rap Experience? No Problem!",
+        "description": "Our AI rap generator makes creating rap music accessible to everyone. Whether you're a complete beginner or an experienced artist, you can generate professional-quality rap tracks that match your vision and style."
+      },
+      "item02": {
+        "title": "Capture Your Perfect Flow",
+        "description": "Simply type your ideas or record yourself speaking, and our rap song maker will transform your words into perfectly flowing rap lyrics. The AI understands rhythm and timing, ensuring your lyrics fit naturally with any beat."
+      },
+      "item03": {
+        "title": "Express Your Unique Voice",
+        "description": "Our rap music generator preserves your authentic message while enhancing your delivery. Share your story, emotions, or experiences, and let the AI help you express them through powerful rap verses."
+      },
+      "item04": {
+        "title": "From Concept to Complete Track",
+        "description": "The AI rap generator handles the technical aspects of songwriting, letting you focus on creativity. Generate hooks, verses, and complete songs that sound professional while maintaining your personal style."
+      }
+    }
+  },
+  "band-name-generator": {
+    "meta-title": "AI-Powered Band Name Generator | Create Unique Band Names Instantly",
+    "meta-description": "Transform your musical identity with our intelligent band name generator. Get creative, memorable, and unique band names instantly using AI-powered technology. Perfect for musicians, producers, and creatives.",
+    "heroSection": {
+      "h1": "Free AI Band Name Generator",
+      "description": "Struggling to find that perfect moniker that perfectly encapsulates your band's sound and personality. Our AI-powered band name generator is here to help.",
+      "button": "Generate Band Names Now",
+      "clear-button": "Start Fresh",
+      "ai-music-generator": "AI Music Generator",
+      "name-description": "Enter the name of your band or the theme of your music and hit the generate button to create a band name.",
+      "name-label": "Name Description",
+      "name-placeholder": "Enter some description about your band or the theme of your music.",
+      "name-tooltip": "Use a few words to describe your band or the theme of your music.",
+      "generated-name": "Choose Your Band Name"
+    },
+    "features": {
+      "title": "Why Choose Our AI-Driven Band Name Generator?",
+      "description": "Our intelligent band name generator goes beyond simple word combinations, offering a sophisticated suite of features meticulously crafted to assist you in finding the perfect name for your musical endeavor.",
+      "items": [
+        {
+          "title": "Intelligent AI Creativity",
+          "description": "Our band name generator isn't just a random name picker; it leverages advanced AI algorithms to analyze your input, understand your musical style, and capture the nuances of your creative vision. It learns and adapts, offering names that truly resonate with your artistic intent."
+        },
+        {
+          "title": "Limitless Naming Possibilities",
+          "description": "Explore a vast universe of band names. Generate an endless supply of unique, memorable, and impactful band names instantly, ensuring that you have plenty of options to choose from and that your final choice is truly the best fit."
+        },
+        {
+          "title": "Genre-Specific Name Adaptability",
+          "description": "Whether you're into the heavy riffs of rock, the soulful melodies of jazz, the structured complexity of classical, the rhythmic beats of electronic music, or anything in between, our band name generator seamlessly adapts to your specific musical genre, ensuring each name suggestions perfectly captures your style's essence."
+        },
+        {
+          "title": "Fully Customizable Options",
+          "description": "Take full control over your name generation. Fine-tune your results by specifying preferences, themes, keywords, and even moods to guarantee that the generated band names align flawlessly with your unique creative vision. Craft a name that is exactly what you imagine."
+        },
+        {
+          "title": "Instant and Efficient Results",
+          "description": "Say goodbye to exhausting brainstorming sessions that often lead to dead ends. Get a multitude of creative and unique band name suggestions in a matter of seconds with our efficient and streamlined band name generator, saving you valuable time and resources."
+        },
+        {
+          "title": "Intuitive User Experience",
+          "description": "Our thoughtfully designed user interface is remarkably intuitive, making it easy for you to generate, save, compare, and refine different band name options until you stumble upon the ideal name for your project. We strive to make the naming process as smooth and enjoyable as possible."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "The Simple Process of Creating Your Perfect Band Name",
+      "description": "Our band name generator simplifies the process of finding your ideal band name into a four-step procedure, seamlessly integrating our advanced AI technology into a user-friendly framework.",
+      "steps": {
+        "step1": {
+          "title": "Describe Your Unique Musical Vision",
+          "description": "Begin by telling our band name generator about your musical style, genre influences, specific themes, and any particular concepts you want your band name to embody. The more information you provide, the better we can understand and meet your needs."
+        },
+        "step2": {
+          "title": "Advanced AI Analysis and Interpretation",
+          "description": "Our powerful AI system diligently processes your input, meticulously analyzing your specific preferences, desired themes, and overall creative direction to comprehend your vision in a deeply meaningful way."
+        },
+        "step3": {
+          "title": "Unique and Relevant Name Generation",
+          "description": "Based on your provided specifications and creative preferences, our band name generator generates a diverse set of unique name options, ensuring you are presented with a wide array of choices that fit your specific musical identity."
+        },
+        "step4": {
+          "title": "Choose Your Perfect and Defining Name",
+          "description": "Review the various generated names, save the ones that catch your eye, compare your favorites, and select the one that resonates most profoundly with your artistic identity and embodies the spirit of your music."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Who Can Benefit from the Power of Our Band Name Generator?",
+      "description": "Our band name generator is a versatile tool designed to meet the diverse creative needs of individuals across the entire musical spectrum, from aspiring artists to established professionals.",
+      "case01": {
+        "title": "New and Aspiring Bands",
+        "description": "If you're launching your musical career, a powerful name is essential. Our band name generator is designed to help you make a strong, memorable first impression that sets you apart and captures attention."
+      },
+      "case02": {
+        "title": "Visionary Solo Artists",
+        "description": "Whether you need a unique stage name that encapsulates your persona or a project title that defines your artistic endeavors, our tool can help you generate creative alternatives that resonate with your individual identity."
+      },
+      "case03": {
+        "title": "Innovative Music Producers",
+        "description": "From unique project names to captivating production aliases, our band name generator is designed to spark inspiration and provide you with creative suggestions for your various production projects."
+      },
+      "case04": {
+        "title": "Dynamic Cover Bands",
+        "description": "Create inventive and memorable band names that both acknowledge your influences and maintain an original identity for your cover band, helping you stand out in a crowded scene."
+      },
+      "case05": {
+        "title": "School and Youth Ensembles",
+        "description": "Our band name generator can help you find the ideal name for your school band or youth group, reflecting both your group's spirit and your unique musical direction."
+      },
+      "case06": {
+        "title": "Creative Musical Collaborations",
+        "description": "Find a unique project title that will represent your musical collaborations, special performances, and dynamic partnerships, ensuring that every new endeavor has a distinct identity."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions about Our Band Name Generator",
+      "q1": {
+        "question": "How exactly does your band name generator work?",
+        "answer": "Our innovative band name generator employs sophisticated AI algorithms to analyze your specific inputs and preferences, generating unique and relevant name suggestions that perfectly match your set criteria."
+      },
+      "q2": {
+        "question": "Is there a limit to the amount of band names that I can generate?",
+        "answer": "No, there's absolutely no limit! You can use our band name generator as many times as necessary to find the absolute perfect name for your project, providing you with endless possibilities."
+      },
+      "q3": {
+        "question": "Can I generate names that cater to specific music genres?",
+        "answer": "Absolutely! Our adaptable band name generator is designed to create names suitable for any musical genre or style you specify, ensuring every option fits your particular sound."
+      },
+      "q4": {
+        "question": "How original are the band names that are generated by your AI?",
+        "answer": "Our AI is trained to produce original combinations based on your specific inputs, but we recommend doing your due diligence to ensure that your chosen name does not infringe on any trademark or is already in use. We strive for originality, but thorough research is still advisable."
+      },
+      "q5": {
+        "question": "Can I save and compare my favorite generated band names?",
+        "answer": "Yes, absolutely! You can easily save and compare multiple options until you discover the ideal band name that perfectly aligns with your creative vision and musical aspirations."
+      },
+      "q6": {
+        "question": "Is your band name generator free for all users?",
+        "answer": "Yes, our basic band name generator service is entirely free for all users, ensuring that everyone has access to our powerful naming tool. Further options may be available for a fee."
+      },
+      "q7": {
+        "question": "Can I specify certain keywords or themes to be included in the generated names?",
+        "answer": "Yes, you absolutely can! Our band name generator allows you to input specific keywords, themes, or concepts that you want incorporated into the generated names for a more custom result."
+      },
+      "q8": {
+        "question": "How many name suggestions are provided with each generation of the band names?",
+        "answer": "Each time you use our band name generator, you'll be provided with a variety of unique name suggestions, offering you multiple options to explore and choose from."
+      }
+    },
+    "cta": {
+      "text": "Ready to Uncover Your Perfect Band Name?",
+      "subtext": "Join the ranks of thousands of musicians who have found their ideal band names using our advanced band name generator and take the first step towards defining your musical legacy.",
+      "button": "Start Generating Names Now"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Save Precious Time",
+        "description": "Skip the tedious process of hours of brainstorming and gain instant access to a wealth of creative band name ideas generated by our sophisticated AI technology, allowing you to focus on your music."
+      },
+      "item02": {
+        "title": "Experience Limitless Creativity",
+        "description": "With our band name generator, you will never run out of ideas. Explore a vast number of creative possibilities and unique combinations, unlocking endless potential for your band's identity."
+      },
+      "item03": {
+        "title": "Discover the Perfect Match",
+        "description": "Find a band name that truly embodies your unique musical identity and resonates deeply with your target audience, creating a meaningful connection that elevates your impact."
+      },
+      "item04": {
+        "title": "Effortless and Intuitive Use",
+        "description": "Generate, compare, and select your perfect band name with ease through our user-friendly interface and straightforward process, providing a smooth and pleasant user experience."
+      }
+    }
+  },
+  "ai-instrumental-generator": {
+    "meta-title": "Create Unique Instrumental Music Instantly with Our AI Instrumental Generator",
+    "meta-description": "Unleash your creativity with our AI instrumental generator. Simply describe your musical vision and let our AI create original instrumental tracks in minutes. Perfect for musicians, content creators, and anyone needing unique background music.",
+    "heroSection": {
+      "h1": "AI Instrumental Generator",
+      "description": "Unleash Your Musical Vision with Our AI Instrumental Generator.",
+      "button": "Generate Music Now",
+      "clear-button": "Clear Input",
+      "ai-music-generator": "AI Music Generator",
+      "generating": "Generating...",
+      "description-label": "Description",
+      "description-tooltip": "Describe the instrumental music you desire in a few words.",
+      "description-placeholder": "Enter a few words to describe the instrumental music you desire.",
+      "description-length-alert": "Please enter at least 20 characters."
+    },
+    "features": {
+      "title": "Key Features of Our AI Instrumental Generator",
+      "description": "Discover the power and versatility of our AI-driven music creation tool. We've packed it with features designed to make generating your perfect instrumental track effortless and inspiring.",
+      "items": [
+        {
+          "title": "Instant Instrumental Creation",
+          "description": "Our advanced AI instrumental generator crafts unique pieces in minutes, saving you valuable time and resources. Go from concept to creation faster than ever before."
+        },
+        {
+          "title": "Genre Agnostic Generation",
+          "description": "Whether you're looking for ambient soundscapes, energetic electronic beats, cinematic scores, or anything in between, our AI instrumental generator can adapt to your desired genre."
+        },
+        {
+          "title": "No Musical Expertise Required",
+          "description": "You don't need to be a musician to create professional-sounding instrumental music. Simply describe your vision in plain language, and our AI does the rest."
+        },
+        {
+          "title": "Unique and Original Music",
+          "description": "Say goodbye to generic stock music. Our AI instrumental generator creates original compositions, ensuring your music is as unique as your project."
+        },
+        {
+          "title": "Highly Customizable Output",
+          "description": "While the initial output is generated quickly, future iterations may include options for further refinement and customization of the generated instrumental tracks."
+        },
+        {
+          "title": "Perfect for a Variety of Uses",
+          "description": "Ideal for content creators needing background music, filmmakers seeking scores, game developers requiring soundtracks, and anyone looking for personalized instrumental music."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Effortless Music Creation in Three Simple Steps",
+      "description": "Creating your perfect instrumental track with our AI instrumental generator is quick and easy. Follow these simple steps to bring your musical ideas to life.",
+      "steps": {
+        "step1": {
+          "title": "1. Describe Your Vision",
+          "description": "Input a description of the instrumental music you desire. Be as detailed or as concise as you like. Think about the mood, genre, instrumentation (if you have preferences), and overall feel."
+        },
+        "step2": {
+          "title": "2. Let Our AI Generate",
+          "description": "Our powerful AI instrumental generator analyzes your input and instantly creates several unique instrumental music options for you to review."
+        },
+        "step3": {
+          "title": "3. Select Your Favorite",
+          "description": "Browse the generated instrumental tracks and choose the one that best fits your needs. It's that simple to create personalized music with AI."
+        },
+        "step4": {
+          "title": "4. Use Your Music",
+          "description": "Download your chosen instrumental track and use it for your projects, knowing it's unique and created just for you by our innovative AI instrumental generator."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Endless Possibilities with Our AI Instrumental Generator",
+      "description": "Our AI instrumental generator opens up a world of creative possibilities for various users and applications. See how you can leverage the power of AI for your musical needs.",
+      "case01": {
+        "title": "Background Music for Videos and Podcasts",
+        "description": "Elevate your content with unique, royalty-free background music generated by our ai instrumental generator. Create the perfect atmosphere for your videos, podcasts, and presentations."
+      },
+      "case02": {
+        "title": "Soundtracks for Games and Apps",
+        "description": "Generate immersive and original soundtracks for your games and applications with our intelligent ai instrumental generator. Create the perfect sonic landscape to enhance user experience."
+      },
+      "case03": {
+        "title": "Musical Inspiration and Jam Tracks",
+        "description": "Spark your creativity as a musician with unique instrumental backing tracks generated by our ai instrumental generator. Use them for practice, improvisation, or as a starting point for new compositions."
+      },
+      "case04": {
+        "title": "Personalized Ambiance for Focus and Relaxation",
+        "description": "Create custom ambient soundscapes for studying, working, meditating, or simply relaxing. Describe the atmosphere you desire, and our ai instrumental generator will craft the perfect sonic environment."
+      },
+      "case05": {
+        "title": "Music for Social Media Content",
+        "description": "Stand out on social media with original instrumental music created by our ai instrumental generator. Avoid copyright issues and create engaging content with unique audio."
+      },
+      "case06": {
+        "title": "Experimenting with Musical Ideas",
+        "description": "Quickly explore different musical styles and concepts with our ai instrumental generator. Generate various instrumental pieces to see what resonates and inspires you."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions About Our AI Instrumental Generator",
+      "q1": {
+        "question": "What kind of instrumental music can the AI instrumental generator create?",
+        "answer": "Our AI is designed to be versatile and can generate a wide range of instrumental music, from ambient and electronic to orchestral and cinematic, depending on your input description. Experiment with different descriptions to explore the possibilities."
+      },
+      "q2": {
+        "question": "Do I need any musical experience to use this ai instrumental generator?",
+        "answer": "No musical experience is required! Simply describe the type of instrumental music you're looking for in plain language, and our AI will handle the creation process."
+      },
+      "q3": {
+        "question": "How long does it take for the ai instrumental generator to create a track?",
+        "answer": "Our AI works incredibly fast. Typically, you can expect to have several instrumental music options generated within a few minutes of submitting your description."
+      },
+      "q4": {
+        "question": "Is the music generated by the ai instrumental generator royalty-free?",
+        "answer": "Yes, the instrumental music created by our AI is original and intended for your use. Specific licensing terms will be provided upon generation and selection of a track."
+      },
+      "q5": {
+        "question": "Can I specify instruments or musical elements?",
+        "answer": "Yes, the more detail you provide in your description, the better the AI can tailor the instrumental music to your preferences. Mention specific instruments, tempos, or musical styles you have in mind."
+      },
+      "q6": {
+        "question": "What if I don't like the initial results from the ai instrumental generator?",
+        "answer": "Simply refine your description and generate again! Experiment with different phrasing and keywords to achieve your desired outcome. Each generation will produce unique results."
+      },
+      "q7": {
+        "question": "Is there a limit to how many instrumental tracks I can generate?",
+        "answer": "Currently, there may be some limitations. Please refer to our usage guidelines or subscription details (if applicable) for information on generation limits."
+      },
+      "q8": {
+        "question": "How does the ai instrumental generator actually work?",
+        "answer": "Our AI utilizes advanced machine learning algorithms trained on a vast dataset of instrumental music. It analyzes your input description and generates new musical pieces based on its understanding of musical structures, styles, and instrumentation."
+      }
+    },
+    "cta": {
+      "text": "Ready to Create Your Own Unique Instrumental Music?",
+      "subtext": "Experience the power of our AI instrumental generator and bring your musical ideas to life in minutes.",
+      "button": "Start Generating Now"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Save Time and Money",
+        "description": "Stop spending hours searching for the right instrumental track. Our ai instrumental generator provides instant, affordable music creation."
+      },
+      "item02": {
+        "title": "Unlock Your Creative Potential",
+        "description": "Effortlessly generate instrumental music that perfectly matches your vision, regardless of your musical background, with our innovative AI."
+      },
+      "item03": {
+        "title": "Get Unique, Original Music",
+        "description": "Avoid generic stock music and create truly distinctive instrumental pieces with our powerful ai instrumental generator."
+      },
+      "item04": {
+        "title": "Easy and Intuitive to Use",
+        "description": "Simply describe your needs, and our ai instrumental generator does the rest. No complicated software or musical knowledge required."
+      }
+    }
+  },
+  "rap-lyrics-generator": {
+    "meta-title": "Free AI Rap Lyrics Generator Online | Muzix",
+    "meta-description": "Unleash your inner wordsmith with free AI rap lyrics generator. Simply input your ideas and watch the smart tool create unique and creative rap lyrics in seconds. ",
+    "heroSection": {
+      "h1": "Free AI Rap Lyrics Generator",
+      "description": "Generate Killer Rap Lyrics Instantly with the AI Rap Lyrics Generator.",
+      "button": "Generate Rap Lyrics Now",
+      "clear-button": "Clear Input",
+      "music-generator": "AI Music Generator",
+      "lyrics-label": "Description of Lyrics",
+      "lyrics-placeholder": "Enter a few words to describe the lyrics you desire.",
+      "generate-button": "Generate",
+      "copy-button": "Copy",
+      "copied-button": "Copied",
+      "generated-lyrics": "Generated Lyrics"
+    },
+    "features": {
+      "title": "Key Features of Our Rap Lyrics Generator",
+      "description": "Discover the powerful capabilities that make our AI rap lyrics generator the go-to tool for aspiring and established artists alike. We've designed it with simplicity and effectiveness in mind, ensuring a seamless and enjoyable lyrical creation experience.",
+      "items": [
+        {
+          "title": "AI-Powered Lyric Generation",
+          "description": "Our sophisticated AI algorithms analyze your input to generate original and contextually relevant rap lyrics. Experience the magic of AI crafting verses you never thought possible."
+        },
+        {
+          "title": "Customizable Input Options",
+          "description": "Provide keywords, themes, names, or even a desired mood, and our rap lyrics generator will tailor the output to your specific needs. The more detail you provide, the more personalized the lyrics will be."
+        },
+        {
+          "title": "Versatile Lyrical Styles",
+          "description": "From hardcore rhymes to smooth flows, our AI can adapt to various rap styles. Experiment with different inputs to explore a wide range of lyrical expressions generated by our rap lyrics generator."
+        },
+        {
+          "title": "Instant Results",
+          "description": "No more waiting around for inspiration to strike. Our rap lyrics generator delivers high-quality rap lyrics within seconds, allowing you to keep your creative momentum going."
+        },
+        {
+          "title": "Free to Use",
+          "description": "Access the power of AI-driven rap lyric creation without any cost. Our rap lyrics generator is completely free for everyone to use, making it accessible to all creators."
+        },
+        {
+          "title": "Spark Your Creativity",
+          "description": "Overcome writer's block and find fresh ideas. Use our rap lyrics generator as a brainstorming tool to kickstart your songwriting process and explore new lyrical directions."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Effortless Rap Lyric Creation in 4 Simple Steps",
+      "description": "Generating captivating rap lyrics with our AI tool is incredibly easy. Follow these simple steps to start creating your next hit:",
+      "steps": {
+        "step1": {
+          "title": "Enter Your Ideas",
+          "description": "Simply type in the keywords, themes, names, or concepts you want your rap lyrics to be about. The more specific you are, the better the results from our rap lyrics generator will be."
+        },
+        "step2": {
+          "title": "Click 'Generate'",
+          "description": "Once you've entered your input, click the 'Generate Rap Lyrics Now' button. Our powerful AI will instantly begin crafting unique rap verses for you."
+        },
+        "step3": {
+          "title": "Review and Refine",
+          "description": "Take a look at the generated lyrics. Feel free to use them as they are or tweak them to perfectly match your artistic vision. Our rap lyrics generator provides a solid foundation for your creativity."
+        },
+        "step4": {
+          "title": "Start Creating!",
+          "description": "Use the generated lyrics in your songs, freestyles, or any other creative projects. Our free rap lyrics generator is designed to empower your musical journey."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Unlock Endless Possibilities with Our Rap Lyrics Generator",
+      "description": "Our AI-powered rap lyrics generator caters to a diverse range of needs and creative endeavors. Discover how it can empower you in various scenarios:",
+      "case01": {
+        "title": "Songwriting Inspiration",
+        "description": "Overcome writer's block and find fresh lyrical ideas for your next track. Use our rap lyrics generator to spark creativity and develop unique verses and hooks."
+      },
+      "case02": {
+        "title": "Freestyle Practice",
+        "description": "Generate random lines and themes to challenge yourself and improve your freestyle skills. Our tool provides endless material for honing your improvisational abilities with this rap lyrics generator."
+      },
+      "case03": {
+        "title": "Personalized Birthday Songs",
+        "description": "Create unique and memorable birthday rap songs for friends and family. Simply input the person's name and some details, and our rap lyrics generator will craft a personalized tribute."
+      },
+      "case04": {
+        "title": "Creating Themed Tracks",
+        "description": "Effortlessly generate lyrics around specific themes or topics. Whether it's love, struggle, or celebration, our rap lyrics generator can provide the perfect starting point."
+      },
+      "case05": {
+        "title": "Content Creation for Social Media",
+        "description": "Generate catchy rap lines and verses for your social media content, engaging your audience with unique and creative lyrical snippets produced by this rap lyrics generator."
+      },
+      "case06": {
+        "title": "Just for Fun!",
+        "description": "Experiment and have fun creating silly or unexpected rap lyrics. Our rap lyrics generator is a great way to explore the lighter side of lyrical creation."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions about AI Rap Lyrics Generator",
+      "q1": {
+        "question": "How does the AI rap lyrics generator work?",
+        "answer": "Our rap lyrics generator uses advanced artificial intelligence algorithms trained on a massive dataset of rap lyrics. When you input your ideas, the AI analyzes the text and generates relevant and creative rap lyrics based on its learned patterns and understanding of rhyme, rhythm, and themes."
+      },
+      "q2": {
+        "question": "Is the rap lyrics generator really free?",
+        "answer": "Yes! Our rap lyrics generator is completely free to use for everyone. There are no hidden charges or subscriptions required. We believe in making creative tools accessible to all."
+      },
+      "q3": {
+        "question": "What kind of input can I provide to the rap lyrics generator?",
+        "answer": "You can provide any kind of text input, including keywords, themes, names, phrases, or even just a general idea. The more specific your input, the more tailored the generated lyrics will be from our rap lyrics generator."
+      },
+      "q4": {
+        "question": "Can I use the generated lyrics commercially?",
+        "answer": "Yes, you are free to use the lyrics generated by our rap lyrics generator for your personal and commercial projects. However, please be aware that the AI generates content based on existing patterns, and some similarities to existing works might occur. We recommend reviewing and modifying the lyrics to ensure originality."
+      },
+      "q5": {
+        "question": "Is there a limit to how many times I can use the rap lyrics generator?",
+        "answer": "No, there are currently no limits on how many times you can use our free rap lyrics generator. Feel free to generate as many lyrics as you need!"
+      },
+      "q6": {
+        "question": "Can the rap lyrics generator generate lyrics in different styles?",
+        "answer": "While the AI strives to generate versatile lyrics, the style will largely depend on your input. Experiment with different keywords and themes to influence the output of the rap lyrics generator."
+      },
+      "q7": {
+        "question": "What if I don't like the generated lyrics?",
+        "answer": "No problem! Simply try generating again with slightly different input. You can also manually edit the generated lyrics to better suit your needs. Our rap lyrics generator is meant to be a starting point for your creativity."
+      },
+      "q8": {
+        "question": "Do I need to create an account to use the rap lyrics generator?",
+        "answer": "No, you do not need to create an account to use our free rap lyrics generator. Simply visit the page and start generating lyrics instantly."
+      }
+    },
+    "cta": {
+      "text": "Ready to Unleash Your Inner Rapper?",
+      "subtext": "Start generating unique rap lyrics for free today!",
+      "button": "Generate Rap Lyrics Now"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Save Time and Effort",
+        "description": "Stop struggling with writer's block. Our AI-powered rap lyrics generator provides instant inspiration and saves you valuable time in the songwriting process."
+      },
+      "item02": {
+        "title": "Boost Your Creativity",
+        "description": "Discover new lyrical ideas and perspectives you might not have considered. Our rap lyrics generator can help you break out of creative ruts and explore fresh themes."
+      },
+      "item03": {
+        "title": "Easy to Use Interface",
+        "description": "Our intuitive design makes generating rap lyrics simple and straightforward for users of all levels. No technical skills are required to use our rap lyrics generator."
+      },
+      "item04": {
+        "title": "Experiment with Different Styles",
+        "description": "Explore various lyrical styles and themes effortlessly. Use our rap lyrics generator to experiment and discover new creative avenues in your rap music."
+      }
+    }
+  },
+  "rap-name-generator": {
+    "meta-title": "Free AI Rap Name Generator Online | Muzix",
+    "meta-description": "Generate your perfect rap name with our free AI rap name generator. Get unique, personalized rap names based on your style, story, and personality.",
+    "heroSection": {
+      "h1": "Free AI Rap Name Generator",
+      "description": "Generate your perfect rap name with our AI rap name generator. Get unique, personalized rap names based on your style, story, and personality.",
+      "button": "Generate Your Rap Name",
+      "clear-button": "Clear",
+      "ai-music-generator": "AI Music Generator",
+      "name-label": "Description of Name",
+      "name-tooltip": "Enter a few words to describe the name you desire.",
+      "name-placeholder": "Enter a few words to describe the name you desire.",
+      "generated-name": "Generated Name"
+    },
+    "features": {
+      "title": "Features That Set Our Rap Name Generator Apart",
+      "description": "Experience the perfect blend of artificial intelligence and hip-hop culture with our innovative rap name generator. Our advanced algorithms understand the nuances of rap culture to create names that truly represent your artistic identity.",
+      "items": [
+        {
+          "title": "AI-Powered Cultural Understanding",
+          "description": "Our rap name generator leverages advanced AI to understand hip-hop culture, trends, and historical significance, ensuring each generated name carries authentic meaning and cultural relevance."
+        },
+        {
+          "title": "Personalized Style Matching",
+          "description": "Input your preferred style, influences, and personal story, and our rap name generator will create names that align perfectly with your artistic vision and brand identity."
+        },
+        {
+          "title": "Multiple Generation Options",
+          "description": "Get multiple name variations with each generation, allowing you to explore different aspects of your artistic identity and choose the perfect fit for your style."
+        },
+        {
+          "title": "Cultural Significance Check",
+          "description": "Each generated name comes with insights about its cultural significance and potential meaning, helping you make an informed choice about your artistic identity."
+        },
+        {
+          "title": "Trademark Availability",
+          "description": "Our rap name generator includes a basic availability check to help ensure your chosen name hasn't already been claimed by another artist."
+        },
+        {
+          "title": "Style Variation Options",
+          "description": "Generate names across different hip-hop styles and subgenres, from old school to trap, ensuring your name fits your specific musical direction."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How Our Rap Name Generator Creates Your Perfect Artist Name",
+      "description": "Follow these simple steps to discover your ideal hip-hop identity using our advanced AI technology.",
+      "steps": {
+        "step1": {
+          "title": "Share Your Vision",
+          "description": "Tell our rap name generator about your style, influences, and the message you want your name to convey. The more details you provide, the better we can match your artistic identity."
+        },
+        "step2": {
+          "title": "AI Analysis",
+          "description": "Our advanced algorithms analyze your input, considering cultural relevance, linguistic patterns, and hip-hop traditions to generate unique name options."
+        },
+        "step3": {
+          "title": "Review Options",
+          "description": "Browse through multiple generated names, each coming with explanations of their meaning and cultural significance in the hip-hop community."
+        },
+        "step4": {
+          "title": "Refine and Choose",
+          "description": "Fine-tune your preferences and generate new variations until you find the perfect rap name that represents your artistic vision."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Who Can Benefit from Our Rap Name Generator?",
+      "description": "Our versatile tool serves various needs in the hip-hop community and beyond.",
+      "case01": {
+        "title": "Aspiring Rappers",
+        "description": "New artists looking to establish their presence in the hip-hop scene with a memorable, meaningful name that captures their essence."
+      },
+      "case02": {
+        "title": "Established Artists",
+        "description": "Professional musicians seeking a fresh identity or alternative persona for new projects or collaborations."
+      },
+      "case03": {
+        "title": "Content Creators",
+        "description": "YouTubers, streamers, and social media influencers who need a hip-hop inspired username that resonates with their audience."
+      },
+      "case04": {
+        "title": "Music Producers",
+        "description": "Beat makers and producers looking for a distinctive name that stands out in the industry while maintaining hip-hop authenticity."
+      },
+      "case05": {
+        "title": "Gaming Communities",
+        "description": "Gamers seeking unique, hip-hop inspired usernames for their online gaming profiles and streaming channels."
+      },
+      "case06": {
+        "title": "Creative Writers",
+        "description": "Authors and screenwriters developing authentic hip-hop characters who need culturally appropriate names for their stories."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions About Our Rap Name Generator",
+      "q1": {
+        "question": "How does your rap name generator create unique names?",
+        "answer": "Our AI-powered system analyzes your input preferences, combines them with deep learning models trained on hip-hop culture, and generates unique combinations that reflect your style while maintaining authenticity."
+      },
+      "q2": {
+        "question": "Can I get multiple name suggestions?",
+        "answer": "Yes, our rap name generator provides multiple options with each generation, and you can generate new sets of names as many times as you need."
+      },
+      "q3": {
+        "question": "How do I know if my generated rap name is original?",
+        "answer": "While our system includes a basic availability check, we recommend doing additional research to ensure your chosen name isn't already in use by another artist."
+      },
+      "q4": {
+        "question": "Can I customize the style of generated names?",
+        "answer": "Absolutely! Our rap name generator allows you to specify preferred styles, from classic hip-hop to modern trap, ensuring your name matches your artistic direction."
+      },
+      "q5": {
+        "question": "Is the rap name generator free to use?",
+        "answer": "We offer both free and premium tiers, with the free version providing basic name generation and the premium version including additional features like detailed cultural insights and trademark checks."
+      },
+      "q6": {
+        "question": "How many times can I use the generator?",
+        "answer": "Free users can generate several names daily, while premium users have unlimited access to our rap name generator and additional features."
+      },
+      "q7": {
+        "question": "Can I save my favorite generated names?",
+        "answer": "Premium users can save and organize their favorite generated names in a personal collection for future reference."
+      },
+      "q8": {
+        "question": "Do you provide meaning explanations for generated names?",
+        "answer": "Yes, each name comes with an explanation of its potential meaning and cultural significance in the hip-hop context."
+      }
+    },
+    "cta": {
+      "text": "Ready to Create Your Unique Hip-Hop Identity?",
+      "subtext": "Join thousands of artists who've found their perfect rap name using our AI-powered generator.",
+      "button": "Generate Your Rap Name Now"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Save Time and Energy",
+        "description": "Instead of spending weeks brainstorming, let our rap name generator create perfect options in seconds."
+      },
+      "item02": {
+        "title": "Cultural Authenticity",
+        "description": "Get names that respect and reflect hip-hop culture while maintaining your unique artistic vision."
+      },
+      "item03": {
+        "title": "Stand Out from the Crowd",
+        "description": "Generate unique, memorable names that help you build a distinctive brand in the hip-hop community."
+      },
+      "item04": {
+        "title": "Future-Proof Your Brand",
+        "description": "Choose from names that are both culturally relevant and have lasting potential in the evolving hip-hop landscape."
+      }
+    }
+  },
+  "ai-melody-generator": {
+    "meta-title": "AI Melody Generator | Muzix",
+    "meta-description": "Experience the future of music creation with our advanced AI melody generator. Create unique, royalty-free melodies instantly from text descriptions. Perfect for content creators, musicians, and developers.",
+    "heroSection": {
+      "h1": "AI Melody Generator",
+      "description": "AI melody generator understands musical elements, chord progressions, and emotional undertones to craft the perfect melody for your project in minutes.",
+      "button": "Create Your Melody",
+      "clear-button": "Clear",
+      "ai-music-generator": "AI Music Generator",
+      "description-label": "Description of Melody",
+      "description-tooltip": "Enter a few words to describe the melody you desire.",
+      "description-placeholder": "Enter a few words to describe the melody you desire.",
+      "generated-melody": "Generated Melody",
+      "generating": "Generating"
+    },
+    "features": {
+      "title": "Revolutionary Music Creation Features",
+      "description": "Our AI melody generator combines advanced natural language processing with deep musical understanding to transform your ideas into professional compositions.",
+      "items": [
+        {
+          "title": "Intelligent Text Analysis",
+          "description": "Our sophisticated AI melody generator processes natural language input to understand mood, tempo, style, and musical structure. The system recognizes specific musical terms like 'adagio,' 'crescendo,' and 'minor key' while also understanding descriptive language like 'uplifting,' 'melancholic,' or 'energetic,' ensuring your musical vision is accurately translated."
+        },
+        {
+          "title": "Real-time Generation Engine",
+          "description": "Powered by state-of-the-art neural networks, our AI melody generator creates complete musical phrases in under two minutes. The system analyzes your input, generates multiple melodic variations, and selects the best match for your description, all while maintaining musical coherence and emotional resonance."
+        },
+        {
+          "title": "Advanced Music Theory Integration",
+          "description": "The AI melody generator incorporates comprehensive music theory principles, including complex chord progressions, rhythmic patterns, and melodic structures. It understands key signatures, time signatures, and scale modes, ensuring technically sound compositions that follow established musical rules while maintaining creativity."
+        },
+        {
+          "title": "Multi-Format Export System",
+          "description": "Export your AI-generated melodies in multiple professional formats including MIDI, WAV, and MP3. Our AI melody generator creates files compatible with major Digital Audio Workstations (DAWs) like Ableton, FL Studio, and Logic Pro, enabling seamless integration into your production workflow."
+        },
+        {
+          "title": "Style Transfer Technology",
+          "description": "Our AI melody generator features advanced style transfer capabilities, allowing you to specify genre combinations and unique stylistic elements. Blend classical with electronic, jazz with pop, or create entirely new fusion styles while maintaining musical coherence and professional quality."
+        },
+        {
+          "title": "Customizable Parameters",
+          "description": "Fine-tune your generated melodies with adjustable parameters including tempo, key signature, melodic complexity, and rhythmic density. The AI melody generator provides both basic and advanced controls to ensure your music matches your exact specifications."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Generate Professional Melodies in Four Simple Steps",
+      "description": "Our streamlined process makes creating custom melodies effortless and intuitive, powered by sophisticated AI technology working behind the scenes.",
+      "steps": {
+        "step1": {
+          "title": "Describe Your Melody",
+          "description": "Enter a detailed description of your desired melody using natural language. Our AI melody generator understands both musical terminology and emotional descriptions, allowing you to specify elements like tempo, mood, instrument types, and structural preferences."
+        },
+        "step2": {
+          "title": "Advanced AI Processing",
+          "description": "Our neural networks analyze your input using natural language processing and musical pattern recognition. The AI melody generator converts your description into musical parameters, considering theory rules, emotional context, and stylistic elements."
+        },
+        "step3": {
+          "title": "Intelligent Composition",
+          "description": "The AI melody generator creates multiple melodic variations based on your specifications, applying advanced music theory principles and creative algorithms to ensure originality and quality. Each melody undergoes harmonic and rhythmic analysis for optimal musical coherence."
+        },
+        "step4": {
+          "title": "Review and Export",
+          "description": "Preview your generated melody instantly in your browser. Once satisfied, download your composition in your preferred format, ready for immediate use in your projects. Each melody comes with full commercial usage rights."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Endless Creative Possibilities",
+      "description": "Discover how our AI melody generator revolutionizes music creation across different industries and applications.",
+      "case01": {
+        "title": "Video Content Creation",
+        "description": "Create custom background music for YouTube videos, social media content, and promotional materials. Our AI melody generator produces unique, royalty-free melodies that perfectly match your content's mood and timing, enhancing viewer engagement while avoiding copyright issues."
+      },
+      "case02": {
+        "title": "Game Sound Design",
+        "description": "Generate dynamic background music and event-specific melodies for gaming applications. The AI melody generator can create variations of themes for different game states, levels, or character interactions, providing rich, adaptive musical experiences."
+      },
+      "case03": {
+        "title": "Music Production",
+        "description": "Break through creative blocks and explore new musical ideas efficiently. Our AI melody generator helps composers and producers quickly generate melodic inspiration, chord progressions, and musical motifs that can be further developed into complete compositions."
+      },
+      "case04": {
+        "title": "Commercial Production",
+        "description": "Design unique jingles and advertising music that captures your brand's essence. The AI melody generator creates memorable, original melodies for commercials, product launches, and brand identity, significantly reducing production time and costs."
+      },
+      "case05": {
+        "title": "Film Scoring",
+        "description": "Generate custom themes and background music for scenes, transitions, and emotional moments in film projects. Our AI melody generator understands dramatic timing and emotional progression, creating scores that enhance storytelling."
+      },
+      "case06": {
+        "title": "Mobile Applications",
+        "description": "Develop unique sound identities for mobile apps and games. The AI melody generator creates distinctive audio branding elements, notification sounds, and interactive music that enhances user experience while maintaining app performance."
+      }
+    },
+    "faqs": {
+      "title": "Comprehensive Guide to AI Music Creation",
+      "q1": {
+        "question": "How does the AI melody generator ensure original and unique compositions?",
+        "answer": "Our AI melody generator employs advanced neural networks trained on diverse musical datasets while implementing originality algorithms. Each generation creates unique combinations of melodic patterns, rhythmic structures, and harmonic progressions. The system continuously verifies the uniqueness of each composition against its database, ensuring original results every time."
+      },
+      "q2": {
+        "question": "What is the pricing structure for melody generation?",
+        "answer": "We offer highly competitive pricing at $0.01 to $0.025 per melody generation, making professional music creation accessible to creators of all budgets. This includes full commercial rights to use the generated melodies in your projects, with no recurring royalties or hidden fees."
+      },
+      "q3": {
+        "question": "How does the commercial licensing work for generated melodies?",
+        "answer": "Every melody created through our AI melody generator comes with comprehensive commercial usage rights. You can use the generated music in any commercial project, including monetized videos, games, applications, or promotional content. There are no additional licensing fees or royalty requirements after purchase."
+      },
+      "q4": {
+        "question": "What technical specifications are supported for melody export?",
+        "answer": "Our AI melody generator supports industry-standard export formats including WAV (44.1kHz, 24-bit), MP3 (320kbps), and MIDI. Files are compatible with all major DAWs and media players, ensuring seamless integration into your existing workflow."
+      },
+      "q5": {
+        "question": "Can the AI handle complex musical requirements?",
+        "answer": "The AI melody generator comprehends advanced musical concepts including polyrhythms, modal scales, key modulations, and complex chord progressions. It can generate sophisticated melodic structures while maintaining musicality and coherence, suitable for both simple and complex compositional needs."
+      },
+      "q6": {
+        "question": "What makes your AI melody generator different from competitors?",
+        "answer": "Our system combines cutting-edge AI technology with deep musical understanding, offering unparalleled natural language input processing, rapid generation times, and professional-quality output at highly competitive prices. The focus on user-friendly interaction while maintaining musical sophistication sets our service apart."
+      },
+      "q7": {
+        "question": "How do you ensure the quality of generated melodies?",
+        "answer": "Each melody undergoes multiple quality checks during generation, including harmonic analysis, rhythmic consistency verification, and musical coherence evaluation. Our AI melody generator applies music theory rules and industry standards to ensure professional-grade output every time."
+      },
+      "q8": {
+        "question": "What type of input yields the best results?",
+        "answer": "The most effective inputs combine specific musical requirements with emotional or contextual descriptions. For example, 'Create an uplifting melody in C major at 120 BPM with a focus on string instruments and building intensity' provides clear parameters for the AI melody generator to work with."
+      }
+    },
+    "cta": {
+      "text": "Start Creating Professional Melodies Today",
+      "subtext": "Join thousands of creators using our AI melody generator to bring their musical visions to life instantly. Begin your journey into AI-powered music creation now.",
+      "button": "Generate Your First Melody"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Rapid Creation and Iteration",
+        "description": "Generate and refine professional melodies in minutes instead of hours. Our AI melody generator accelerates your creative process while maintaining high-quality output, enabling quick experimentation and project completion."
+      },
+      "item02": {
+        "title": "Cost-Effective Music Production",
+        "description": "Access professional-quality melody creation at a fraction of traditional music production costs. Our AI melody generator eliminates the need for expensive studio time or licensing fees while delivering commercial-grade results."
+      },
+      "item03": {
+        "title": "Universal Accessibility",
+        "description": "Create professional melodies regardless of your musical background. Our AI melody generator bridges the gap between musical vision and technical expertise, making quality music creation accessible to everyone."
+      },
+      "item04": {
+        "title": "Creative Freedom",
+        "description": "Explore unlimited musical possibilities without creative constraints. Our AI melody generator adapts to any style, genre, or fusion you can imagine, supporting your unique creative vision with technical precision."
+      }
+    }
+  },
+  "music-group-name-generator": {
+    "meta-title": "AI Music Group Names Generator | Create Perfect Music Group Names Instantly",
+    "meta-description": "Transform your musical identity with our advanced AI music group names generator. Get creative, unique, and memorable band names instantly using ChatGPT technology. Try it free today!",
+    "heroSection": {
+      "h1": "AI Music Group Names Generator",
+      "description": "Unleash creativity with our innovative music group names generator powered by ChatGPT.",
+      "button": "Generate Name",
+      "clear-button": "Start Fresh",
+      "ai-music-generator": "AI Music Generator",
+      "name-label": "Name of the Music Group",
+      "name-tooltip": "Enter a few words to describe the name of the music group you desire.",
+      "name-placeholder": "Enter a few words to describe the name of the music group you desire.",
+      "generated-name": "Generated Name"
+    },
+    "features": {
+      "title": "Why Choose Our Music Group Names Generator?",
+      "description": "Our advanced AI-powered music group names generator combines creativity with cutting-edge technology to deliver names that resonate with your musical vision.",
+      "items": [
+        {
+          "title": "AI-Powered Creativity",
+          "description": "Harness the power of ChatGPT to generate unique and creative band names that stand out in today's competitive music industry. Our music group names generator learns from countless successful band names to create options that are both original and memorable."
+        },
+        {
+          "title": "Lightning-Fast Results",
+          "description": "Get instant access to dozens of potential band names within seconds. No more spending hours brainstorming or arguing with bandmates over names - our music group names generator delivers quick, quality suggestions when you need them."
+        },
+        {
+          "title": "Unlimited Possibilities",
+          "description": "Generate as many names as you want until you find the perfect fit. Our AI system never runs out of creative combinations, ensuring fresh and unique suggestions every time you use the music group names generator."
+        },
+        {
+          "title": "Genre-Flexible Naming",
+          "description": "Whether you're starting a metal band, pop group, or classical ensemble, our music group names generator understands different genre conventions and creates appropriate suggestions that match your style."
+        },
+        {
+          "title": "Customizable Options",
+          "description": "Direct the AI with specific keywords, themes, or concepts to generate names that align with your vision. Our music group names generator adapts to your preferences while maintaining creativity."
+        },
+        {
+          "title": "Real-Time Availability Check",
+          "description": "Save time by instantly checking if your chosen name is already taken on major social media platforms, helping you avoid potential branding conflicts down the road."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How Our Music Group Names Generator Works",
+      "description": "Getting the perfect band name is just a few clicks away with our streamlined process.",
+      "steps": {
+        "step1": {
+          "title": "Describe Your Vision",
+          "description": "Enter keywords, themes, or concepts that inspire your musical project. Our music group names generator uses these inputs to understand your creative direction."
+        },
+        "step2": {
+          "title": "AI Generation Process",
+          "description": "Our advanced ChatGPT algorithm analyzes your input and generates multiple unique name options, considering factors like memorability, originality, and relevance to your description."
+        },
+        "step3": {
+          "title": "Review and Select",
+          "description": "Browse through the generated names and select your favorites. Each suggestion comes with insights about its meaning and potential impact on your brand."
+        },
+        "step4": {
+          "title": "Refine and Perfect",
+          "description": "Don't see the perfect name? Simply adjust your input or generate more options. Our music group names generator provides unlimited attempts to find your ideal name."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Perfect for Every Musical Project",
+      "description": "Our music group names generator serves diverse needs across the music industry.",
+      "case01": {
+        "title": "New Band Formation",
+        "description": "Starting a new band? Get inspired with unique name suggestions that capture your musical vision and help you stand out from the crowd."
+      },
+      "case02": {
+        "title": "Solo Artist Projects",
+        "description": "Solo artists can discover creative alter egos or project names that complement their artistic identity using our music group names generator."
+      },
+      "case03": {
+        "title": "Record Labels",
+        "description": "Record label executives can quickly generate potential names for new artist groups or subsidiary labels with our efficient naming tool."
+      },
+      "case04": {
+        "title": "Music Producers",
+        "description": "Producers can create catchy names for production teams or collaborative projects using our versatile music group names generator."
+      },
+      "case05": {
+        "title": "Cover Bands",
+        "description": "Find clever and memorable names for your tribute or cover band that honor your influences while maintaining originality."
+      },
+      "case06": {
+        "title": "Educational Ensembles",
+        "description": "Music teachers and students can name their school bands, orchestras, or musical groups with professional-sounding suggestions."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "How does the music group names generator work?",
+        "answer": "Our generator uses ChatGPT AI technology to analyze your input and create unique band names based on your specifications. It combines creativity with advanced language processing to suggest names that resonate with your vision."
+      },
+      "q2": {
+        "question": "Is the music group names generator free to use?",
+        "answer": "Yes, our basic name generation service is completely free to use. Generate as many names as you need to find the perfect fit for your musical project."
+      },
+      "q3": {
+        "question": "Can I get names for specific music genres?",
+        "answer": "Absolutely! Our music group names generator can create names appropriate for any genre, from rock and pop to classical and jazz. Simply include your genre preferences in the description."
+      },
+      "q4": {
+        "question": "How many name suggestions can I generate?",
+        "answer": "There's no limit to how many names you can generate. Keep using our music group names generator until you find the perfect name for your project."
+      },
+      "q5": {
+        "question": "Are the generated names unique?",
+        "answer": "While our music group names generator creates original suggestions, we recommend doing additional research to ensure your chosen name isn't already in use."
+      },
+      "q6": {
+        "question": "Can I customize the type of names generated?",
+        "answer": "Yes, you can influence the naming direction by providing specific keywords, themes, or concepts in your input description."
+      },
+      "q7": {
+        "question": "How do I know if a generated name is available to use?",
+        "answer": "Our platform includes basic availability checking across major social media platforms, but we recommend conducting thorough trademark searches for your final selection."
+      },
+      "q8": {
+        "question": "Can I save my favorite generated names?",
+        "answer": "Currently, we recommend copying and saving your favorite names externally. We're working on adding a save feature in future updates."
+      }
+    },
+    "cta": {
+      "text": "Ready to Name Your Musical Project?",
+      "subtext": "Join thousands of musicians who've found their perfect name using our music group names generator.",
+      "button": "Generate Names Now"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Save Time and Energy",
+        "description": "Skip lengthy brainstorming sessions and get instant access to creative band name ideas with our efficient music group names generator."
+      },
+      "item02": {
+        "title": "Boost Your Brand Identity",
+        "description": "Stand out in the music industry with a unique, AI-generated name that captures attention and reflects your artistic vision."
+      },
+      "item03": {
+        "title": "Reduce Creative Blocks",
+        "description": "Never get stuck on naming again. Our music group names generator provides endless inspiration for your musical projects."
+      },
+      "item04": {
+        "title": "Future-Proof Your Brand",
+        "description": "Get modern, relevant name suggestions that will help your music group stay contemporary in an evolving industry."
+      }
+    }
+  },
+  "ai-singing-generator": {
+    "meta-title": "AI Singing Generator | Create Custom Music with Ease",
+    "meta-description": "Transform your musical ideas into reality with our AI singing generator. Create custom vocal and instrumental music in any genre.",
+    "heroSection": {
+      "h1": "Free AI Singing Generator",
+      "description": "Turn your creative vision into stunning music with AI singing generator. Whether you need vocals or instrumental tracks, our AI technology brings your musical ideas to life. "
+    },
+    "features": {
+      "title": "Unlock the Power of AI Music Creation",
+      "description": "Our AI singing generator combines cutting-edge technology with intuitive design to make music creation accessible to everyone.",
+      "items": [
+        {
+          "title": "Versatile Style Generation",
+          "description": "From pop to classical, rock to jazz, our AI singing generator adapts to any musical style you desire. Simply describe your vision, and our AI will create the perfect soundtrack that matches your creative direction."
+        },
+        {
+          "title": "Vocal and Instrumental Options",
+          "description": "Choose between AI-generated vocals or pure instrumental tracks. Our advanced AI singing generator creates both compelling vocal performances and rich instrumental arrangements to suit your needs."
+        },
+        {
+          "title": "Simple Text-to-Music Interface",
+          "description": "No musical expertise required. Just describe what you want in plain language, and our AI singing generator transforms your words into professional-quality music."
+        },
+        {
+          "title": "Customizable Genre Settings",
+          "description": "Fine-tune your creation by selecting specific genres or combining multiple styles. Our AI singing generator seamlessly blends different musical elements to create your unique sound."
+        },
+        {
+          "title": "High-Quality Output",
+          "description": "Experience studio-grade sound quality with every generation. Our AI singing generator produces crisp, clear, and professionally mastered tracks ready for your projects."
+        },
+        {
+          "title": "Rapid Generation",
+          "description": "Get your custom music in minutes, not hours. Our efficient AI singing generator delivers quick results without compromising on quality."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Create Your Perfect Track in Four Simple Steps",
+      "description": "Our AI singing generator makes music creation straightforward and enjoyable. Follow these simple steps to bring your musical vision to life.",
+      "steps": {
+        "step1": {
+          "title": "Describe Your Vision",
+          "description": "Tell our AI singing generator about the style, mood, and type of music you want to create. The more detailed your description, the better the results."
+        },
+        "step2": {
+          "title": "Choose Your Format",
+          "description": "Select between vocal or instrumental generation. Our AI singing generator can create both singing performances and instrumental arrangements."
+        },
+        "step3": {
+          "title": "Customize Your Track",
+          "description": "Fine-tune your generation by adjusting genre settings, tempo, and other musical elements to perfect your creation."
+        },
+        "step4": {
+          "title": "Generate and Download",
+          "description": "Let our AI singing generator work its magic, then download your custom track in high-quality audio format."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Endless Possibilities with AI Music Creation",
+      "description": "Discover how our AI singing generator can serve various creative needs across different domains.",
+      "case01": {
+        "title": "Content Creators",
+        "description": "Create unique background music for your videos, podcasts, and social media content without worrying about copyright issues."
+      },
+      "case02": {
+        "title": "Game Developers",
+        "description": "Generate custom soundtracks and background music for your gaming projects with our versatile AI singing generator."
+      },
+      "case03": {
+        "title": "Advertising",
+        "description": "Produce original jingles and commercial background music that perfectly matches your brand's identity."
+      },
+      "case04": {
+        "title": "Personal Projects",
+        "description": "Create custom songs for special occasions, presentations, or personal enjoyment using our AI singing generator."
+      },
+      "case05": {
+        "title": "Education",
+        "description": "Generate educational songs and musical materials to enhance learning experiences and engagement."
+      },
+      "case06": {
+        "title": "Meditation and Wellness",
+        "description": "Create calming instrumental tracks for meditation, yoga sessions, or relaxation purposes."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions about AI Singing Generator",
+      "q1": {
+        "question": "How does the AI singing generator work?",
+        "answer": "Our AI singing generator uses advanced machine learning algorithms to analyze your input and create custom music based on your descriptions. It understands musical patterns, structures, and styles to generate original compositions that match your requirements."
+      },
+      "q2": {
+        "question": "Can I try the AI singing generator before purchasing?",
+        "answer": "Yes! We offer free trial generations so you can experience the power of our AI singing generator firsthand. Visit our pricing page to learn more about our plans and trial options."
+      },
+      "q3": {
+        "question": "What types of music can I create?",
+        "answer": "Our AI singing generator can create almost any style of music, from pop and rock to classical and electronic. You can generate both vocal performances and instrumental tracks."
+      },
+      "q4": {
+        "question": "Do I need musical experience to use the AI singing generator?",
+        "answer": "No musical experience is required. Our AI singing generator is designed to be user-friendly and accessible to everyone, regardless of their musical background."
+      },
+      "q5": {
+        "question": "What is the quality of the generated music?",
+        "answer": "Our AI singing generator produces high-quality, professionally mastered audio files suitable for various applications, from personal use to commercial projects."
+      },
+      "q6": {
+        "question": "Who owns the rights to the generated music?",
+        "answer": "You retain full rights to any music created using our AI singing generator. The tracks are completely original and free from copyright restrictions."
+      },
+      "q7": {
+        "question": "How long does it take to generate a song?",
+        "answer": "Most tracks are generated within minutes, depending on the complexity of your requirements and the length of the desired composition."
+      },
+      "q8": {
+        "question": "Can I edit the generated music?",
+        "answer": "Yes, you can customize various aspects of your generation, including genre, style, and musical elements, to achieve your desired result."
+      }
+    },
+    "cta": {
+      "text": "Ready to Create Your Perfect Track?",
+      "subtext": "Join thousands of creators who are already using our AI singing generator to bring their musical ideas to life.",
+      "button": "Start Creating Now"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Cost-Effective",
+        "description": "Save money on expensive studio sessions and musician fees. Our AI singing generator provides professional-quality music at a fraction of the cost."
+      },
+      "item02": {
+        "title": "Time-Saving",
+        "description": "Generate complete tracks in minutes instead of spending days or weeks on production. Our efficient AI singing generator delivers quick results without compromising quality."
+      },
+      "item03": {
+        "title": "Unlimited Creativity",
+        "description": "Explore endless musical possibilities with our AI singing generator. Create unique compositions across various genres and styles without creative limitations."
+      },
+      "item04": {
+        "title": "Rights-Free Music",
+        "description": "Every track created with our AI singing generator is original and completely yours to use. No need to worry about licensing or copyright issues."
+      }
+    }
+  },
+  "yue-ai-music": {
+    "meta-title": "YuE AI Music Generator",
+    "meta-description": "Create full-length songs from lyrics using advanced AI foundation models",
+    "heroSection": {
+      "h1": "YuE AI Music Generator",
+      "description": "Transform your lyrics into complete songs with vocals and accompaniment using state-of-the-art AI technology",
+      "button": "Generate Music",
+      "clear-button": "Clear",
+      "lyrics-placeholder": "Enter your lyrics here and let YuE create a complete song with vocals and accompaniment.",
+      "ai-lyrics-generator": "AI Music Generator",
+      "lyrics-label": "Lyrics",
+      "lyrics-tooltip": "Enter complete lyrics for best results. YuE can generate up to 5 minutes of music.",
+      "song-title": "Song Title",
+      "song-title-tooltip": "Name your creation for easy sharing.",
+      "song-title-placeholder": "Enter the song title here",
+      "custom": "Custom",
+      "isloading": "Please wait while we generate your song, this may take a few minutes. Or you can check back later in your",
+      "credits-alert": "You have no credits left, please purchase more credits",
+      "lyrics-length-alert": "Lyrics should be at least 200 characters",
+      "title-length-alert": "Song Title should not be empty",
+      "custom-description-alert": "Song description should not be empty!",
+      "song-description": "Song Description",
+      "song-description-tooltip": "Describe the style and mood of the song you want to generate.",
+      "song-description-placeholder": "A pop ballad with emotional vocals"
+    },
+    "features": {
+      "title": "Why Choose YuE AI Music Generator?",
+      "description": "Advanced features that transform your lyrics into complete songs",
+      "items": [
+        {
+          "title": "Full Song Generation",
+          "description": "YuE AI Music Generator can generate complete songs up to 5 minutes long, including both vocals and accompaniment, maintaining coherent musical structure throughout the entire piece."
+        },
+        {
+          "title": "Lyrics-to-Song Technology",
+          "description": "YuE AI Music Generator uses advanced foundation models to ensure your lyrics are perfectly synchronized with the melody while maintaining natural pronunciation and emotional expression in the vocals."
+        },
+        {
+          "title": "Multi-Genre Capability",
+          "description": "YuE AI Music Generator can generate songs in any musical style or genre, with YuE automatically adapting the arrangement and production style to match your desired sound."
+        },
+        {
+          "title": "Dual-Track Generation",
+          "description": "YuE AI Music Generator's unique dual-token technology generates perfectly synchronized vocal and instrumental tracks, creating a professional, balanced mix every time."
+        },
+        {
+          "title": "Semantic Audio Processing",
+          "description": "YuE AI Music Generator's semantically enhanced audio tokenizer ensures high-quality sound generation while maintaining the emotional intent of your lyrics."
+        },
+        {
+          "title": "Progressive Generation",
+          "description": "YuE uses lyrics-chain-of-thoughts technology to progressively generate your song, ensuring consistent quality and coherent structure from start to finish."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How YuE AI Music Generator Works",
+      "description": "Creating complete songs from lyrics has never been easier",
+      "steps": {
+        "step1": {
+          "title": "Choose Your Style",
+          "description": "Select your preferred musical genre, tempo, and mood. YuE adapts its generation to match your desired musical direction."
+        },
+        "step2": {
+          "title": "Input Your Lyrics",
+          "description": "Enter your complete lyrics. YuE AI Music Generator's foundation models will analyze the emotional content and structure to create the perfect musical setting."
+        },
+        "step3": {
+          "title": "Generate & Customize",
+          "description": "YuE AI Music Generator creates a complete song with vocals and accompaniment. Adjust parameters and regenerate until you're satisfied with the result."
+        },
+        "step4": {
+          "title": "Export & Share",
+          "description": "Download your finished song in high-quality audio format, complete with separated vocal and instrumental tracks for further mixing if desired."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Who Can Benefit from YuE AI Music Generator?",
+      "description": "From songwriters to producers, YuE AI Music Generator empowers everyone to create professional-quality songs",
+      "case01": {
+        "title": "Songwriters",
+        "description": "Transform your lyrics into complete songs instantly, exploring different musical styles and arrangements for your words."
+      },
+      "case02": {
+        "title": "Music Producers",
+        "description": "Generate full songs with professional-quality production, complete with vocals and accompaniment tracks ready for further mixing."
+      },
+      "case03": {
+        "title": "Content Creators",
+        "description": "Create original music for your videos, podcasts, or social media content without worrying about licensing or royalties."
+      },
+      "case04": {
+        "title": "Independent Artists",
+        "description": "Quickly prototype songs and explore different arrangements of your lyrics before investing in studio time."
+      },
+      "case05": {
+        "title": "Advertising Agencies",
+        "description": "Generate custom jingles and background music for commercials and campaigns, complete with vocals that perfectly match your message."
+      },
+      "case06": {
+        "title": "Game Developers",
+        "description": "Create original soundtrack music with vocals for your games, adapting the style and mood to match different scenes and situations."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions about YuE AI Music Generator",
+      "q1": {
+        "question": "How long can the generated songs be?",
+        "answer": "YuE AI Music Generator can generate songs up to 4 minutes in length while maintaining coherent musical structure and following your lyrics throughout."
+      },
+      "q2": {
+        "question": "Can I use the generated songs commercially?",
+        "answer": "Yes, you own all rights to the songs created using YuE. Your creations are yours to use however you want, whether for personal projects or commercial releases."
+      },
+      "q3": {
+        "question": "What genres can YuE generate?",
+        "answer": "YuE can generate music in any genre or style. The system adapts to your preferences to create appropriate arrangements and production styles."
+      },
+      "q4": {
+        "question": "Do you offer free generation?",
+        "answer": "Yes, YuE offers free credits for you to try out the system. If you need more, we have multiple plans to choose from."
+      },
+      "q5": {
+        "question": "How quickly does YuE generate songs?",
+        "answer": "Generation time varies depending on song length and complexity, but most songs are completed within a few minutes."
+      },
+      "q6": {
+        "question": "What is YuE AI music generator?",
+        "answer": "YuE is an advanced AI music generator that uses foundation language models to create complete songs from lyrics. It generates both vocals and accompaniment, maintaining coherent musical structure throughout the entire song."
+      },
+      "q7": {
+        "question": "What makes YuE AI Music Generator different from other music generators?",
+        "answer": "YuE uses advanced foundation models and unique technologies like dual-token generation and lyrics-chain-of-thoughts to create complete, coherent songs up to 4 minutes long. Unlike many alternatives, it generates both high-quality vocals and accompaniment that stay true to your lyrics throughout the entire song."
+      },
+      "q8": {
+        "question": "Can I get separate vocal and instrumental tracks?",
+        "answer": "Yes, YuE generates separate vocal and instrumental tracks that you can download individually for further mixing and customization."
+      }
+    },
+    "cta": {
+      "text": "Create Your Complete Song Today",
+      "subtext": "Join the future of music creation. YuE gives you the power to transform your lyrics into professional-quality songs in minutes.",
+      "button": "Start Creating Music"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Professional-Quality Results",
+        "description": "YuE generates studio-quality music with natural-sounding vocals and professional arrangements, regardless of your musical experience."
+      },
+      "item02": {
+        "title": "Complete Creative Control",
+        "description": "From genre to mood, customize every aspect of your song while letting YuE AI Music Generator handle the technical complexities of music production."
+      },
+      "item03": {
+        "title": "Preserve Your artistic Vision",
+        "description": "YuE AI Music Generator understands and maintains the emotional content of your lyrics, creating musical settings that enhance and support your message."
+      },
+      "item04": {
+        "title": "Streamlined Production Process",
+        "description": "Go from lyrics to complete song in minutes, with both vocal and instrumental tracks ready for immediate use or further customization."
+      }
+    }
+  },
+  "diff-rhythm": {
+    "meta-title": "DiffRhythm AI Music Generator",
+    "meta-description": "Generate full-length songs instantly with DiffRhythm AI Music Generator, powered by blazingly fast latent diffusion technology.",
+    "heroSection": {
+      "h1": "DiffRhythm AI Music Generator",
+      "description": "Create complete songs in seconds with DiffRhythm AI Music Generator, harnessing simple, fast, and cutting-edge AI to bring your musical ideas to life.",
+      "button": "Generate Music",
+      "clear-button": "Clear",
+      "lyrics-placeholder": "Enter a prompt DiffRhythm AI Music Generator will craft a full song with seamless structure and sound.",
+      "ai-lyrics-generator": "AI Music Generator",
+      "lyrics-label": "Prompt",
+      "lyrics-tooltip": "Provide a short prompt or idea for best results. DiffRhythm AI Music Generator can create songs up to 6 minutes long.",
+      "song-title": "Song Title",
+      "song-title-tooltip": "Give your song a name for easy identification and sharing.",
+      "song-title-placeholder": "Enter your song title here",
+      "custom": "Custom",
+      "isloading": "Please wait while DiffRhythm AI Music Generator creates your song—it's blazingly fast, but perfection takes a moment!",
+      "credits-alert": "You've run out of credits; grab more to keep using DiffRhythm AI Music Generator.",
+      "lyrics-length-alert": "Prompt should be at least 50 characters for DiffRhythm AI Music Generator to work its magic.",
+      "title-length-alert": "Song Title cannot be empty—give your creation a name!",
+      "custom-description-alert": "Song description must be filled out for custom settings.",
+      "song-description": "Song Description",
+      "song-description-tooltip": "Tell DiffRhythm AI Music Generator the style, mood, or vibe you're aiming for.",
+      "song-description-placeholder": "A fast-paced rock anthem with epic energy"
+    },
+    "features": {
+      "title": "Why Choose DiffRhythm AI Music Generator?",
+      "description": "Discover the standout features that make DiffRhythm AI Music Generator the fastest way to create full songs.",
+      "items": [
+        {
+          "title": "Lightning-Fast Song Creation",
+          "description": "DiffRhythm AI Music Generator delivers complete songs in seconds, leveraging latent diffusion to optimize speed without sacrificing quality across the entire track."
+        },
+        {
+          "title": "Full-Length Song Output",
+          "description": "Unlike other tools, DiffRhythm AI Music Generator produces songs up to 6 minutes long, with coherent structure and flow from start to finish."
+        },
+        {
+          "title": "Embarrassingly Simple Design",
+          "description": "DiffRhythm AI Music Generator strips away complexity, offering an intuitive experience that anyone can use to generate professional-quality music effortlessly."
+        },
+        {
+          "title": "Open-Source Power",
+          "description": "Built on open-source innovation, DiffRhythm AI Music Generator invites community input and customization, making it a tool by creators, for creators."
+        },
+        {
+          "title": "High-Quality Audio",
+          "description": "DiffRhythm AI Music Generator uses advanced latent diffusion techniques to ensure crisp, balanced sound, delivering tracks that rival studio productions."
+        },
+        {
+          "title": "Versatile Style Adaptation",
+          "description": "From rock to ambient, DiffRhythm AI Music Generator adapts to your desired style, crafting songs that match your creative vision with minimal input."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How DiffRhythm AI Music Generator Works",
+      "description": "Making music has never been faster or simpler with DiffRhythm AI Music Generator.",
+      "steps": {
+        "step1": {
+          "title": "Set Your Vision",
+          "description": "Input a prompt or description to guide DiffRhythm AI Music Generator toward your preferred style and mood."
+        },
+        "step2": {
+          "title": "Generate Instantly",
+          "description": "Hit the button, and DiffRhythm AI Music Generator uses latent diffusion to create a full-length song in seconds."
+        },
+        "step3": {
+          "title": "Refine & Repeat",
+          "description": "Listen to your song and tweak the prompt if needed—DiffRhythm AI Music Generator makes iteration quick and easy."
+        },
+        "step4": {
+          "title": "Download & Use",
+          "description": "Export your high-quality song from DiffRhythm AI Music Generator, ready for sharing or further production."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Who Can Benefit from DiffRhythm AI Music Generator?",
+      "description": "DiffRhythm AI Music Generator empowers creators of all kinds to produce music effortlessly.",
+      "case01": {
+        "title": "Musicians",
+        "description": "Quickly generate full songs with DiffRhythm AI Music Generator to test ideas or build a portfolio without studio time."
+      },
+      "case02": {
+        "title": "Content Creators",
+        "description": "Use DiffRhythm AI Music Generator to create original background tracks for videos, streams, or podcasts in seconds."
+      },
+      "case03": {
+        "title": "Game Developers",
+        "description": "Craft immersive soundtracks fast with DiffRhythm AI Music Generator, tailored to your game's atmosphere."
+      },
+      "case04": {
+        "title": "Hobbyists",
+        "description": "Explore music creation with no experience needed—DiffRhythm AI Music Generator makes it simple and fun."
+      },
+      "case05": {
+        "title": "Event Planners",
+        "description": "Generate custom music for events or promotions using DiffRhythm AI Music Generator's fast, adaptable system."
+      },
+      "case06": {
+        "title": "Educators",
+        "description": "Teach music or AI concepts with DiffRhythm AI Music Generator, an open-source tool that's easy to demo and explore."
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions about DiffRhythm AI Music Generator",
+      "q1": {
+        "question": "How long can songs from DiffRhythm AI Music Generator be?",
+        "answer": "DiffRhythm AI Music Generator can create songs up to 6 minutes long, with consistent quality throughout the entire piece."
+      },
+      "q2": {
+        "question": "Can I use DiffRhythm AI Music Generator songs commercially?",
+        "answer": "Check the open-source license terms, but songs from DiffRhythm AI Music Generator are typically free for personal use; commercial rights may depend on your service setup."
+      },
+      "q3": {
+        "question": "What styles can DiffRhythm AI Music Generator handle?",
+        "answer": "DiffRhythm AI Music Generator adapts to any style you describe, from classical to electronic, based on your prompt."
+      },
+      "q4": {
+        "question": "Is DiffRhythm AI Music Generator free?",
+        "answer": "The core tech is open-source, and our service offers a free tier to try DiffRhythm AI Music Generator, with premium options available."
+      },
+      "q5": {
+        "question": "How fast is DiffRhythm AI Music Generator?",
+        "answer": "Thanks to latent diffusion, DiffRhythm AI Music Generator generates full songs in seconds, not minutes."
+      },
+      "q6": {
+        "question": "What is DiffRhythm AI Music Generator?",
+        "answer": "DiffRhythm AI Music Generator is a blazingly fast, open-source tool that uses latent diffusion to create full-length songs with minimal input, delivering high-quality audio effortlessly."
+      },
+      "q7": {
+        "question": "What makes DiffRhythm AI Music Generator different?",
+        "answer": "Its speed, simplicity, and ability to generate complete songs set DiffRhythm AI Music Generator apart, powered by an embarrassingly simple latent diffusion approach."
+      },
+      "q8": {
+        "question": "Can I get separate tracks from DiffRhythm AI Music Generator?",
+        "answer": "Currently, DiffRhythm AI Music Generator outputs a single mixed track, but future updates may include separated vocals and instrumentals."
+      }
+    },
+    "cta": {
+      "text": "Create Your Song Now with DiffRhythm AI Music Generator",
+      "subtext": "Experience the fastest way to make music. DiffRhythm AI Music Generator turns your ideas into full songs instantly.",
+      "button": "Start Generating Now"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Blazing Speed",
+        "description": "DiffRhythm AI Music Generator creates full songs in seconds, making music production faster than ever before."
+      },
+      "item02": {
+        "title": "Effortless Creativity",
+        "description": "With DiffRhythm AI Music Generator, anyone can generate professional tracks without technical know-how."
+      },
+      "item03": {
+        "title": "Full Song Mastery",
+        "description": "DiffRhythm AI Music Generator delivers complete, structured songs, not just loops, preserving your creative intent."
+      },
+      "item04": {
+        "title": "Open-Source Flexibility",
+        "description": "Built on open-source tech, DiffRhythm AI Music Generator lets you tweak and tailor it to your needs."
+      }
+    }
+  },
+  "banner": {
+    "banner-description": "Due to misusage, free trial disabled. Subscribe to access features.",
+    "banner-button": "Subscribe",
+    "banner-subscribe": "Please subscribe to enjoy ad-free."
+  },
+  "Accounts": {
+    "title": "Social Media Accounts",
+    "description": "Connect and manage your social media accounts for scheduling posts",
+    "connectedAccounts": "Connected Accounts",
+    "platformId": "Account ID",
+    "disconnect": "Disconnect",
+    "connectTikTok": "Connect TikTok",
+    "noAccountsTitle": "No Accounts Connected",
+    "noAccountsDescription": "Connect your social media accounts to start scheduling posts",
+    "connectAccountsPrompt": "Connect your TikTok account to start scheduling and publishing content directly from our platform.",
+    "fetchError": "Failed to fetch accounts",
+    "disconnectError": "Failed to disconnect account",
+    "disconnectSuccess": "Account disconnected successfully",
+    "connectError": "Failed to connect account",
+    "connectSuccess": "Account connected successfully",
+    "connectingAccount": "Connecting TikTok Account",
+    "connectingAccountDescription": "Please wait while we connect your TikTok account"
+  }
+}

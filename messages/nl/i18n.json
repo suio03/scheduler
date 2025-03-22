@@ -1,0 +1,2175 @@
+{
+  "metaData": {
+    "title": "Gratis AI Muziekgenerator Online | Muzix",
+    "description": "Verander tekst in muziek met onze AI-muziekgenerator. Creëer aangepaste nummers en instrumentale tracks in enkele minuten, geen muzikale ervaring nodig. Probeer nu onze AI-nummergenerator!",
+    "keywords": [
+      "ai muziekgenerator",
+      "ai nummergenerator",
+      "tekst naar muziek",
+      "ai componist",
+      "muziekcreatietool"
+    ]
+  },
+  "heroSection": {
+    "h1": "Gratis AI Muziekgenerator Online",
+    "subheadline": "Verander je woorden in nummers met onze geavanceerde AI-muziekgenerator - geen muzikale ervaring vereist",
+    "pricing": {
+      "h1": "AI Muziekgenerator Prijzen",
+      "subheadline": "Kies het plan dat het beste bij uw behoeften past."
+    }
+  },
+  "keyFeatures": {
+    "title": "Verander Tekst Direct in Muziek",
+    "description": "Onze AI-muziekgenerator creëert unieke tracks in enkele minuten met behulp van state-of-the-art technologie",
+    "features": [
+      {
+        "title": "Razendsnelle Generatie",
+        "description": "Onze AI-muziekgenerator creëert unieke tracks in enkele minuten met behulp van state-of-the-art technologie"
+      },
+      {
+        "title": "Onbeperkte Downloads",
+        "description": "Download zoveel AI-gegenereerde nummers als je nodig hebt met ons premium plan"
+      },
+      {
+        "title": "Aangepaste Muziekstijlen",
+        "description": "Genereer muziek in elk genre - van akoestische pop tot elektronische dancemuziek"
+      },
+      {
+        "title": "Veelzijdige Creatiemogelijkheden",
+        "description": "Creëer zowel lyrische nummers als instrumentale tracks met onze AI-nummergenerator"
+      },
+      {
+        "title": "Hoge Kwaliteit Output",
+        "description": "Professionele audio geschikt voor commercieel gebruik"
+      },
+      {
+        "title": "Gebruiksvriendelijke Interface",
+        "description": "Eenvoudig drietraps proces om je perfecte track te genereren"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Hoe Muziek te Creëren met Onze AI Muziekgenerator",
+    "steps": {
+      "step1": {
+        "title": "Voer Uw Input In",
+        "description": "Begin uw AI-muziekgeneratie reis door teksten in te voeren (8 regels aanbevolen) of door de instrumentale modus te kiezen",
+        "tip": "Meer gedetailleerde teksten helpen onze AI-muziekgenerator om beter passende composities te creëren"
+      },
+      "step2": {
+        "title": "Selecteer Uw Stijl",
+        "description": "Onze AI-muziekgenerator ondersteunt meerdere genres - kies uw favoriete stijl en beschrijf het geluid dat u zich voorstelt",
+        "tip": "Hoe specifieker u bent over stemming en stijl, hoe beter onze AI uw visie begrijpt"
+      },
+      "step3": {
+        "title": "Genereer & Download",
+        "description": "Laat onze AI-muziekgenerator zijn magie doen - klik op genereren en download uw unieke aangepaste track",
+        "tip": "Experimenteer met verschillende stijlen met dezelfde teksten om verschillende AI-gegenereerde interpretaties te verkennen"
+      },
+      "step4": {
+        "title": "Creëer Instrumentale Muziek",
+        "description": "Wilt u muziek zonder zang? Onze AI-muziekgenerator blinkt uit in het creëren van instrumentale tracks - selecteer gewoon de instrumentale optie om uw perfecte begeleidingstrack te genereren",
+        "tip": "Experimenteer met verschillende stijlen met dezelfde teksten om verschillende AI-gegenereerde interpretaties te verkennen"
+      },
+      "step5": {
+        "title": "Deel Uw Creatie",
+        "description": "Uw AI-gegenereerde muziek is klaar om te delen! Download en deel uw unieke AI-muziekgeneratorcreatie met vrienden, familie of gebruik het in uw creatieve projecten",
+        "tip": "Experimenteer met verschillende stijlen met dezelfde teksten om verschillende AI-gegenereerde interpretaties te verkennen"
+      }
+    }
+  },
+  "faq": {
+    "ai-music-generator": {
+      "title": "Veelgestelde Vragen over AI Muziekgenerator",
+      "q1": {
+        "question": "Wat is een AI Muziekgenerator?",
+        "answer": "Een AI Muziekgenerator is een innovatieve tool, aangedreven door kunstmatige intelligentie, die uw ideeën omvormt tot complete muziektracks. Onze AI Muziekgenerator creëert unieke composities in enkele minuten, waardoor muziekcreatie toegankelijk wordt voor iedereen - geen muzikale expertise vereist. Of u nu een content creator, filmmaker of muziekliefhebber bent, onze AI Muziekgenerator helpt uw muzikale visie tot leven te brengen."
+      },
+      "q2": {
+        "question": "Hoe creëert onze AI Muziekgenerator muziek?",
+        "answer": "Onze AI Muziekgenerator combineert geavanceerde kunstmatige intelligentie met deep learning-technologie om muziek te begrijpen en te creëren vanuit uw input. Het proces is eenvoudig: voer uw gewenste teksten of muzikale voorkeuren in, selecteer uw favoriete genre en stijl, en kijk hoe onze AI Muziekgenerator een unieke track creëert die is afgestemd op uw specificaties. De technologie analyseert talloze muzikale patronen om ervoor te zorgen dat elke gegenereerde track voldoet aan professionele kwaliteitsnormen."
+      },
+      "q3": {
+        "question": "Wat kan ik creëren met een AI Muziekgenerator?",
+        "answer": "Onze AI Muziekgenerator is veelzijdig genoeg om aan meerdere creatieve behoeften te voldoen. Content creators gebruiken het om aangepaste achtergrondmuziek te genereren voor video's, podcasts en presentaties. Muzikanten benutten de AI Muziekgenerator om nieuwe muzikale ideeën en stijlen te verkennen. Of u nu originele tracks nodig hebt voor sociale media-inhoud, gamingstreams of persoonlijke projecten, onze AI Muziekgenerator kan de perfecte soundtrack produceren."
+      },
+      "q4": {
+        "question": "Is uw AI Muziekgenerator gratis te gebruiken?",
+        "answer": "We bieden een gratis startersplan waarmee u de mogelijkheden van onze AI Muziekgenerator kunt ervaren met een beperkt aantal generaties. Voor onbeperkte toegang tot alle functies van onze AI Muziekgenerator, inclusief outputs van hogere kwaliteit en meer stijl opties, overweeg dan een upgrade naar een van onze premium plannen."
+      },
+      "q5": {
+        "question": "Kan ik tracks van uw AI Muziekgenerator commercieel gebruiken?",
+        "answer": "Ja! Premium gebruikers van onze AI Muziekgenerator ontvangen volledige commerciële rechten op hun gegenereerde tracks. Zodra u een upgrade naar een premium plan uitvoert, kan elke muziek die met onze AI Muziekgenerator is gemaakt, worden gebruikt in uw commerciële projecten, waarbij de volledige eigendomsrechten aan u worden overgedragen."
+      },
+      "q6": {
+        "question": "Hoe snel werkt uw AI Muziekgenerator?",
+        "answer": "Snelheid is een van de belangrijkste voordelen van onze AI Muziekgenerator. De meeste tracks worden binnen enkele minuten gegenereerd, hoewel de generatietijd kan variëren afhankelijk van de complexiteit van de track en de huidige systeembelasting. Onze AI Muziekgenerator geeft prioriteit aan kwaliteit terwijl efficiënte verwerkingstijden worden gehandhaafd."
+      },
+      "q7": {
+        "question": "Welke aanpassingsopties biedt uw AI Muziekgenerator?",
+        "answer": "Onze AI Muziekgenerator biedt uitgebreide aanpassingsopties. Naast het creëren van de muziek zelf, kunt u titels, beschrijvingen en tags toevoegen om uw gegenereerde tracks te organiseren. Met de AI Muziekgenerator kunt u uw creaties ook verfijnen met stijlaanpassingen en genre specificaties om het gewenste geluid te bereiken."
+      },
+      "q8": {
+        "question": "Kan uw AI Muziekgenerator instrumentale tracks creëren?",
+        "answer": "Absoluut! Onze AI Muziekgenerator blinkt uit in het creëren van instrumentale composities. Selecteer gewoon de instrumentale optie in onze AI Muziekgenerator interface, specificeer uw gewenste stijl en stemming, en genereer instrumentale tracks van professionele kwaliteit die perfect zijn voor elk project."
+      },
+      "q9": {
+        "question": "Hoe werken credits in uw AI Muziekgenerator?",
+        "answer": "Credits zijn de valuta van ons AI Muziekgenerator systeem. Elk plan bevat een specifiek aantal credits dat u kunt gebruiken om muziektracks te genereren. Bij het gebruik van onze AI Muziekgenerator is één credit meestal gelijk aan één muziekgeneratie."
+      }
+    },
+    "pricing": {
+      "h1": "AI Muziekgenerator Prijzen",
+      "description": "Veelgestelde vragen over AI Muziekgenerator prijzen",
+      "subheadline": "Kies het plan dat het beste bij uw behoeften past",
+      "q1": {
+        "question": "Hoe werken de credits?",
+        "answer": "Credits zijn de valuta van ons AI Muziekgenerator systeem. Elk plan bevat een specifiek aantal credits dat u kunt gebruiken om muziektracks te genereren. Bij het gebruik van onze AI Muziekgenerator is één credit meestal gelijk aan één muziekgeneratie."
+      },
+      "q2": {
+        "question": "Kan ik de AI Muziekgenerator gebruiken voor commerciële doeleinden?",
+        "answer": "Ja! Premium gebruikers van onze AI Muziekgenerator ontvangen volledige commerciële rechten op hun gegenereerde tracks. Zodra u een upgrade naar een premium plan uitvoert, kan elke muziek die met onze AI Muziekgenerator is gemaakt, worden gebruikt in uw commerciële projecten, waarbij de volledige eigendomsrechten aan u worden overgedragen."
+      },
+      "q3": {
+        "question": "Kan ik wisselen tussen plannen?",
+        "answer": "Ja! Alleen upgrade naar Premium plan om te genieten van onbeperkte credits, we bieden momenteel geen downgrade plannen aan."
+      },
+      "q4": {
+        "question": "Hoe werken de abonnementen?",
+        "answer": "Onze abonnementen zijn ontworpen om u de best mogelijke ervaring te bieden. U kunt een plan kiezen dat aan uw behoeften voldoet, en wij regelen de rest. Onze plannen zijn flexibel, zodat u altijd kunt upgraden of downgraden indien nodig."
+      },
+      "q5": {
+        "question": "Hoe annuleer ik mijn abonnement?",
+        "answer": "U kunt uw abonnement op elk moment annuleren en de rest van uw credits binnen het huidige plan gebruiken."
+      },
+      "q6": {
+        "question": "Kan ik een terugbetaling krijgen?",
+        "answer": "We bieden momenteel geen terugbetalingen aan, maar u kunt uw abonnement op elk moment annuleren en de rest van uw credits binnen het huidige plan gebruiken."
+      },
+      "q7": {
+        "question": "Hoe upgrade ik naar een premium plan?",
+        "answer": "U kunt upgraden naar een premium plan door op de knop 'Upgraden' te klikken op onze prijspagina. Zodra u de betaling heeft gedaan, worden uw credits aan uw account toegevoegd en kunt u onmiddellijk onze AI Muziekgenerator gaan gebruiken."
+      }
+    }
+  },
+  "callToAction": {
+    "text": "Begin Nu met het Creëren van Muziek",
+    "button": "Probeer AI Muziekgenerator",
+    "subtext": "Ervaar het ritme van de toekomst"
+  },
+  "ai-music-generator": {
+    "title": "AI Muziekgenerator",
+    "description": "Creëer unieke muziek met de AI muziekgenerator, te gebruiken voor persoonlijke en commerciële doeleinden.",
+    "button": "Genereer Nummer",
+    "clear-button": "Wissen",
+    "seo-title": "Gratis AI Muziekgenerator",
+    "seo-description": "Genereer gratis AI-muziek met de AI muziekgenerator. Creëer onbeperkte muziektracks en gebruik ze overal.",
+    "credits": "Aantal credits",
+    "free-credits": "Aantal gratis credits",
+    "lyrics": "AI Tekstgenerator",
+    "lyrics-placeholder": "Voer hier de tekst in en klik op de knop genereren om een nummer te creëren.",
+    "lyrics-label": "Tekst",
+    "lyrics-tooltip": "Gebruik twee coupletten (8 regels) voor de beste resultaten.",
+    "ask-login1": "Log in om te genieten van",
+    "ask-login2": "gratis credits",
+    "music-style": "Muziekstijl",
+    "music-style-tooltip": "Beschrijf de stijl van muziek die je wilt (bijv. 'akoestische pop'). De modellen herkennen geen namen van artiesten, maar begrijpen wel genres en vibes.",
+    "music-style-placeholder": "Voer hier de muziekstijl in",
+    "song-title": "Titel Nummer",
+    "song-title-tooltip": "Geef het nummer een titel om te delen.",
+    "song-title-placeholder": "Voer hier de titel van het nummer in",
+    "custom": "Aangepast",
+    "instrumental": "Instrumentaal",
+    "instrumental-tooltip": "Muziek zonder tekst",
+    "isloading": "Wacht even terwijl we uw nummer genereren, dit kan een paar minuten duren. Of u kunt later terugkijken in uw",
+    "library": "Muziekbibliotheek",
+    "credits-alert": "Je hebt geen credits meer over, koop meer credits",
+    "lyrics-length-alert": "Teksten moeten minimaal 200 tekens lang zijn",
+    "style-length-alert": "Muziekstijl mag niet leeg zijn",
+    "title-length-alert": "Titel nummer mag niet leeg zijn",
+    "custom-description-alert": "Beschrijving nummer mag niet leeg zijn!",
+    "custom-instrumental-style-length-alert": "Muziekstijl mag niet leeg zijn",
+    "custom-instrumental-title-length-alert": "Titel nummer mag niet leeg zijn",
+    "song-description": "Beschrijving Nummer",
+    "song-description-tooltip": "Beschrijf het nummer dat je wilt genereren.",
+    "song-description-placeholder": "Een futuristisch popsnummer over liefde",
+    "violence-alert": "Voeg geen namen van artiesten of gewelddadige, seksuele of aanstootgevende inhoud toe aan uw tekst of titel. Anders kan uw nummer worden afgewezen.",
+    "upgrade-alert": "Upgrade naar Premium om meer functies te ontgrendelen en te genieten van een advertentievrije ervaring."
+  },
+  "signin": {
+    "home": "Home",
+    "signin": "Aanmelden bij Muzix",
+    "signup": "Aanmelden met Google"
+  },
+  "header": {
+    "tools": {
+      "title": "AI-hulpmiddelen",
+      "music": "AI Muziekgenerator",
+      "music-description": "Creëer unieke muziek met AI-ondersteuning",
+      "lyrics": "AI Tekstgenerator",
+      "lyrics-description": "Genereer creatieve teksten voor je nummers",
+      "rap": "AI Rap-generator",
+      "rap-description": "Genereer eenvoudig rapnummers",
+      "band-name": "Bandnaamgenerator",
+      "band-name-description": "Gratis online bandnaamgenerator",
+      "christmas": "Instrumentale kerstmuziek",
+      "christmas-description": "Geef uw vakantieprojecten een boost met betoverende instrumentale kerstmuziek",
+      "instrumental": "AI instrumentale generator",
+      "instrumental-description": "Genereer op uw gemak instrumentale muziek.",
+      "rap-lyrics-generator": "Rap-lyriekgenerator",
+      "rap-lyrics-description": "Creëer direct unieke rapnummers",
+      "rap-name-generator": "Rap-naamgenerator",
+      "melody": "AI melodiegenerator",
+      "melody-description": "Creëer unieke melodieën op basis van eenvoudige tekstbeschrijvingen",
+      "rap-name-generator-description": "Creëer eenvoudig een idee-rapnaam",
+      "music-group-name-generator": "Generator voor muziekgroepnamen",
+      "music-group-name-generator-description": "Creëer direct perfecte muziekgroepnamen",
+      "singing": "AI-zanggenerator",
+      "singing-description": "Transformeer uw muzikale ideeën in werkelijkheid met onze AI-zanggenerator.",
+      "yue-ai-music": "Yue ai muziek",
+      "yue-ai-music-description": "Maak nummers van volledige lengte uit teksten met Yue Ai Music Generator",
+      "diff-rhythm": "Diffritm ai muziekgenerator",
+      "diff-rhythm-description": "Genereer nummers van volledige lengte direct met diffritm AI Music Generator"
+    },
+    "discover": "Ontdek",
+    "pricing": "Prijzen",
+    "library": "Mijn Muziek",
+    "billing": "Facturering",
+    "logout": "Uitloggen",
+    "signin": "Aanmelden",
+    "free": {
+      "title": "Gratis hulpmiddelen"
+    },
+    "music-games": {
+      "title": "Muziekspellen"
+    }
+  },
+  "footer": {
+    "tools": {
+      "title": "AI-hulpmiddelen",
+      "music": "AI Muziekgenerator",
+      "lyrics": "AI Tekstgenerator",
+      "rap": "AI Rap-generator",
+      "instrumental": "AI instrumentale generator",
+      "rap-lyrics-generator": "Rap-lyriekgenerator",
+      "rap-name-generator": "Rap-naamgenerator",
+      "melody": "AI melodiegenerator",
+      "diff-rhythm": "Diffritm ai muziekgenerator"
+    },
+    "support": {
+      "title": "Support",
+      "faq": "FAQ",
+      "pricing": "Prijzen"
+    },
+    "privacy": "Privacybeleid",
+    "legal": {
+      "title": "Juridisch",
+      "privacy": "Privacybeleid",
+      "terms": "Servicevoorwaarden",
+      "refund": "Retourbeleid"
+    },
+    "free": {
+      "band-name": "Bandnaamgenerator",
+      "title": "Gratis hulpmiddelen"
+    }
+  },
+  "stripe": {
+    "Maestro": {
+      "name": "Maestro",
+      "description": "Onbeperkte muzikale mogelijkheden",
+      "features": {
+        "songs": "2000 Nummers",
+        "credits": "1000 credits voor generatie",
+        "lyricsCredits": "1000 credits voor tekstgeneratie",
+        "priorityQueue": "Prioritaire generatiewachtrij",
+        "pricePerGeneration": "0.01",
+        "monthlyPerGeneration": "0.015",
+        "commercial": "Commercieel gebruik",
+        "private": "Privé Generatie",
+        "downloads": "Onbeperkte downloads"
+      }
+    },
+    "Free": {
+      "name": "Gratis",
+      "description": "Proef van muziekgeneratie",
+      "features": {
+        "songs": "Enkele nummers afhankelijk van de belasting",
+        "credits": "Enkele credits voor generatie",
+        "lyricsCredits": "Enkele credits voor tekstgeneratie",
+        "priorityQueue": "Gedeelde generatiewachtrij",
+        "pricePerGeneration": "0",
+        "monthlyPerGeneration": "0",
+        "ads": "Gratis muziekgeneratie met advertentieweergave"
+      }
+    },
+    "Virtuoso": {
+      "name": "Virtuoso",
+      "description": "Dompel jezelf onder in de wereld van muziek",
+      "features": {
+        "songs": "400 Nummers",
+        "credits": "200 credits voor generatie",
+        "lyricsCredits": "200 credits voor tekstgeneratie",
+        "priorityQueue": "Prioritaire generatiewachtrij",
+        "pricePerGeneration": "0.025",
+        "monthlyPerGeneration": "0.03",
+        "commercial": "Commercieel gebruik",
+        "private": "Privé Generatie",
+        "downloads": "Onbeperkte downloads"
+      }
+    },
+    "Extra Pack": {
+      "name": "Extra Pack",
+      "description": "Onbeperkte muzikale mogelijkheden",
+      "features": {
+        "songs": "400 nummers",
+        "credits": "200 credits voor generatie",
+        "lyricsCredits": "Onbeperkte lyrics credits",
+        "commercial": "Commercieel gebruik toegestaan",
+        "downloads": "Onbeperkte downloads",
+        "private": "Privé Generatie"
+      }
+    },
+    "Pro Pack": {
+      "name": "Pro Pack",
+      "description": "Onbeperkte muzikale mogelijkheden",
+      "features": {
+        "songs": "1000 nummers",
+        "credits": "500 credits voor generatie",
+        "lyricsCredits": "Onbeperkte lyrics credits",
+        "commercial": "Commercieel gebruik toegestaan",
+        "downloads": "Onbeperkte downloads",
+        "private": "Privé Generatie",
+        "priorityQueue": "Prioritaire generatie wachtrij"
+      }
+    },
+    "button": "Nu componeren",
+    "featured": "Populair",
+    "pay-as-you-go": "Betaal per gebruik credits",
+    "credit": "credit",
+    "seo-title": "AI Muziek Generator Prijzen",
+    "seo-description": "Kies het plan dat bij uw behoeften past. Begin vandaag nog aan uw AI-muziek reis.",
+    "inquire": "Voor vragen of hulp, neem dan contact met ons op.",
+    "free-button": "Gratis starten",
+    "annually": "Jaarlijks gefactureerd",
+    "one-time": "Eenmalige aankoop",
+    "monthly": "Maandelijks gefactureerd",
+    "meta-title": "AI Muziek Generator Prijzen | Muzix",
+    "meta-description": "Kies het plan dat bij uw behoeften past. Begin vandaag nog aan uw AI-muziek reis."
+  },
+  "music-detail": {
+    "extend-description": "Nu kunt u uw muziek verlengen, klik gewoon op de + knop naast de audio.",
+    "extend-tooltip": "Verleng dit nummer",
+    "download-tooltip": "Download dit nummer",
+    "cancel-btn": "Annuleren",
+    "extend-from-tooltip": "De geselecteerde tijd moet vóór het einde van het nummer zijn",
+    "delete-btn": "Verwijderen",
+    "delete-modal-title": "Verwijdering bevestigen",
+    "delete-tooltip": "Weet u zeker dat u deze muziek wilt verwijderen?",
+    "created-at": "Aangemaakt op",
+    "h2": "AI Muziek Gemaakt Door",
+    "lyrics": "Tekst",
+    "music-style": "Muziekstijl",
+    "meta-title": "AI Muziekdetails | \nMuzix",
+    "meta-description": "Gemaakt door Muzix AI Muziekgenerator.",
+    "confirm-btn": "Bevestigen",
+    "make-private-btn": "Privé",
+    "make-private-tooltip": "Weet je zeker dat je deze muziek privé wilt maken?",
+    "make-private-title": "Bevestig Privé maken",
+    "pause": "Pauzeer muziek",
+    "play": "Speel muziek"
+  },
+  "use-cases": {
+    "title": "Wat Onze AI Muziekgenerator Kan Doen",
+    "description": "Gebruik onze AI Muziekgenerator om unieke en professionele muziek te creëren voor uw behoeften",
+    "case01": {
+      "title": "Game Ontwikkelaars & Studios",
+      "description": "Level up uw games met de AI Muziekgenerator. Creëer dynamische soundtracks die zich aanpassen aan de gameplay, genereer unieke boss battle thema's, of maak ambient achtergrondmuziek die de immersie van de speler in uw virtuele werelden verbetert"
+    },
+    "case02": {
+      "title": "Muziek & Creatieve Docenten",
+      "description": "Revolutioneer muziek onderwijs met de AI Muziekgenerator. Creëer aangepaste voorbeelden voor theorie lessen, genereer begeleidingstracks voor studentenoptredens, en demonstreer muzikale concepten met direct gegenereerde composities."
+    },
+    "case03": {
+      "title": "Podcasters & Audio Creators",
+      "description": "Verhoog uw podcast met het professionele sound design van de AI Muziekgenerator. Creëer kenmerkende intro thema's, vloeiende overgang jingles, en achtergrond ambiance die uw show onderscheidt van de concurrentie."
+    },
+    "case04": {
+      "title": "Theater & Performance Artiesten",
+      "description": "Verbeter uw optredens met de AI Muziekgenerator. Creëer aangepaste achtergrond scores voor toneelstukken, genereer muzikale intermezzo's voor scèneovergangen, en produceer unieke soundscapes voor meeslepende theatrale ervaringen."
+    },
+    "case05": {
+      "title": "Social Media Influencers",
+      "description": "Boost uw social media content met de pakkende deuntjes van de AI Muziekgenerator. Genereer direct pakkende hooks, creëer unieke intros, en voeg een professionele touch toe aan uw video's en podcasts."
+    },
+    "case06": {
+      "title": "Corporate & Zakelijke Gebruikers",
+      "description": "Polijst uw zakelijke presentaties met behulp van de AI Muziekgenerator. Creëer professionele achtergrondmuziek voor bedrijfsvideo's, trainingsmaterialen en bedrijfsevenementen die het professionele imago van uw merk behoudt."
+    },
+    "case07": {
+      "title": "Bruiloft & Evenement Videografen",
+      "description": "Creëer perfecte bruiloft- en evenementvideo's met de AI Muziekgenerator. Creëer emotionele soundtracks die speciale momenten vastleggen, genereer ceremoniemuziek en produceer hoogtepunten met aangepaste achtergrond scores."
+    },
+    "case08": {
+      "title": "Digitale Artiesten & Animators",
+      "description": "Voeg een professionele touch toe aan uw digitale kunst met de AI Muziekgenerator. Creëer unieke soundtracks voor animaties, genereer achtergrondmuziek voor video's, en verbeter uw visuele projecten met direct gegenereerde composities."
+    },
+    "case09": {
+      "title": "Radio & Audio Producties",
+      "description": "Stroomlijn uw audioproductie met de AI Muziekgenerator. Creëer aangepaste station jingles, genereer bed muziek voor radioshows, en produceer unieke geluidselementen die uw station een onderscheidende identiteit geven."
+    }
+  },
+  "testimonials": {
+    "title": "Wat Onze Gebruikers Zeggen",
+    "description": "Bekijk wat onze gebruikers zeggen over het gebruik van de AI Muziekgenerator.",
+    "testimonial01": {
+      "role": "Content Creator",
+      "description": "Als YouTuber was het vinden van unieke achtergrondmuziek altijd een uitdaging. De AI Muziekgenerator is een game-changer geweest - ik kan in enkele minuten aangepaste tracks voor elke video creëren! De kwaliteit is ongelooflijk en het bespaart me uren zoeken naar stockmuziek."
+    },
+    "testimonial02": {
+      "role": "Muziek Producer",
+      "description": "Ik heb met verschillende AI-muziektools geëxperimenteerd, maar deze AI Muziekgenerator valt op. Het vangt precies de stemming die ik zoek en helpt me snel professionele begeleidingstracks te creëren. Perfect voor wanneer ik inspiratie of snelle demo's nodig heb!"
+    },
+    "testimonial03": {
+      "role": "Indie Game Ontwikkelaar",
+      "description": "Het creëren van aangepaste soundtracks voor onze games was vroeger een grote bottleneck. De AI Muziekgenerator heeft alles veranderd - we kunnen nu direct unieke muziek voor verschillende spelniveaus genereren. De instrumentale opties zijn bijzonder indrukwekkend!"
+    },
+    "testimonial04": {
+      "role": "Filmcomponist",
+      "description": "De kwaliteit van de muziek die door deze AI-tool wordt gegenereerd is uitstekend. Het helpt me snel ideeën voor filmscores te prototypen en variaties op thema's te creëren. Een fantastische tool voor de workflow van elke componist - het is alsof je een AI-componist binnen handbereik hebt!"
+    },
+    "testimonial05": {
+      "role": "Podcast Host",
+      "description": "Ik gebruik de AI Muziekgenerator voor mijn podcast, en het is een game-changer geweest. De AI Muziekgenerator helpt me unieke intros en outros voor elke aflevering te creëren, en de kwaliteit is ongelooflijk. Het is een must-have voor elke podcaster!"
+    },
+    "testimonial06": {
+      "role": "Social Media Creator",
+      "description": "Deze AI Muziekgenerator is ongelooflijk veelzijdig! Ik gebruik het voor alles - Instagram Reels, TikTok achtergronden en YouTube shorts. De verscheidenheid aan genres en de snelheid van generatie maken het perfect om bij te blijven met de eisen van sociale media."
+    }
+  },
+  "discover": {
+    "meta-title": "Ontdek AI Muziekgenerator | Muzix",
+    "meta-description": "Verken met Muzix AI Muziekgenerator, vind de perfecte soundtrack voor uw behoeften.",
+    "title": "Ontdek de Bibliotheek van AI Muziek",
+    "subheadline": "Verken onze collectie AI-gegenereerde muziek en vind de perfecte soundtrack voor uw behoeften.",
+    "button": "AI Muziekgenerator"
+  },
+  "lyrics-generator": {
+    "meta-title": "AI Songteksten Generator | Muzix",
+    "meta-description": "Genereer creatieve songteksten voor je nummers met de Muzix AI Songteksten Generator.",
+    "title": "AI Songteksten Generator",
+    "subheadline": "Genereer songteksten met je beschrijvingen, aangedreven door AI.",
+    "button": "Genereer Songteksten",
+    "create-your-lyrics": "Creëer Je Songteksten",
+    "clear-button": "Wissen",
+    "description": "Beschrijf je idee voor een nummer en laat de AI de magie doen",
+    "description-placeholder": "Beschrijf de songteksten die je wilt genereren.",
+    "generate-button": "Genereren",
+    "generated-lyrics": "Gegenereerde Songteksten",
+    "copy-button": "Kopiëren",
+    "copied-button": "Gekopieerd",
+    "music-generator": "AI Muziek Generator",
+    "features": {
+      "title": "Waarom kiezen voor onze AI Songteksten Generator?",
+      "description": "Krachtige functies die het schrijven van liedjes moeiteloos maken",
+      "items": [
+        {
+          "title": "Intelligente Songtekst Creatie",
+          "description": "Onze geavanceerde AI analyseert duizenden succesvolle nummers om unieke, betekenisvolle songteksten te genereren die passen bij jouw stijl en intentie. Of je nu pop, rock, hiphop of country schrijft, onze songtekstgenerator past zich aan jouw genre aan."
+        },
+        {
+          "title": "Meertalige Ondersteuning",
+          "description": "Genereer songteksten in meerdere talen om een wereldwijd publiek te bereiken. Onze AI begrijpt taalkundige nuances en culturele context om authentiek klinkende songteksten in jouw gekozen taal te creëren."
+        },
+        {
+          "title": "Onbeperkte Gratis Generatie",
+          "description": "In tegenstelling tot andere tools is onze AI songtekstgenerator volledig gratis zonder gebruikslimieten. Genereer zoveel variaties als je nodig hebt totdat je de perfecte songteksten voor je nummer hebt gevonden."
+        },
+        {
+          "title": "Resultaten in Realtime",
+          "description": "Krijg direct songtekst suggesties terwijl je typt. Onze AI verwerkt je input in realtime en biedt onmiddellijke creatieve opties om je ideeën verder uit te bouwen."
+        },
+        {
+          "title": "Geen Creditcard Vereist",
+          "description": "In tegenstelling tot andere tools is onze AI songtekstgenerator volledig gratis zonder gebruikslimieten. Genereer zoveel variaties als je nodig hebt totdat je de perfecte songteksten voor je nummer hebt gevonden."
+        },
+        {
+          "title": "Snel en Betrouwbaar",
+          "description": "Onze AI songtekstgenerator is snel en betrouwbaar en levert je onmiddellijke resultaten. Je kunt binnen enkele seconden songteksten genereren, zodat je snel de perfecte songteksten voor je nummer kunt vinden."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Hoe onze AI Songteksten Generator werkt",
+      "description": "Perfecte songteksten schrijven was nog nooit zo makkelijk",
+      "steps": {
+        "step1": {
+          "title": "Aanmelden",
+          "description": "Maak je gratis account aan om de volledige kracht van onze AI songtekstgenerator te benutten. Geen creditcard vereist, alleen een eenvoudige registratie om te beginnen."
+        },
+        "step2": {
+          "title": "Beschrijf Je Visie",
+          "description": "Voer keywords, thema's of emoties in die je in je songteksten wilt overbrengen. Onze AI gebruikt deze inputs om je creatieve richting te begrijpen."
+        },
+        "step3": {
+          "title": "Genereer Songteksten",
+          "description": "Klik op genereren en kijk hoe onze AI complete, originele songteksten creëert op basis van je beschrijving. Elke generatie is uniek en afgestemd op je input."
+        },
+        "step4": {
+          "title": "Verbeter en Verfijn",
+          "description": "Bewerk, genereer opnieuw of combineer verschillende outputs tot je de perfecte songteksten hebt. Sla je favorieten op en exporteer ze voor je projecten."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Wie kan profiteren van onze AI Songteksten Generator?",
+      "description": "Van professionele songwriters tot hobbymuzikanten, onze tool helpt iedereen betere songteksten te creëren",
+      "case01": {
+        "title": "Songwriters & Muzikanten",
+        "description": "Doorbreek creatieve blokkades en verken nieuwe lyrische richtingen. Onze AI songtekstgenerator helpt je je unieke stem te behouden en biedt tegelijkertijd frisse perspectieven en ideeën."
+      },
+      "case02": {
+        "title": "Content Creators",
+        "description": "Creëer originele nummers voor je video's, podcasts of social media content. Genereer pakkende songteksten die bij je publiek resoneren."
+      },
+      "case03": {
+        "title": "Muziekstudenten",
+        "description": "Leer songwriting technieken door AI-gegenereerde songteksten te analyseren en verschillende songstructuren te begrijpen. Perfect voor educatieve doeleinden en vaardighedenontwikkeling."
+      },
+      "case04": {
+        "title": "Hobbyisten & Enthousiastelingen",
+        "description": "Verander je muzikale ideeën in complete nummers zonder professionele schrijfervaring. Onze AI songtekstgenerator maakt songwriting toegankelijk voor iedereen."
+      },
+      "case05": {
+        "title": "Docenten & Onderwijzers",
+        "description": "Gebruik onze AI songtekstgenerator om pakkende voorbeelden te creëren voor muziektheorie lessen, genereer backing tracks voor studentenoptredens en demonstreer muzikale concepten met direct gegenereerde composities."
+      },
+      "case06": {
+        "title": "Audio Creators",
+        "description": "Creëer unieke soundtracks voor je video's, podcasts of social media content. Genereer pakkende songteksten die bij je publiek resoneren."
+      }
+    },
+    "faqs": {
+      "title": "Veelgestelde vragen over de AI Songteksten Generator",
+      "q1": {
+        "question": "Is deze AI songtekstgenerator echt gratis?",
+        "answer": "Ja, onze AI Songteksten Generator is volledig gratis te gebruiken. We geloven in het toegankelijk maken van creatieve tools voor iedereen. Er zijn geen verborgen kosten of premium functies - alle mogelijkheden zijn beschikbaar voor alle gebruikers."
+      },
+      "q2": {
+        "question": "Hoe origineel zijn de gegenereerde songteksten?",
+        "answer": "Onze AI Songteksten Generator creëert unieke, originele songteksten voor elke generatie. Hoewel geïnspireerd door het analyseren van patronen in succesvolle nummers, is elke output nieuwe en originele content die je in je projecten kunt gebruiken."
+      },
+      "q3": {
+        "question": "Bezit ik de rechten op gegenereerde songteksten?",
+        "answer": "Ja, je hebt volledige rechten om alle songteksten die zijn gegenereerd via onze AI Songteksten Generator te gebruiken. We slaan geen rechten op of claimen geen rechten op de output - je creaties behoren volledig toe aan jou."
+      },
+      "q4": {
+        "question": "Welke talen worden ondersteund?",
+        "answer": "Onze AI songtekstgenerator ondersteunt de meeste belangrijke talen, waardoor je nummers kunt creëren voor internationale doelgroepen. De AI begrijpt taalkundige patronen en culturele contexten voor authentiek klinkende songteksten."
+      },
+      "q5": {
+        "question": "Kan ik de gegenereerde songteksten voor commerciële doeleinden gebruiken?",
+        "answer": "Ja, je kunt de gegenereerde songteksten voor commerciële doeleinden gebruiken. Zorg er echter voor dat je over de nodige toestemmingen en rechten beschikt om de songteksten in je projecten te gebruiken."
+      },
+      "q6": {
+        "question": "Hoe kan ik de kwaliteit van gegenereerde songteksten verbeteren?",
+        "answer": "Om de kwaliteit van gegenereerde songteksten te verbeteren, probeer de volgende tips: 1. Gebruik specifieke, beschrijvende taal om de AI te begeleiden. 2. Geef context of achtergrondinformatie over je nummer. 3. Gebruik een verscheidenheid aan input formaten, zoals lijsten of alinea's, om de AI te helpen je visie te begrijpen. 4. Experimenteer met verschillende stijlen en thema's om te zien hoe de AI reageert."
+      }
+    },
+    "cta": {
+      "text": "Begin vandaag nog met het creëren van geweldige songteksten",
+      "subtext": "Sluit je aan bij duizenden creators die onze AI songtekstgenerator gebruiken om hun muzikale ideeën tot leven te brengen. Geen creditcard vereist, geen gebruikslimieten - alleen pure creatieve vrijheid.",
+      "button": "Genereer Je Songteksten"
+    }
+  },
+  "benefits": {
+    "item01": {
+      "title": "Geen muzikant? Geen probleem!",
+      "description": "Met een AI muziekgenerator hoef je geen muzikant te zijn om muziek te maken. Je kunt een AI muziekgenerator gebruiken om muziektracks te maken voor je eigen nummers, in elke stijl en met elke tekst."
+    },
+    "item02": {
+      "title": "De perfecte stijl vastleggen",
+      "description": "Iets in gedachten? Je kunt gewoon de melodie of tekst hummen en de AI muziekgenerator maakt een muziektrack voor je met de perfecte stijl."
+    },
+    "item03": {
+      "title": "Maak je eigen muziek",
+      "description": "Je kunt je eigen muziek maken met een AI muziekgenerator. Je kunt je eigen muziek maken met een AI muziekgenerator. Je kunt je eigen muziek maken met een AI muziekgenerator."
+    },
+    "item04": {
+      "title": "Pas je muziek aan",
+      "description": "Je kunt je muziek aanpassen met een AI muziekgenerator. Je kunt je muziek aanpassen met een AI muziekgenerator. Je kunt je muziek aanpassen met een AI muziekgenerator."
+    }
+  },
+  "my-music": {
+    "meta-title": "Mijn Muziek | Muzix",
+    "meta-description": "Jouw AI Muziek Bibliotheek.",
+    "title": "Mijn Muziek",
+    "subheadline": "Jouw AI Muziek Bibliotheek.",
+    "button": "AI Muziek Generator"
+  },
+  "ai-rap-generator": {
+    "meta-title": "AI Rap Generator | Muzix",
+    "meta-description": "Maak binnen enkele minuten authentieke rapsongs met behulp van geavanceerde AI-technologie",
+    "heroSection": {
+      "h1": "AI Rap Generator",
+      "description": "Maak binnen enkele minuten authentieke rapsongs met behulp van geavanceerde AI-technologie",
+      "button": "Rap genereren",
+      "clear-button": "Wissen",
+      "lyrics-placeholder": "Voer hier de tekst in en klik op de knop genereren om een nummer te maken.",
+      "ai-lyrics-generator": "AI Tekstgenerator",
+      "lyrics-label": "Tekst",
+      "lyrics-tooltip": "Gebruik twee coupletten (8 regels) voor de beste resultaten.",
+      "song-title": "Titel nummer",
+      "song-title-tooltip": "Geef het nummer een titel om te delen.",
+      "song-title-placeholder": "Voer hier de titel van het nummer in",
+      "custom": "Aangepast",
+      "isloading": "Wacht even terwijl we je nummer genereren, dit kan enkele minuten duren. Of kom later terug in je",
+      "credits-alert": "Je hebt geen credits meer, koop meer credits",
+      "lyrics-length-alert": "De tekst moet minimaal 200 tekens bevatten",
+      "title-length-alert": "De titel van het nummer mag niet leeg zijn",
+      "custom-description-alert": "De beschrijving van het nummer mag niet leeg zijn!",
+      "song-description": "Omschrijving nummer",
+      "song-description-tooltip": "Beschrijf het nummer dat je wilt genereren.",
+      "song-description-placeholder": "Een rapsong over liefde"
+    },
+    "features": {
+      "title": "Waarom kiezen voor onze AI Rap Generator?",
+      "description": "Geavanceerde functies die je rapniveau verhogen",
+      "items": [
+        {
+          "title": "Flowanalyse en ritme-afstemming",
+          "description": "Onze rapmuziekgenerator maakt gebruik van geavanceerde AI om ritmepatronen te analyseren en ervoor te zorgen dat je tekst natuurlijk loopt met elke beat. Het systeem begrijpt complexe rapstructuren, waardoor je nummers kunt maken die professioneel en authentiek klinken."
+        },
+        {
+          "title": "Slimme rijmvoorstellen",
+          "description": "De AI-rapgenerator suggereert automatisch krachtige rijmen terwijl je boodschap en stijl behouden blijven. Creëer complexe rijmchema's, interne rijmen en slimme woordspelingen die je tracks laten opvallen."
+        },
+        {
+          "title": "Stijlaanpassing",
+          "description": "Onze rapsongmaker past zich aan je voorkeurstijl aan, of je nu houdt van old school, trap, conscious rap of een ander subgenre. Genereer teksten die passen bij je unieke stem en artistieke visie."
+        },
+        {
+          "title": "Real-time beatsynchronisatie",
+          "description": "Voer je beat in en kijk hoe onze rapsonggenerator perfect gesynchroniseerde teksten genereert. De AI begrijpt tempo, timing en muzikale structuur om ervoor te zorgen dat je woorden op precies het juiste moment vallen."
+        },
+        {
+          "title": "Snelle generatie",
+          "description": "Onze AI-rapgenerator is snel en betrouwbaar en levert je direct resultaten. Je kunt binnen enkele seconden teksten genereren, zodat je snel de perfecte tekst voor je nummer kunt vinden."
+        },
+        {
+          "title": "Hoge kwaliteit",
+          "description": "Onze AI-rapgenerator is snel en betrouwbaar en levert je direct resultaten. Je kunt binnen enkele seconden teksten genereren, zodat je snel de perfecte tekst voor je nummer kunt vinden."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Hoe onze AI Rap Generator werkt",
+      "description": "Het maken van professionele rapsongs was nog nooit zo makkelijk",
+      "steps": {
+        "step1": {
+          "title": "Kies je stijl",
+          "description": "Selecteer je voorkeursrapstyle, tempo en stemming. Onze rapmuziekgenerator gebruikt deze voorkeuren om teksten te creëren die passen bij je artistieke richting."
+        },
+        "step2": {
+          "title": "Voer je thema in",
+          "description": "Deel je verhaal, boodschap of onderwerp. De AI-rapgenerator transformeert je ideeën in krachtige bars terwijl de authenticiteit en persoonlijke betekenis behouden blijven."
+        },
+        "step3": {
+          "title": "Genereer en pas aan",
+          "description": "Onze rapsongmaker creëert direct meerdere coupletten en hooks. Bewerk, genereer opnieuw of mix verschillende outputs tot je de perfecte track hebt."
+        },
+        "step4": {
+          "title": "Exporteer en neem op",
+          "description": "Download je teksten met timingmarkeringen of gebruik onze geïntegreerde opnamefunctie om je track meteen in te spelen. Onze rapsonggenerator maakt het hele proces naadloos."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Wie kan profiteren van onze AI Rap Generator?",
+      "description": "Van aspirant-artiesten tot gevestigde producers, onze rapmuziekgenerator geeft iedereen de mogelijkheid om boeiende tracks te creëren",
+      "case01": {
+        "title": "Aspirant-rappers",
+        "description": "Gebruik onze AI-rapgenerator om je stijl te ontwikkelen, je flow te oefenen en een portfolio van originele tracks op te bouwen. Perfect voor artiesten die de industrie willen betreden."
+      },
+      "case02": {
+        "title": "Muziekproducenten",
+        "description": "Creëer direct aangepaste rapsongs voor je beats. Onze rapsongmaker helpt je je producties te presenteren met teksten van professionele kwaliteit."
+      },
+      "case03": {
+        "title": "Content creators",
+        "description": "Genereer unieke rapsongs voor je video's, sociale media of streamingcontent. Onze rapmuziekgenerator helpt je boeiende muzikale content te creëren die de aandacht trekt."
+      },
+      "case04": {
+        "title": "Freestyle-enthousiastelingen",
+        "description": "Oefen en verbeter je freestyleskills met door AI gegenereerde prompts en rijmvoorstellen. Verander geïmproviseerde ideeën in gepolijste tracks met onze rapsonggenerator."
+      },
+      "case05": {
+        "title": "Muziekstudenten",
+        "description": "Leer raptechnieken door door AI gegenereerde teksten te analyseren en verschillende songstructuren te begrijpen. Perfect voor educatieve doeleinden en vaardigheidontwikkeling."
+      },
+      "case06": {
+        "title": "Muziekdocenten",
+        "description": "Creëer boeiende voorbeelden voor muziektheorielessen, genereer rapnummers voor studentenoptredens en demonstreer muzikale concepten met direct gegenereerde composities."
+      }
+    },
+    "faqs": {
+      "title": "Veelgestelde vragen over AI Rap Generator",
+      "q1": {
+        "question": "Kan ik mijn eigen teksten als uitgangspunt gebruiken?",
+        "answer": "Ja, je kunt je eigen teksten als uitgangspunt gebruiken. Onze AI-rapgenerator analyseert je teksten en creëert een rapsong die natuurlijk loopt met je stijl."
+      },
+      "q2": {
+        "question": "Kan ik de gegenereerde teksten in mijn nummers gebruiken?",
+        "answer": "Ja, je bezit alle rechten op de teksten die zijn gemaakt met onze rapsongmaker. Je creaties zijn van jou om te gebruiken zoals je wilt, of het nu voor persoonlijke projecten of commerciële releases is."
+      },
+      "q3": {
+        "question": "Werkt de rapmuziekgenerator met elke beat?",
+        "answer": "Ja, onze AI-rapgenerator past zich aan elk tempo en elke stijl van beat aan. Upload je track en het systeem creëert perfect gesynchroniseerde teksten die passen bij je muziek."
+      },
+      "q4": {
+        "question": "Bied je gratis generatie aan?",
+        "answer": "Ja, onze AI-rapgenerator biedt een paar gratis credits zodat je het kunt uitproberen. Als je meer nodig hebt, hebben we meerdere pakketten om uit te kiezen."
+      },
+      "q5": {
+        "question": "Hoe snel werkt je AI Rap Generator?",
+        "answer": "Onze AI-rapgenerator is snel en betrouwbaar en levert je direct resultaten. Je kunt binnen enkele seconden teksten genereren, zodat je snel de perfecte tekst voor je nummer kunt vinden."
+      },
+      "q6": {
+        "question": "Wat is een AI-rapgenerator?",
+        "answer": "Onze AI-rapgenerator is een tool die kunstmatige intelligentie gebruikt om rapsongs te creëren. Het neemt je input, zoals een thema of een beat, en genereert teksten die passen bij je stijl en intentie. De AI-rapgenerator kan hooks, coupletten en zelfs hele nummers creëren, allemaal afgestemd op jouw specificaties."
+      },
+      "q7": {
+        "question": "Wat is het verschil tussen AI-rapgenerator en andere rapgenerators?",
+        "answer": "Onze AI-rapgenerator verschilt van andere rapgenerators omdat deze geavanceerde AI-technologie gebruikt om rapsongs te creëren. Het analyseert duizenden succesvolle rapsongs om unieke, betekenisvolle teksten te genereren die passen bij je stijl en intentie. In tegenstelling tot andere tools is onze AI-rapgenerator volledig gratis zonder gebruikslimieten. Genereer zoveel variaties als je nodig hebt totdat je de perfecte tekst voor je nummer hebt gevonden."
+      },
+      "q8": {
+        "question": "Kan ik de gegenereerde rap voor commerciële doeleinden gebruiken?",
+        "answer": "Ja, je kunt de gegenereerde rap voor commerciële doeleinden gebruiken. Zorg er echter wel voor dat je over de nodige toestemmingen en rechten beschikt om de teksten in je projecten te gebruiken."
+      }
+    },
+    "cta": {
+      "text": "Begin vandaag nog met het creëren van je volgende hit",
+      "subtext": "Doe mee aan de revolutie in het maken van rapmuziek. Onze AI-rapgenerator geeft je de tools om je ideeën binnen enkele minuten om te zetten in professionele tracks.",
+      "button": "Creëer je eerste track"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Geen rappervaring? Geen probleem!",
+        "description": "Onze AI-rapgenerator maakt het creëren van rapmuziek toegankelijk voor iedereen. Of je nu een complete beginner bent of een ervaren artiest, je kunt rap-tracks van professionele kwaliteit genereren die passen bij je visie en stijl."
+      },
+      "item02": {
+        "title": "Leg je perfecte flow vast",
+        "description": "Typ gewoon je ideeën of neem jezelf op terwijl je spreekt, en onze rapsongmaker transformeert je woorden in perfect lopende rapteksten. De AI begrijpt ritme en timing, zodat je teksten natuurlijk passen bij elke beat."
+      },
+      "item03": {
+        "title": "Druk je unieke stem uit",
+        "description": "Onze rapmuziekgenerator bewaart je authentieke boodschap terwijl je presentatie wordt verbeterd. Deel je verhaal, emoties of ervaringen en laat de AI je helpen ze uit te drukken via krachtige rapcoupletten."
+      },
+      "item04": {
+        "title": "Van concept tot complete track",
+        "description": "De AI-rapgenerator beheert de technische aspecten van songwriting, zodat jij je kunt concentreren op creativiteit. Genereer hooks, coupletten en complete nummers die professioneel klinken terwijl je persoonlijke stijl behouden blijft."
+      }
+    }
+  },
+  "band-name-generator": {
+    "meta-title": "AI-aangedreven bandnaamgenerator | Creëer direct unieke bandnamen",
+    "meta-description": "Transformeer uw muzikale identiteit met onze intelligente bandnaamgenerator. Krijg direct creatieve, memorabele en unieke bandnamen met behulp van AI-technologie. Perfect voor muzikanten, producers en creatievelingen.",
+    "heroSection": {
+      "h1": "Gratis AI Bandnaamgenerator",
+      "description": "Moeite om die perfecte naam te vinden die de sound en persoonlijkheid van je band perfect weergeeft? Onze AI-aangedreven bandnaamgenerator is er om te helpen.",
+      "button": "Genereer nu bandnamen",
+      "clear-button": "Opnieuw beginnen",
+      "ai-music-generator": "AI Muziekgenerator",
+      "name-description": "Voer de naam van je band of het thema van je muziek in en klik op de knop genereren om een bandnaam te creëren.",
+      "name-label": "Naam Beschrijving",
+      "name-placeholder": "Voer een beschrijving in over je band of het thema van je muziek.",
+      "name-tooltip": "Gebruik een paar woorden om je band of het thema van je muziek te beschrijven.",
+      "generated-name": "Kies uw bandnaam"
+    },
+    "features": {
+      "title": "Waarom kiezen voor onze AI-aangedreven bandnaamgenerator?",
+      "description": "Onze intelligente bandnaamgenerator gaat verder dan simpele woordcombinaties en biedt een geavanceerde suite van functies die zorgvuldig zijn ontworpen om u te helpen de perfecte naam voor uw muzikale project te vinden.",
+      "items": [
+        {
+          "title": "Intelligente AI-creativiteit",
+          "description": "Onze bandnaamgenerator is niet zomaar een willekeurige naamkiezer; het maakt gebruik van geavanceerde AI-algoritmes om uw invoer te analyseren, uw muziekstijl te begrijpen en de nuances van uw creatieve visie vast te leggen. Het leert en past zich aan, en biedt namen die echt resoneren met uw artistieke intentie."
+        },
+        {
+          "title": "Onbeperkte naammogelijkheden",
+          "description": "Verken een enorm universum aan bandnamen. Genereer een eindeloze stroom van unieke, memorabele en impactvolle bandnamen, zodat u genoeg opties heeft om uit te kiezen en uw uiteindelijke keuze echt de beste is."
+        },
+        {
+          "title": "Genre-specifieke naam-aanpasbaarheid",
+          "description": "Of u nu houdt van de zware riffs van rock, de soulvolle melodieën van jazz, de gestructureerde complexiteit van klassieke muziek, de ritmische beats van elektronische muziek of iets daartussenin, onze bandnaamgenerator past zich naadloos aan uw specifieke muzieksoort aan, zodat elke naamsuggestie perfect de essentie van uw stijl weergeeft."
+        },
+        {
+          "title": "Volledig aanpasbare opties",
+          "description": "Neem de volledige controle over uw naamgeneratie. Verfijn uw resultaten door voorkeuren, thema's, trefwoorden en zelfs stemmingen op te geven om te garanderen dat de gegenereerde bandnamen perfect aansluiten bij uw unieke creatieve visie. Creëer een naam die precies is wat u zich voorstelt."
+        },
+        {
+          "title": "Snelle en efficiënte resultaten",
+          "description": "Zeg vaarwel tegen uitputtende brainstormsessies die vaak leiden tot doodlopende wegen. Krijg binnen enkele seconden een veelheid aan creatieve en unieke suggesties voor bandnamen met onze efficiënte en gestroomlijnde bandnaamgenerator, waardoor u waardevolle tijd en middelen bespaart."
+        },
+        {
+          "title": "Intuïtieve gebruikerservaring",
+          "description": "Onze doordachte gebruikersinterface is opmerkelijk intuïtief, waardoor u eenvoudig verschillende opties voor bandnamen kunt genereren, opslaan, vergelijken en verfijnen totdat u de ideale naam voor uw project vindt. We streven ernaar om het naamgevingsproces zo soepel en aangenaam mogelijk te maken."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Het eenvoudige proces van het creëren van uw perfecte bandnaam",
+      "description": "Onze bandnaamgenerator vereenvoudigt het proces van het vinden van uw ideale bandnaam tot een procedure van vier stappen, waarbij onze geavanceerde AI-technologie naadloos wordt geïntegreerd in een gebruiksvriendelijk kader.",
+      "steps": {
+        "step1": {
+          "title": "Beschrijf uw unieke muzikale visie",
+          "description": "Begin met het vertellen aan onze bandnaamgenerator over uw muziekstijl, genre-invloeden, specifieke thema's en alle specifieke concepten die u wilt dat uw bandnaam belichaamt. Hoe meer informatie u geeft, hoe beter we uw behoeften kunnen begrijpen en vervullen."
+        },
+        "step2": {
+          "title": "Geavanceerde AI-analyse en interpretatie",
+          "description": "Ons krachtige AI-systeem verwerkt uw invoer zorgvuldig, analyseert uw specifieke voorkeuren, gewenste thema's en algemene creatieve richting nauwkeurig om uw visie op een diepzinnige manier te begrijpen."
+        },
+        "step3": {
+          "title": "Unieke en relevante naamgeneratie",
+          "description": "Op basis van uw opgegeven specificaties en creatieve voorkeuren genereert onze bandnaamgenerator een diverse reeks unieke naamsuggesties, zodat u een breed scala aan keuzes krijgt die bij uw specifieke muzikale identiteit passen."
+        },
+        "step4": {
+          "title": "Kies uw perfecte en definiërende naam",
+          "description": "Bekijk de verschillende gegenereerde namen, bewaar de namen die uw aandacht trekken, vergelijk uw favorieten en selecteer de naam die het meest resoneert met uw artistieke identiteit en de geest van uw muziek belichaamt."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Wie kan profiteren van de kracht van onze bandnaamgenerator?",
+      "description": "Onze bandnaamgenerator is een veelzijdige tool die is ontworpen om te voldoen aan de diverse creatieve behoeften van individuen binnen het hele muziekspectrum, van ambitieuze artiesten tot gevestigde professionals.",
+      "case01": {
+        "title": "Nieuwe en ambitieuze bands",
+        "description": "Als u uw muzikale carrière lanceert, is een krachtige naam essentieel. Onze bandnaamgenerator is ontworpen om u te helpen een sterke, memorabele eerste indruk te maken die u onderscheidt en de aandacht trekt."
+      },
+      "case02": {
+        "title": "Visionaire soloartiesten",
+        "description": "Of u nu een unieke artiestennaam nodig heeft die uw persoonlijkheid omvat of een projecttitel die uw artistieke ondernemingen definieert, onze tool kan u helpen creatieve alternatieven te genereren die resoneren met uw individuele identiteit."
+      },
+      "case03": {
+        "title": "Innovatieve muziekproducenten",
+        "description": "Van unieke projectnamen tot boeiende productienalises, onze bandnaamgenerator is ontworpen om inspiratie op te wekken en u creatieve suggesties te geven voor uw verschillende productieprojecten."
+      },
+      "case04": {
+        "title": "Dynamische coverbands",
+        "description": "Creëer inventieve en memorabele bandnamen die zowel uw invloeden erkennen als een originele identiteit voor uw coverband behouden, waardoor u zich kunt onderscheiden in een drukke scene."
+      },
+      "case05": {
+        "title": "School- en jeugd ensembles",
+        "description": "Onze bandnaamgenerator kan u helpen de ideale naam te vinden voor uw schoolband of jeugdgroep, die zowel de geest van uw groep als uw unieke muzikale richting weerspiegelt."
+      },
+      "case06": {
+        "title": "Creatieve muzikale samenwerkingen",
+        "description": "Vind een unieke projecttitel die uw muzikale samenwerkingen, speciale optredens en dynamische partnerschappen zal vertegenwoordigen, zodat elke nieuwe onderneming een aparte identiteit heeft."
+      }
+    },
+    "faqs": {
+      "title": "Veelgestelde vragen over onze bandnaamgenerator",
+      "q1": {
+        "question": "Hoe werkt uw bandnaamgenerator precies?",
+        "answer": "Onze innovatieve bandnaamgenerator maakt gebruik van geavanceerde AI-algoritmes om uw specifieke invoer en voorkeuren te analyseren en unieke en relevante naamsuggesties te genereren die perfect aansluiten bij uw gestelde criteria."
+      },
+      "q2": {
+        "question": "Is er een limiet aan het aantal bandnamen dat ik kan genereren?",
+        "answer": "Nee, er is absoluut geen limiet! U kunt onze bandnaamgenerator zo vaak gebruiken als nodig is om de absoluut perfecte naam voor uw project te vinden, waardoor u eindeloze mogelijkheden krijgt."
+      },
+      "q3": {
+        "question": "Kan ik namen genereren die geschikt zijn voor specifieke muziekgenres?",
+        "answer": "Absoluut! Onze aanpasbare bandnaamgenerator is ontworpen om namen te creëren die geschikt zijn voor elk muzieksoort of stijl die u opgeeft, zodat elke optie bij uw specifieke sound past."
+      },
+      "q4": {
+        "question": "Hoe origineel zijn de bandnamen die door uw AI worden gegenereerd?",
+        "answer": "Onze AI is getraind om originele combinaties te produceren op basis van uw specifieke invoer, maar we raden u aan om uw due diligence te doen om ervoor te zorgen dat uw gekozen naam geen inbreuk maakt op een handelsmerk of al in gebruik is. We streven naar originaliteit, maar grondig onderzoek is nog steeds raadzaam."
+      },
+      "q5": {
+        "question": "Kan ik mijn favoriete gegenereerde bandnamen opslaan en vergelijken?",
+        "answer": "Ja, absoluut! U kunt eenvoudig meerdere opties opslaan en vergelijken totdat u de ideale bandnaam vindt die perfect aansluit bij uw creatieve visie en muzikale aspiraties."
+      },
+      "q6": {
+        "question": "Is uw bandnaamgenerator gratis voor alle gebruikers?",
+        "answer": "Ja, onze basis bandnaamgenerator service is volledig gratis voor alle gebruikers, zodat iedereen toegang heeft tot onze krachtige naamgevingstool. Verder opties kunnen beschikbaar zijn tegen betaling."
+      },
+      "q7": {
+        "question": "Kan ik bepaalde trefwoorden of thema's opgeven die in de gegenereerde namen moeten worden opgenomen?",
+        "answer": "Ja, dat kan zeker! Met onze bandnaamgenerator kunt u specifieke trefwoorden, thema's of concepten invoeren die u wilt laten opnemen in de gegenereerde namen voor een meer aangepast resultaat."
+      },
+      "q8": {
+        "question": "Hoeveel naamsuggesties worden er gegeven bij elke generatie van de bandnamen?",
+        "answer": "Elke keer dat u onze bandnaamgenerator gebruikt, krijgt u een aantal unieke naamsuggesties, zodat u meerdere opties kunt verkennen en kiezen."
+      }
+    },
+    "cta": {
+      "text": "Klaar om uw perfecte bandnaam te ontdekken?",
+      "subtext": "Sluit je aan bij de duizenden muzikanten die hun ideale bandnamen hebben gevonden met behulp van onze geavanceerde bandnaamgenerator en zet de eerste stap naar het definiëren van je muzikale nalatenschap.",
+      "button": "Begin nu met het genereren van namen"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Bespaar kostbare tijd",
+        "description": "Sla het tijdrovende proces van uren brainstormen over en krijg direct toegang tot een schat aan creatieve ideeën voor bandnamen die zijn gegenereerd door onze geavanceerde AI-technologie, zodat u zich kunt concentreren op uw muziek."
+      },
+      "item02": {
+        "title": "Ervaar onbeperkte creativiteit",
+        "description": "Met onze bandnaamgenerator raakt u nooit meer inspiratie op. Verken een groot aantal creatieve mogelijkheden en unieke combinaties en ontdek eindeloos potentieel voor de identiteit van uw band."
+      },
+      "item03": {
+        "title": "Ontdek de perfecte match",
+        "description": "Vind een bandnaam die uw unieke muzikale identiteit echt belichaamt en diep resoneert met uw doelgroep, waardoor een zinvolle connectie ontstaat die uw impact verhoogt."
+      },
+      "item04": {
+        "title": "Eenvoudig en intuïtief gebruik",
+        "description": "Genereer, vergelijk en selecteer uw perfecte bandnaam met gemak via onze gebruiksvriendelijke interface en eenvoudige proces, voor een soepele en aangename gebruikerservaring."
+      }
+    }
+  },
+  "ai-instrumental-generator": {
+    "meta-title": "Genereer direct unieke instrumentale muziek met onze AI instrumentale generator",
+    "meta-description": "Ontketen uw creativiteit met onze AI instrumentale generator. Beschrijf eenvoudig uw muzikale visie en laat onze AI binnen enkele minuten originele instrumentale nummers creëren. Perfect voor muzikanten, content creators en iedereen die unieke achtergrondmuziek nodig heeft.",
+    "heroSection": {
+      "h1": "AI Instrumentale Generator",
+      "description": "Ontketen uw muzikale visie met onze AI instrumentale generator.",
+      "button": "Genereer nu muziek",
+      "clear-button": "Wis invoer",
+      "ai-music-generator": "AI Muziekgenerator",
+      "generating": "Aan het genereren...",
+      "description-label": "Beschrijving",
+      "description-tooltip": "Beschrijf in enkele woorden de instrumentale muziek die u wenst.",
+      "description-placeholder": "Voer enkele woorden in om de instrumentale muziek te beschrijven die u wenst.",
+      "description-length-alert": "Voer minimaal 20 tekens in."
+    },
+    "features": {
+      "title": "Belangrijkste kenmerken van onze AI instrumentale generator",
+      "description": "Ontdek de kracht en veelzijdigheid van onze AI-gestuurde muziekcreatietool. We hebben hem volgestopt met functies die ervoor zorgen dat het genereren van uw perfecte instrumentale nummer moeiteloos en inspirerend is.",
+      "items": [
+        {
+          "title": "Directe instrumentale creatie",
+          "description": "Onze geavanceerde AI instrumentale generator creëert binnen enkele minuten unieke stukken, waardoor u waardevolle tijd en middelen bespaart. Ga sneller dan ooit van concept naar creatie."
+        },
+        {
+          "title": "Genre-agnostische generatie",
+          "description": "Of u nu op zoek bent naar ambient soundscapes, energieke elektronische beats, filmische scores of iets daartussenin, onze AI instrumentale generator kan zich aanpassen aan uw gewenste genre."
+        },
+        {
+          "title": "Geen muzikale expertise vereist",
+          "description": "U hoeft geen muzikant te zijn om professioneel klinkende instrumentale muziek te creëren. Beschrijf eenvoudig uw visie in duidelijke taal en onze AI doet de rest."
+        },
+        {
+          "title": "Unieke en originele muziek",
+          "description": "Neem afscheid van generieke stockmuziek. Onze AI instrumentale generator creëert originele composities, zodat uw muziek net zo uniek is als uw project."
+        },
+        {
+          "title": "Zeer aanpasbare output",
+          "description": "Hoewel de eerste output snel wordt gegenereerd, kunnen toekomstige iteraties opties bevatten voor verdere verfijning en aanpassing van de gegenereerde instrumentale nummers."
+        },
+        {
+          "title": "Perfect voor een verscheidenheid aan toepassingen",
+          "description": "Ideaal voor content creators die achtergrondmuziek nodig hebben, filmmakers die op zoek zijn naar scores, game developers die soundtracks nodig hebben en iedereen die op zoek is naar gepersonaliseerde instrumentale muziek."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Eenvoudige muziekcreatie in drie eenvoudige stappen",
+      "description": "Het creëren van uw perfecte instrumentale nummer met onze AI instrumentale generator is snel en eenvoudig. Volg deze eenvoudige stappen om uw muzikale ideeën tot leven te brengen.",
+      "steps": {
+        "step1": {
+          "title": "1. Beschrijf uw visie",
+          "description": "Voer een beschrijving in van de instrumentale muziek die u wenst. Wees zo gedetailleerd of zo beknopt als u wilt. Denk aan de stemming, het genre, de instrumentatie (als u voorkeuren heeft) en het algemene gevoel."
+        },
+        "step2": {
+          "title": "2. Laat onze AI genereren",
+          "description": "Onze krachtige AI instrumentale generator analyseert uw invoer en creëert direct verschillende unieke instrumentale muziek opties voor u om te bekijken."
+        },
+        "step3": {
+          "title": "3. Selecteer uw favoriet",
+          "description": "Blader door de gegenereerde instrumentale nummers en kies degene die het beste bij uw behoeften past. Zo eenvoudig is het om gepersonaliseerde muziek te creëren met AI."
+        },
+        "step4": {
+          "title": "4. Gebruik uw muziek",
+          "description": "Download uw gekozen instrumentale nummer en gebruik het voor uw projecten, wetende dat het uniek is en speciaal voor u is gemaakt door onze innovatieve AI instrumentale generator."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Oneindige mogelijkheden met onze AI instrumentale generator",
+      "description": "Onze AI instrumentale generator opent een wereld van creatieve mogelijkheden voor verschillende gebruikers en toepassingen. Zie hoe u de kracht van AI kunt benutten voor uw muzikale behoeften.",
+      "case01": {
+        "title": "Achtergrondmuziek voor video's en podcasts",
+        "description": "Verhoog uw content met unieke, royaltyvrije achtergrondmuziek gegenereerd door onze AI instrumentale generator. Creëer de perfecte sfeer voor uw video's, podcasts en presentaties."
+      },
+      "case02": {
+        "title": "Soundtracks voor games en apps",
+        "description": "Genereer meeslepende en originele soundtracks voor uw games en applicaties met onze intelligente AI instrumentale generator. Creëer het perfecte klanklandschap om de gebruikerservaring te verbeteren."
+      },
+      "case03": {
+        "title": "Muzikale inspiratie en jam tracks",
+        "description": "Ontsteek uw creativiteit als muzikant met unieke instrumentale begeleidingsnummers gegenereerd door onze AI instrumentale generator. Gebruik ze voor oefening, improvisatie of als uitgangspunt voor nieuwe composities."
+      },
+      "case04": {
+        "title": "Gepersonaliseerde ambiance voor focus en ontspanning",
+        "description": "Creëer aangepaste ambient soundscapes voor studeren, werken, mediteren of gewoon ontspannen. Beschrijf de sfeer die u wenst en onze AI instrumentale generator creëert de perfecte sonore omgeving."
+      },
+      "case05": {
+        "title": "Muziek voor social media content",
+        "description": "Val op op social media met originele instrumentale muziek gecreëerd door onze AI instrumentale generator. Vermijd copyrightproblemen en creëer boeiende content met unieke audio."
+      },
+      "case06": {
+        "title": "Experimenteren met muzikale ideeën",
+        "description": "Verken snel verschillende muzikale stijlen en concepten met onze AI instrumentale generator. Genereer verschillende instrumentale stukken om te zien wat resoneert en u inspireert."
+      }
+    },
+    "faqs": {
+      "title": "Veelgestelde vragen over onze AI instrumentale generator",
+      "q1": {
+        "question": "Wat voor soort instrumentale muziek kan de AI instrumentale generator creëren?",
+        "answer": "Onze AI is ontworpen om veelzijdig te zijn en kan een breed scala aan instrumentale muziek genereren, van ambient en elektronisch tot orkestraal en filmisch, afhankelijk van uw invoerbeschrijving. Experimenteer met verschillende beschrijvingen om de mogelijkheden te verkennen."
+      },
+      "q2": {
+        "question": "Heb ik muzikale ervaring nodig om deze AI instrumentale generator te gebruiken?",
+        "answer": "Nee, er is geen muzikale ervaring nodig! Beschrijf gewoon het type instrumentale muziek waarnaar u op zoek bent in duidelijke taal, en onze AI zal het creatieproces afhandelen."
+      },
+      "q3": {
+        "question": "Hoe lang duurt het voordat de AI instrumentale generator een nummer creëert?",
+        "answer": "Onze AI werkt ongelooflijk snel. Meestal kunt u verwachten dat u binnen enkele minuten na het indienen van uw beschrijving verschillende instrumentale muziek opties gegenereerd krijgt."
+      },
+      "q4": {
+        "question": "Is de muziek die door de AI instrumentale generator wordt gegenereerd royaltyvrij?",
+        "answer": "Ja, de instrumentale muziek die door onze AI wordt gecreëerd is origineel en bedoeld voor uw gebruik. Specifieke licentievoorwaarden worden verstrekt na het genereren en selecteren van een nummer."
+      },
+      "q5": {
+        "question": "Kan ik instrumenten of muzikale elementen specificeren?",
+        "answer": "Ja, hoe meer details u in uw beschrijving geeft, hoe beter de AI de instrumentale muziek op uw voorkeuren kan afstemmen. Vermeld specifieke instrumenten, tempo's of muzikale stijlen die u in gedachten heeft."
+      },
+      "q6": {
+        "question": "Wat als ik de eerste resultaten van de AI instrumentale generator niet leuk vind?",
+        "answer": "Verfijn gewoon uw beschrijving en genereer opnieuw! Experimenteer met verschillende formuleringen en trefwoorden om uw gewenste resultaat te bereiken. Elke generatie levert unieke resultaten op."
+      },
+      "q7": {
+        "question": "Is er een limiet aan het aantal instrumentale nummers dat ik kan genereren?",
+        "answer": "Momenteel kunnen er enkele beperkingen zijn. Raadpleeg onze gebruiksrichtlijnen of abonnementsgegevens (indien van toepassing) voor informatie over generatielimieten."
+      },
+      "q8": {
+        "question": "Hoe werkt de AI instrumentale generator eigenlijk?",
+        "answer": "Onze AI maakt gebruik van geavanceerde machine learning-algoritmen die zijn getraind op een enorme dataset van instrumentale muziek. Het analyseert uw invoerbeschrijving en genereert nieuwe muzikale stukken op basis van zijn begrip van muzikale structuren, stijlen en instrumentatie."
+      }
+    },
+    "cta": {
+      "text": "Klaar om uw eigen unieke instrumentale muziek te creëren?",
+      "subtext": "Ervaar de kracht van onze AI instrumentale generator en breng uw muzikale ideeën binnen enkele minuten tot leven.",
+      "button": "Begin nu met genereren"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Bespaar tijd en geld",
+        "description": "Stop met urenlang zoeken naar het juiste instrumentale nummer. Onze AI instrumentale generator biedt directe, betaalbare muziekcreatie."
+      },
+      "item02": {
+        "title": "Ontgrendel uw creatieve potentieel",
+        "description": "Genereer moeiteloos instrumentale muziek die perfect aansluit bij uw visie, ongeacht uw muzikale achtergrond, met onze innovatieve AI."
+      },
+      "item03": {
+        "title": "Krijg unieke, originele muziek",
+        "description": "Vermijd generieke stockmuziek en creëer echt onderscheidende instrumentale stukken met onze krachtige AI instrumentale generator."
+      },
+      "item04": {
+        "title": "Eenvoudig en intuïtief te gebruiken",
+        "description": "Beschrijf eenvoudig uw behoeften en onze AI instrumentale generator doet de rest. Geen gecompliceerde software of muzikale kennis vereist."
+      }
+    }
+  },
+  "rap-lyrics-generator": {
+    "meta-title": "Gratis AI Rap Tekstgenerator Online | Muzix",
+    "meta-description": "Ontketen je innerlijke tekstschrijver met de gratis AI rap tekstgenerator. Voer eenvoudig je ideeën in en bekijk hoe de slimme tool binnen enkele seconden unieke en creatieve rapteksten genereert.",
+    "heroSection": {
+      "h1": "Gratis AI Rap Tekstgenerator",
+      "description": "Genereer direct geweldige rapteksten met de AI Rap Tekstgenerator.",
+      "button": "Genereer nu rapteksten",
+      "clear-button": "Invoer wissen",
+      "music-generator": "AI Muziekgenerator",
+      "lyrics-label": "Beschrijving van de teksten",
+      "lyrics-placeholder": "Voer een paar woorden in om de gewenste teksten te beschrijven.",
+      "generate-button": "Genereren",
+      "copy-button": "Kopiëren",
+      "copied-button": "Gekopieerd",
+      "generated-lyrics": "Gegenereerde teksten"
+    },
+    "features": {
+      "title": "Belangrijkste kenmerken van onze rap tekstgenerator",
+      "description": "Ontdek de krachtige mogelijkheden die onze AI rap tekstgenerator tot de ideale tool maken voor zowel beginnende als gevestigde artiesten. We hebben hem ontworpen met eenvoud en effectiviteit in gedachten, voor een naadloze en plezierige ervaring bij het creëren van teksten.",
+      "items": [
+        {
+          "title": "AI-aangedreven tekstgeneratie",
+          "description": "Onze geavanceerde AI-algoritmes analyseren je invoer om originele en contextueel relevante rapteksten te genereren. Ervaar de magie van AI die coupletten creëert die je nooit voor mogelijk had gehouden."
+        },
+        {
+          "title": "Aanpasbare invoeropties",
+          "description": "Geef trefwoorden, thema's, namen of zelfs een gewenste stemming op, en onze rap tekstgenerator past de uitvoer aan je specifieke behoeften aan. Hoe meer details je opgeeft, hoe persoonlijker de teksten zullen zijn."
+        },
+        {
+          "title": "Veelzijdige tekststijlen",
+          "description": "Van hardcore rijmen tot soepele flows, onze AI kan zich aanpassen aan verschillende rap stijlen. Experimenteer met verschillende invoergegevens om een breed scala aan lyrische expressies te ontdekken die door onze rap tekstgenerator worden gegenereerd."
+        },
+        {
+          "title": "Direct resultaat",
+          "description": "Niet meer wachten op inspiratie. Onze rap tekstgenerator levert binnen enkele seconden hoogwaardige rapteksten, zodat je je creatieve momentum kunt behouden."
+        },
+        {
+          "title": "Gratis te gebruiken",
+          "description": "Krijg toegang tot de kracht van AI-aangedreven rap tekstcreatie zonder enige kosten. Onze rap tekstgenerator is volledig gratis voor iedereen te gebruiken, waardoor hij toegankelijk is voor alle makers."
+        },
+        {
+          "title": "Ontsteek je creativiteit",
+          "description": "Overwin writersblock en vind nieuwe ideeën. Gebruik onze rap tekstgenerator als een brainstormsessie om je songwritingproces te starten en nieuwe lyrische richtingen te verkennen."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Eenvoudige rap tekstcreatie in 4 eenvoudige stappen",
+      "description": "Het genereren van boeiende rapteksten met onze AI-tool is ongelooflijk eenvoudig. Volg deze eenvoudige stappen om te beginnen met het maken van je volgende hit:",
+      "steps": {
+        "step1": {
+          "title": "Voer je ideeën in",
+          "description": "Typ gewoon de trefwoorden, thema's, namen of concepten in waarover je rapteksten moeten gaan. Hoe specifieker je bent, hoe beter de resultaten van onze rap tekstgenerator zullen zijn."
+        },
+        "step2": {
+          "title": "Klik op 'Genereren'",
+          "description": "Nadat je je invoer hebt ingevoerd, klik je op de knop 'Genereer nu rapteksten'. Onze krachtige AI begint direct met het maken van unieke rap coupletten voor je."
+        },
+        "step3": {
+          "title": "Beoordeel en verfijn",
+          "description": "Bekijk de gegenereerde teksten. Je kunt ze gebruiken zoals ze zijn of ze aanpassen aan je artistieke visie. Onze rap tekstgenerator biedt een solide basis voor je creativiteit."
+        },
+        "step4": {
+          "title": "Begin met creëren!",
+          "description": "Gebruik de gegenereerde teksten in je nummers, freestyles of andere creatieve projecten. Onze gratis rap tekstgenerator is ontworpen om je muzikale reis te versterken."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Ontgrendel eindeloze mogelijkheden met onze rap tekstgenerator",
+      "description": "Onze AI-aangedreven rap tekstgenerator is geschikt voor een breed scala aan behoeften en creatieve projecten. Ontdek hoe het je in verschillende scenario's kan versterken:",
+      "case01": {
+        "title": "Songwriting inspiratie",
+        "description": "Overwin writersblock en vind frisse lyrische ideeën voor je volgende track. Gebruik onze rap tekstgenerator om creativiteit te stimuleren en unieke coupletten en hooks te ontwikkelen."
+      },
+      "case02": {
+        "title": "Freestyle oefening",
+        "description": "Genereer willekeurige regels en thema's om jezelf uit te dagen en je freestylevaardigheden te verbeteren. Onze tool biedt eindeloos materiaal om je improvisatievaardigheden te verbeteren met deze rap tekstgenerator."
+      },
+      "case03": {
+        "title": "Gepersonaliseerde verjaardagsliederen",
+        "description": "Creëer unieke en onvergetelijke verjaardag rapnummers voor vrienden en familie. Voer gewoon de naam van de persoon en enkele details in, en onze rap tekstgenerator zal een gepersonaliseerde ode maken."
+      },
+      "case04": {
+        "title": "Het maken van thematische tracks",
+        "description": "Genereer moeiteloos teksten rond specifieke thema's of onderwerpen. Of het nu om liefde, strijd of viering gaat, onze rap tekstgenerator kan het perfecte startpunt bieden."
+      },
+      "case05": {
+        "title": "Contentcreatie voor sociale media",
+        "description": "Genereer pakkende rap regels en coupletten voor je sociale media content, en betrek je publiek met unieke en creatieve lyrische fragmenten die door deze rap tekstgenerator zijn geproduceerd."
+      },
+      "case06": {
+        "title": "Gewoon voor de lol!",
+        "description": "Experimenteer en heb plezier met het maken van grappige of onverwachte rapteksten. Onze rap tekstgenerator is een geweldige manier om de luchtige kant van het creëren van teksten te verkennen."
+      }
+    },
+    "faqs": {
+      "title": "Veelgestelde vragen over de AI Rap Tekstgenerator",
+      "q1": {
+        "question": "Hoe werkt de AI rap tekstgenerator?",
+        "answer": "Onze rap tekstgenerator maakt gebruik van geavanceerde kunstmatige intelligentie algoritmes die zijn getraind op een enorme dataset van rapteksten. Wanneer je je ideeën invoert, analyseert de AI de tekst en genereert relevante en creatieve rapteksten op basis van de aangeleerde patronen en het begrip van rijm, ritme en thema's."
+      },
+      "q2": {
+        "question": "Is de rap tekstgenerator echt gratis?",
+        "answer": "Ja! Onze rap tekstgenerator is volledig gratis te gebruiken voor iedereen. Er zijn geen verborgen kosten of abonnementen vereist. We geloven in het toegankelijk maken van creatieve tools voor iedereen."
+      },
+      "q3": {
+        "question": "Welke soort invoer kan ik aan de rap tekstgenerator geven?",
+        "answer": "Je kunt elke soort tekst invoer geven, inclusief trefwoorden, thema's, namen, zinnen of zelfs gewoon een algemeen idee. Hoe specifieker je invoer, hoe meer op maat gemaakte teksten je van onze rap tekstgenerator zult krijgen."
+      },
+      "q4": {
+        "question": "Kan ik de gegenereerde teksten commercieel gebruiken?",
+        "answer": "Ja, je kunt de teksten die door onze rap tekstgenerator zijn gegenereerd gratis gebruiken voor je persoonlijke en commerciële projecten. Houd er echter rekening mee dat de AI content genereert op basis van bestaande patronen en dat er enkele overeenkomsten met bestaande werken kunnen voorkomen. We raden aan om de teksten te bekijken en aan te passen om de originaliteit te garanderen."
+      },
+      "q5": {
+        "question": "Is er een limiet aan het aantal keren dat ik de rap tekstgenerator kan gebruiken?",
+        "answer": "Nee, er zijn momenteel geen limieten aan het aantal keren dat je onze gratis rap tekstgenerator kunt gebruiken. Voel je vrij om zoveel teksten te genereren als je nodig hebt!"
+      },
+      "q6": {
+        "question": "Kan de rap tekstgenerator teksten in verschillende stijlen genereren?",
+        "answer": "Hoewel de AI streeft naar het genereren van veelzijdige teksten, zal de stijl grotendeels afhangen van je invoer. Experimenteer met verschillende trefwoorden en thema's om de output van de rap tekstgenerator te beïnvloeden."
+      },
+      "q7": {
+        "question": "Wat als ik de gegenereerde teksten niet leuk vind?",
+        "answer": "Geen probleem! Probeer gewoon opnieuw te genereren met iets andere invoer. Je kunt de gegenereerde teksten ook handmatig bewerken om ze beter aan je behoeften aan te passen. Onze rap tekstgenerator is bedoeld als een startpunt voor je creativiteit."
+      },
+      "q8": {
+        "question": "Moet ik een account aanmaken om de rap tekstgenerator te gebruiken?",
+        "answer": "Nee, je hoeft geen account aan te maken om onze gratis rap tekstgenerator te gebruiken. Bezoek gewoon de pagina en begin direct met het genereren van teksten."
+      }
+    },
+    "cta": {
+      "text": "Klaar om je innerlijke rapper te ontketenen?",
+      "subtext": "Begin vandaag nog met het gratis genereren van unieke rapteksten!",
+      "button": "Genereer nu rapteksten"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Bespaar tijd en moeite",
+        "description": "Stop met worstelen met writersblock. Onze AI-aangedreven rap tekstgenerator biedt directe inspiratie en bespaart je waardevolle tijd in het songwritingproces."
+      },
+      "item02": {
+        "title": "Versterk je creativiteit",
+        "description": "Ontdek nieuwe lyrische ideeën en perspectieven die je misschien niet had overwogen. Onze rap tekstgenerator kan je helpen om uit creatieve sleur te breken en frisse thema's te verkennen."
+      },
+      "item03": {
+        "title": "Gebruiksvriendelijke interface",
+        "description": "Ons intuïtieve ontwerp maakt het genereren van rapteksten eenvoudig en duidelijk voor gebruikers van alle niveaus. Er zijn geen technische vaardigheden nodig om onze rap tekstgenerator te gebruiken."
+      },
+      "item04": {
+        "title": "Experimenteer met verschillende stijlen",
+        "description": "Verken moeiteloos verschillende lyrische stijlen en thema's. Gebruik onze rap tekstgenerator om te experimenteren en nieuwe creatieve wegen te ontdekken in je rapmuziek."
+      }
+    }
+  },
+  "rap-name-generator": {
+    "meta-title": "Gratis AI Rap Naam Generator Online | Muzix",
+    "meta-description": "Genereer je perfecte rapnaam met onze gratis AI rapnaamgenerator. Krijg unieke, gepersonaliseerde rapnamen op basis van je stijl, verhaal en persoonlijkheid.",
+    "heroSection": {
+      "h1": "Gratis AI Rap Naam Generator",
+      "description": "Genereer je perfecte rapnaam met onze AI rapnaamgenerator. Krijg unieke, gepersonaliseerde rapnamen op basis van je stijl, verhaal en persoonlijkheid.",
+      "button": "Genereer Je Rap Naam",
+      "clear-button": "Wissen",
+      "ai-music-generator": "AI Muziek Generator",
+      "name-label": "Beschrijving van Naam",
+      "name-tooltip": "Voer een paar woorden in om de naam te beschrijven die je wenst.",
+      "name-placeholder": "Voer een paar woorden in om de naam te beschrijven die je wenst.",
+      "generated-name": "Gegenereerde Naam"
+    },
+    "features": {
+      "title": "Functies Die Onze Rap Naam Generator Uniek Maken",
+      "description": "Ervaar de perfecte mix van kunstmatige intelligentie en hiphopcultuur met onze innovatieve rapnaamgenerator. Onze geavanceerde algoritmes begrijpen de nuances van de hiphopcultuur om namen te creëren die je artistieke identiteit echt vertegenwoordigen.",
+      "items": [
+        {
+          "title": "AI-Aangedreven Cultureel Begrip",
+          "description": "Onze rapnaamgenerator maakt gebruik van geavanceerde AI om de hiphopcultuur, trends en historische betekenis te begrijpen, zodat elke gegenereerde naam authentieke betekenis en culturele relevantie heeft."
+        },
+        {
+          "title": "Gepersonaliseerde Stijl Afstemming",
+          "description": "Voer je favoriete stijl, invloeden en persoonlijke verhaal in, en onze rapnaamgenerator zal namen creëren die perfect aansluiten bij je artistieke visie en merkidentiteit."
+        },
+        {
+          "title": "Meerdere Generatie Opties",
+          "description": "Krijg meerdere naamvariaties met elke generatie, zodat je verschillende aspecten van je artistieke identiteit kunt verkennen en de perfecte match voor je stijl kunt kiezen."
+        },
+        {
+          "title": "Controle Culturele Betekenis",
+          "description": "Elke gegenereerde naam wordt geleverd met inzichten over de culturele betekenis en potentiële betekenis, zodat je een weloverwogen keuze kunt maken over je artistieke identiteit."
+        },
+        {
+          "title": "Beschikbaarheid Handelsmerk",
+          "description": "Onze rapnaamgenerator bevat een basiscontrole op beschikbaarheid om ervoor te zorgen dat je gekozen naam niet al is geclaimd door een andere artiest."
+        },
+        {
+          "title": "Opties Stijl Variatie",
+          "description": "Genereer namen in verschillende hiphop stijlen en subgenres, van old school tot trap, zodat je naam past bij je specifieke muzikale richting."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Hoe Onze Rap Naam Generator Jouw Perfecte Artiesten Naam Creëert",
+      "description": "Volg deze eenvoudige stappen om je ideale hiphopidentiteit te ontdekken met behulp van onze geavanceerde AI-technologie.",
+      "steps": {
+        "step1": {
+          "title": "Deel Je Visie",
+          "description": "Vertel onze rapnaamgenerator over je stijl, invloeden en het bericht dat je naam moet overbrengen. Hoe meer details je geeft, hoe beter we je artistieke identiteit kunnen matchen."
+        },
+        "step2": {
+          "title": "AI Analyse",
+          "description": "Onze geavanceerde algoritmen analyseren je invoer, rekening houdend met culturele relevantie, linguïstische patronen en hiphop tradities om unieke naamopties te genereren."
+        },
+        "step3": {
+          "title": "Bekijk Opties",
+          "description": "Blader door meerdere gegenereerde namen, elk met uitleg over hun betekenis en culturele betekenis in de hiphopgemeenschap."
+        },
+        "step4": {
+          "title": "Verfijn en Kies",
+          "description": "Optimaliseer je voorkeuren en genereer nieuwe variaties totdat je de perfecte rapnaam hebt gevonden die je artistieke visie vertegenwoordigt."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Wie Kan Profiteren Van Onze Rap Naam Generator?",
+      "description": "Onze veelzijdige tool voldoet aan verschillende behoeften in de hiphopgemeenschap en daarbuiten.",
+      "case01": {
+        "title": "Aspirerende Rappers",
+        "description": "Nieuwe artiesten die hun aanwezigheid in de hiphopscene willen vestigen met een memorabele, betekenisvolle naam die hun essentie vangt."
+      },
+      "case02": {
+        "title": "Gevestigde Artiesten",
+        "description": "Professionele muzikanten die op zoek zijn naar een frisse identiteit of alternatieve persona voor nieuwe projecten of samenwerkingen."
+      },
+      "case03": {
+        "title": "Content Creators",
+        "description": "YouTubers, streamers en social media influencers die een hiphop geïnspireerde gebruikersnaam nodig hebben die resoneert met hun publiek."
+      },
+      "case04": {
+        "title": "Muziek Producenten",
+        "description": "Beatmakers en producers die op zoek zijn naar een onderscheidende naam die opvalt in de industrie terwijl ze de hiphop authenticiteit behouden."
+      },
+      "case05": {
+        "title": "Gaming Communities",
+        "description": "Gamers die op zoek zijn naar unieke, hiphop geïnspireerde gebruikersnamen voor hun online gamingprofielen en streamingkanalen."
+      },
+      "case06": {
+        "title": "Creatieve Schrijvers",
+        "description": "Auteurs en scenarioschrijvers die authentieke hiphop personages ontwikkelen die cultureel passende namen nodig hebben voor hun verhalen."
+      }
+    },
+    "faqs": {
+      "title": "Veelgestelde Vragen Over Onze Rap Naam Generator",
+      "q1": {
+        "question": "Hoe creëert je rapnaamgenerator unieke namen?",
+        "answer": "Ons AI-aangedreven systeem analyseert je invoervoorkeuren, combineert ze met deep learning modellen getraind op hiphopcultuur, en genereert unieke combinaties die je stijl weerspiegelen terwijl ze authenticiteit behouden."
+      },
+      "q2": {
+        "question": "Kan ik meerdere naamsuggesties krijgen?",
+        "answer": "Ja, onze rapnaamgenerator biedt meerdere opties bij elke generatie, en je kunt zo vaak nieuwe sets namen genereren als je nodig hebt."
+      },
+      "q3": {
+        "question": "Hoe weet ik of mijn gegenereerde rapnaam origineel is?",
+        "answer": "Hoewel ons systeem een basiscontrole op beschikbaarheid bevat, raden we aan om extra onderzoek te doen om ervoor te zorgen dat je gekozen naam niet al in gebruik is door een andere artiest."
+      },
+      "q4": {
+        "question": "Kan ik de stijl van gegenereerde namen aanpassen?",
+        "answer": "Absoluut! Met onze rapnaamgenerator kun je favoriete stijlen opgeven, van klassieke hiphop tot moderne trap, zodat je naam past bij je artistieke richting."
+      },
+      "q5": {
+        "question": "Is de rapnaamgenerator gratis te gebruiken?",
+        "answer": "We bieden zowel gratis als premium niveaus, waarbij de gratis versie basisnaamgeneratie biedt en de premium versie extra functies zoals gedetailleerde culturele inzichten en handelsmerkcontroles."
+      },
+      "q6": {
+        "question": "Hoe vaak kan ik de generator gebruiken?",
+        "answer": "Gratis gebruikers kunnen dagelijks meerdere namen genereren, terwijl premium gebruikers onbeperkte toegang hebben tot onze rapnaamgenerator en extra functies."
+      },
+      "q7": {
+        "question": "Kan ik mijn favoriete gegenereerde namen opslaan?",
+        "answer": "Premium gebruikers kunnen hun favoriete gegenereerde namen opslaan en organiseren in een persoonlijke collectie voor toekomstig gebruik."
+      },
+      "q8": {
+        "question": "Bieden jullie betekenisuitleggingen voor gegenereerde namen?",
+        "answer": "Ja, elke naam wordt geleverd met een uitleg van de potentiële betekenis en culturele betekenis in de hiphopcontext."
+      }
+    },
+    "cta": {
+      "text": "Klaar Om Je Unieke Hiphop Identiteit Te Creëren?",
+      "subtext": "Sluit je aan bij duizenden artiesten die hun perfecte rapnaam hebben gevonden met behulp van onze AI-aangedreven generator.",
+      "button": "Genereer Nu Je Rap Naam"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Bespaar Tijd en Energie",
+        "description": "In plaats van wekenlang brainstormen, laat onze rapnaamgenerator in seconden perfecte opties creëren."
+      },
+      "item02": {
+        "title": "Culturele Authenticiteit",
+        "description": "Krijg namen die de hiphopcultuur respecteren en weerspiegelen, terwijl je unieke artistieke visie behouden blijft."
+      },
+      "item03": {
+        "title": "Val Op Tussen De Menigte",
+        "description": "Genereer unieke, memorabele namen die je helpen een onderscheidend merk op te bouwen in de hiphopgemeenschap."
+      },
+      "item04": {
+        "title": "Toekomstbestendig Je Merk",
+        "description": "Kies uit namen die zowel cultureel relevant zijn als een blijvend potentieel hebben in het evoluerende hiphop landschap."
+      }
+    }
+  },
+  "ai-melody-generator": {
+    "meta-title": "AI Melodiegenerator | Muzix",
+    "meta-description": "Ervaar de toekomst van muziekcreatie met onze geavanceerde AI-melodiegenerator. Creëer direct unieke, royaltyvrije melodieën vanuit tekstbeschrijvingen. Perfect voor content creators, muzikanten en ontwikkelaars.",
+    "heroSection": {
+      "h1": "AI Melodiegenerator",
+      "description": "De AI-melodiegenerator begrijpt muzikale elementen, akkoordprogressies en emotionele ondertonen om binnen enkele minuten de perfecte melodie voor uw project te creëren.",
+      "button": "Creëer uw melodie",
+      "clear-button": "Wissen",
+      "ai-music-generator": "AI Muziekgenerator",
+      "description-label": "Beschrijving van de melodie",
+      "description-tooltip": "Voer een paar woorden in om de gewenste melodie te beschrijven.",
+      "description-placeholder": "Voer een paar woorden in om de gewenste melodie te beschrijven.",
+      "generated-melody": "Gegenererde melodie",
+      "generating": "Genereren"
+    },
+    "features": {
+      "title": "Revolutionaire functies voor muziekcreatie",
+      "description": "Onze AI-melodiegenerator combineert geavanceerde natuurlijke taalverwerking met diepgaand muzikaal inzicht om uw ideeën om te vormen tot professionele composities.",
+      "items": [
+        {
+          "title": "Intelligente tekstanalyse",
+          "description": "Onze geavanceerde AI-melodiegenerator verwerkt invoer in natuurlijke taal om stemming, tempo, stijl en muzikale structuur te begrijpen. Het systeem herkent specifieke muzikale termen zoals 'adagio', 'crescendo' en 'mineur' en begrijpt ook beschrijvende taal zoals 'opbeurend', 'melancholisch' of 'energiek', zodat uw muzikale visie nauwkeurig wordt vertaald."
+        },
+        {
+          "title": "Real-time generatie-engine",
+          "description": "Aangedreven door state-of-the-art neurale netwerken, creëert onze AI-melodiegenerator complete muzikale zinnen in minder dan twee minuten. Het systeem analyseert uw invoer, genereert meerdere melodische variaties en selecteert de beste match voor uw beschrijving, terwijl het de muzikale samenhang en emotionele resonantie behoudt."
+        },
+        {
+          "title": "Geavanceerde integratie van muziektheorie",
+          "description": "De AI-melodiegenerator integreert uitgebreide principes van muziektheorie, waaronder complexe akkoordprogressies, ritmische patronen en melodische structuren. Het begrijpt toonsoorten, maatsoorten en modi, waardoor technisch correcte composities ontstaan die voldoen aan gevestigde muzikale regels, terwijl de creativiteit behouden blijft."
+        },
+        {
+          "title": "Multi-formaat exportsysteem",
+          "description": "Exporteer uw AI-gegenereerde melodieën in meerdere professionele formaten, waaronder MIDI, WAV en MP3. Onze AI-melodiegenerator creëert bestanden die compatibel zijn met belangrijke Digital Audio Workstations (DAW's) zoals Ableton, FL Studio en Logic Pro, waardoor naadloze integratie in uw productieworkflow mogelijk is."
+        },
+        {
+          "title": "Stijltransfertechnologie",
+          "description": "Onze AI-melodiegenerator beschikt over geavanceerde stijltransfermogelijkheden, waarmee u genrecombinaties en unieke stilistische elementen kunt specificeren. Combineer klassiek met elektronisch, jazz met pop, of creëer geheel nieuwe fusiestijlen, terwijl de muzikale samenhang en professionele kwaliteit behouden blijven."
+        },
+        {
+          "title": "Aanpasbare parameters",
+          "description": "Fijne-tune uw gegenereerde melodieën met aanpasbare parameters, waaronder tempo, toonsoort, melodische complexiteit en ritmische dichtheid. De AI-melodiegenerator biedt zowel basis- als geavanceerde besturingselementen om ervoor te zorgen dat uw muziek aan uw exacte specificaties voldoet."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Genereer professionele melodieën in vier eenvoudige stappen",
+      "description": "Ons gestroomlijnde proces maakt het creëren van aangepaste melodieën moeiteloos en intuïtief, aangedreven door geavanceerde AI-technologie die achter de schermen werkt.",
+      "steps": {
+        "step1": {
+          "title": "Beschrijf uw melodie",
+          "description": "Voer een gedetailleerde beschrijving in van uw gewenste melodie in natuurlijke taal. Onze AI-melodiegenerator begrijpt zowel muzikale terminologie als emotionele beschrijvingen, zodat u elementen zoals tempo, stemming, instrumenttypen en structurele voorkeuren kunt specificeren."
+        },
+        "step2": {
+          "title": "Geavanceerde AI-verwerking",
+          "description": "Onze neurale netwerken analyseren uw invoer met behulp van natuurlijke taalverwerking en muzikale patroonherkenning. De AI-melodiegenerator zet uw beschrijving om in muzikale parameters, rekening houdend met theoretische regels, emotionele context en stilistische elementen."
+        },
+        "step3": {
+          "title": "Intelligente compositie",
+          "description": "De AI-melodiegenerator creëert meerdere melodische variaties op basis van uw specificaties, waarbij geavanceerde principes van muziektheorie en creatieve algoritmen worden toegepast om originaliteit en kwaliteit te garanderen. Elke melodie ondergaat harmonische en ritmische analyse voor optimale muzikale samenhang."
+        },
+        "step4": {
+          "title": "Beoordelen en exporteren",
+          "description": "Bekijk uw gegenereerde melodie direct in uw browser. Als u tevreden bent, downloadt u uw compositie in uw gewenste formaat, klaar voor direct gebruik in uw projecten. Elke melodie wordt geleverd met volledige commerciële gebruiksrechten."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Oneindige creatieve mogelijkheden",
+      "description": "Ontdek hoe onze AI-melodiegenerator muziekcreatie in verschillende sectoren en toepassingen revolutioneert.",
+      "case01": {
+        "title": "Video Content Creatie",
+        "description": "Creëer aangepaste achtergrondmuziek voor YouTube-video's, sociale media-content en promotioneel materiaal. Onze AI-melodiegenerator produceert unieke, royaltyvrije melodieën die perfect aansluiten bij de stemming en timing van uw content, waardoor de betrokkenheid van de kijker wordt verbeterd en copyrightproblemen worden vermeden."
+      },
+      "case02": {
+        "title": "Game Sound Design",
+        "description": "Genereer dynamische achtergrondmuziek en evenementspecifieke melodieën voor gaming-applicaties. De AI-melodiegenerator kan variaties van thema's creëren voor verschillende speltoestanden, niveaus of interacties tussen personages, wat zorgt voor rijke, adaptieve muzikale ervaringen."
+      },
+      "case03": {
+        "title": "Muziekproductie",
+        "description": "Doorbreek creatieve blokkades en verken efficiënt nieuwe muzikale ideeën. Onze AI-melodiegenerator helpt componisten en producers snel melodische inspiratie, akkoordprogressies en muzikale motieven te genereren die verder kunnen worden ontwikkeld tot complete composities."
+      },
+      "case04": {
+        "title": "Commerciële productie",
+        "description": "Ontwerp unieke jingles en reclamemuziek die de essentie van uw merk vastlegt. De AI-melodiegenerator creëert memorabele, originele melodieën voor commercials, productlanceringen en merkidentiteit, waardoor de productietijd en -kosten aanzienlijk worden verlaagd."
+      },
+      "case05": {
+        "title": "Film Scoring",
+        "description": "Genereer aangepaste thema's en achtergrondmuziek voor scènes, overgangen en emotionele momenten in filmprojecten. Onze AI-melodiegenerator begrijpt dramatische timing en emotionele progressie, waardoor scores ontstaan die het vertellen van verhalen versterken."
+      },
+      "case06": {
+        "title": "Mobiele applicaties",
+        "description": "Ontwikkel unieke sound-identiteiten voor mobiele apps en games. De AI-melodiegenerator creëert onderscheidende audio-brandingselementen, meldingsgeluiden en interactieve muziek die de gebruikerservaring verbetert en tegelijkertijd de app-prestaties behoudt."
+      }
+    },
+    "faqs": {
+      "title": "Uitgebreide gids voor AI-muziekcreatie",
+      "q1": {
+        "question": "Hoe zorgt de AI-melodiegenerator voor originele en unieke composities?",
+        "answer": "Onze AI-melodiegenerator maakt gebruik van geavanceerde neurale netwerken die zijn getraind op diverse muzikale datasets en implementeert originaliteitsalgoritmes. Elke generatie creëert unieke combinaties van melodische patronen, ritmische structuren en harmonische progressies. Het systeem verifieert continu de uniciteit van elke compositie ten opzichte van zijn database, wat elke keer originele resultaten garandeert."
+      },
+      "q2": {
+        "question": "Wat is de prijsstructuur voor melodiegeneratie?",
+        "answer": "Wij bieden zeer concurrerende prijzen van $ 0,01 tot $ 0,025 per melodiegeneratie, waardoor professionele muziekcreatie toegankelijk wordt voor makers van alle budgetten. Dit omvat volledige commerciële rechten om de gegenereerde melodieën in uw projecten te gebruiken, zonder terugkerende royalty's of verborgen kosten."
+      },
+      "q3": {
+        "question": "Hoe werkt de commerciële licentie voor gegenereerde melodieën?",
+        "answer": "Elke melodie die via onze AI-melodiegenerator wordt gemaakt, wordt geleverd met uitgebreide commerciële gebruiksrechten. U kunt de gegenereerde muziek gebruiken in elk commercieel project, inclusief gemonetariseerde video's, games, applicaties of promotionele content. Er zijn geen extra licentiekosten of royaltyvereisten na aankoop."
+      },
+      "q4": {
+        "question": "Welke technische specificaties worden ondersteund voor melodie-export?",
+        "answer": "Onze AI-melodiegenerator ondersteunt industriestandaard exportformaten, waaronder WAV (44,1 kHz, 24-bit), MP3 (320 kbps) en MIDI. Bestanden zijn compatibel met alle belangrijke DAW's en mediaplayers, wat zorgt voor naadloze integratie in uw bestaande workflow."
+      },
+      "q5": {
+        "question": "Kan de AI complexe muzikale vereisten aan?",
+        "answer": "De AI-melodiegenerator begrijpt geavanceerde muzikale concepten, waaronder polyritmieën, modale schalen, toonsoortmodulaties en complexe akkoordprogressies. Het kan geavanceerde melodische structuren genereren terwijl de muzikaliteit en samenhang behouden blijven, geschikt voor zowel eenvoudige als complexe compositienodigingen."
+      },
+      "q6": {
+        "question": "Wat maakt uw AI-melodiegenerator anders dan concurrenten?",
+        "answer": "Ons systeem combineert geavanceerde AI-technologie met diepgaand muzikaal inzicht, wat ongeëvenaarde verwerking van natuurlijke taalinput, snelle generatietijden en professionele output tegen zeer concurrerende prijzen biedt. De focus op gebruiksvriendelijke interactie terwijl de muzikale verfijning behouden blijft, onderscheidt onze service."
+      },
+      "q7": {
+        "question": "Hoe zorgt u voor de kwaliteit van gegenereerde melodieën?",
+        "answer": "Elke melodie ondergaat meerdere kwaliteitscontroles tijdens de generatie, waaronder harmonische analyse, verificatie van ritmische consistentie en evaluatie van muzikale samenhang. Onze AI-melodiegenerator past regels van muziektheorie en industrienormen toe om elke keer output van professionele kwaliteit te garanderen."
+      },
+      "q8": {
+        "question": "Wat voor soort input levert de beste resultaten op?",
+        "answer": "De meest effectieve inputs combineren specifieke muzikale vereisten met emotionele of contextuele beschrijvingen. Bijvoorbeeld: 'Creëer een opbeurende melodie in C majeur bij 120 BPM met een focus op strijkinstrumenten en toenemende intensiteit' geeft duidelijke parameters waaraan de AI-melodiegenerator kan werken."
+      }
+    },
+    "cta": {
+      "text": "Begin vandaag nog met het creëren van professionele melodieën",
+      "subtext": "Sluit je aan bij duizenden creators die onze AI-melodiegenerator gebruiken om hun muzikale visies direct tot leven te brengen. Begin nu aan uw reis naar AI-aangedreven muziekcreatie.",
+      "button": "Genereer uw eerste melodie"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Snelle creatie en iteratie",
+        "description": "Genereer en verfijn professionele melodieën in minuten in plaats van uren. Onze AI-melodiegenerator versnelt uw creatieve proces terwijl de hoge kwaliteit behouden blijft, waardoor snel experimenteren en project afronding mogelijk is."
+      },
+      "item02": {
+        "title": "Kosteneffectieve muziekproductie",
+        "description": "Krijg toegang tot professionele melodie-creatie tegen een fractie van de traditionele kosten van muziekproductie. Onze AI-melodiegenerator elimineert de noodzaak van dure studiotijd of licentiekosten en levert resultaten van commerciële kwaliteit."
+      },
+      "item03": {
+        "title": "Universele toegankelijkheid",
+        "description": "Creëer professionele melodieën ongeacht uw muzikale achtergrond. Onze AI-melodiegenerator overbrugt de kloof tussen muzikale visie en technische expertise, waardoor kwaliteitsvolle muziekcreatie voor iedereen toegankelijk wordt."
+      },
+      "item04": {
+        "title": "Creatieve vrijheid",
+        "description": "Verken onbeperkte muzikale mogelijkheden zonder creatieve beperkingen. Onze AI-melodiegenerator past zich aan elke stijl, genre of fusie aan die u zich kunt voorstellen, en ondersteunt uw unieke creatieve visie met technische precisie."
+      }
+    }
+  },
+  "music-group-name-generator": {
+    "meta-title": "AI Muziek Groepsnamen Generator | Creëer Perfecte Bandnamen Direct",
+    "meta-description": "Transformeer je muzikale identiteit met onze geavanceerde AI muziek groepsnamen generator. Krijg creatieve, unieke en onvergetelijke bandnamen direct met behulp van ChatGPT technologie. Probeer het vandaag nog gratis!",
+    "heroSection": {
+      "h1": "AI Muziek Groepsnamen Generator",
+      "description": "Ontketen creativiteit met onze innovatieve muziek groepsnamen generator aangedreven door ChatGPT.",
+      "button": "Genereer Naam",
+      "clear-button": "Start Fris",
+      "ai-music-generator": "AI Muziek Generator",
+      "name-label": "Naam van de Muziek Groep",
+      "name-tooltip": "Voer een paar woorden in om de naam van de muziek groep te beschrijven die je wenst.",
+      "name-placeholder": "Voer een paar woorden in om de naam van de muziek groep te beschrijven die je wenst.",
+      "generated-name": "Gegenereerde Naam"
+    },
+    "features": {
+      "title": "Waarom Kiezen voor Onze Muziek Groepsnamen Generator?",
+      "description": "Onze geavanceerde AI-aangedreven muziek groepsnamen generator combineert creativiteit met geavanceerde technologie om namen te leveren die resoneren met je muzikale visie.",
+      "items": [
+        {
+          "title": "AI-Aangedreven Creativiteit",
+          "description": "Benut de kracht van ChatGPT om unieke en creatieve bandnamen te genereren die opvallen in de huidige competitieve muziekindustrie. Onze muziek groepsnamen generator leert van talloze succesvolle bandnamen om opties te creëren die zowel origineel als memorabel zijn."
+        },
+        {
+          "title": "Razendsnelle Resultaten",
+          "description": "Krijg binnen enkele seconden direct toegang tot tientallen potentiële bandnamen. Geen uren meer brainstormen of ruzie maken met bandleden over namen - onze muziek groepsnamen generator levert snelle, kwalitatieve suggesties wanneer je ze nodig hebt."
+        },
+        {
+          "title": "Onbeperkte Mogelijkheden",
+          "description": "Genereer zoveel namen als je wilt totdat je de perfecte match vindt. Ons AI-systeem raakt nooit zonder creatieve combinaties, wat zorgt voor frisse en unieke suggesties elke keer dat je de muziek groepsnamen generator gebruikt."
+        },
+        {
+          "title": "Genre-Flexibele Benoeming",
+          "description": "Of je nu een metalband, popgroep of klassiek ensemble start, onze muziek groepsnamen generator begrijpt verschillende genreconventies en creëert passende suggesties die bij je stijl passen."
+        },
+        {
+          "title": "Aangepaste Opties",
+          "description": "Stuur de AI aan met specifieke trefwoorden, thema's of concepten om namen te genereren die aansluiten bij je visie. Onze muziek groepsnamen generator past zich aan je voorkeuren aan terwijl het de creativiteit behoudt."
+        },
+        {
+          "title": "Controle op Beschikbaarheid in Echt Tijd",
+          "description": "Bespaar tijd door direct te controleren of je gekozen naam al bezet is op grote sociale mediaplatforms, zodat je mogelijke merkconflicten in de toekomst kunt vermijden."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Hoe Onze Muziek Groepsnamen Generator Werkt",
+      "description": "De perfecte bandnaam krijgen is slechts een paar klikken verwijderd met ons gestroomlijnde proces.",
+      "steps": {
+        "step1": {
+          "title": "Beschrijf Je Visie",
+          "description": "Voer trefwoorden, thema's of concepten in die je muzikale project inspireren. Onze muziek groepsnamen generator gebruikt deze invoer om je creatieve richting te begrijpen."
+        },
+        "step2": {
+          "title": "AI Generatie Proces",
+          "description": "Ons geavanceerde ChatGPT-algoritme analyseert je invoer en genereert meerdere unieke naamsopties, rekening houdend met factoren zoals memorabiliteit, originaliteit en relevantie voor je beschrijving."
+        },
+        "step3": {
+          "title": "Beoordeel en Selecteer",
+          "description": "Blader door de gegenereerde namen en selecteer je favorieten. Elke suggestie wordt geleverd met inzichten over de betekenis en de potentiële impact op je merk."
+        },
+        "step4": {
+          "title": "Verbeter en Perfectioneer",
+          "description": "Zie je de perfecte naam niet? Pas eenvoudig je invoer aan of genereer meer opties. Onze muziek groepsnamen generator biedt onbeperkte pogingen om je ideale naam te vinden."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Perfect voor Elk Muziekproject",
+      "description": "Onze muziek groepsnamen generator voldoet aan diverse behoeften in de muziekindustrie.",
+      "case01": {
+        "title": "Nieuwe Bandformatie",
+        "description": "Een nieuwe band starten? Laat je inspireren door unieke naamsuggesties die je muzikale visie vastleggen en je helpen op te vallen in de menigte."
+      },
+      "case02": {
+        "title": "Soloartiestenprojecten",
+        "description": "Soloartiesten kunnen creatieve alter ego's of projectnamen ontdekken die hun artistieke identiteit aanvullen met behulp van onze muziek groepsnamen generator."
+      },
+      "case03": {
+        "title": "Platenlabels",
+        "description": "Platenlabel executives kunnen snel potentiële namen genereren voor nieuwe artiestengroepen of dochterlabels met onze efficiënte naamgevingstool."
+      },
+      "case04": {
+        "title": "Muziekproducenten",
+        "description": "Producenten kunnen pakkende namen creëren voor productieteams of samenwerkingsprojecten met behulp van onze veelzijdige muziek groepsnamen generator."
+      },
+      "case05": {
+        "title": "Coverbands",
+        "description": "Vind slimme en onvergetelijke namen voor je tribute- of coverband die je invloeden eren terwijl je de originaliteit behoudt."
+      },
+      "case06": {
+        "title": "Educatieve Ensembles",
+        "description": "Muziekleraren en studenten kunnen hun schoolbands, orkesten of muziekgroepen een professioneel klinkende naam geven met behulp van suggesties."
+      }
+    },
+    "faqs": {
+      "title": "Veelgestelde Vragen",
+      "q1": {
+        "question": "Hoe werkt de muziek groepsnamen generator?",
+        "answer": "Onze generator gebruikt ChatGPT AI-technologie om je invoer te analyseren en unieke bandnamen te creëren op basis van je specificaties. Het combineert creativiteit met geavanceerde taalverwerking om namen voor te stellen die resoneren met je visie."
+      },
+      "q2": {
+        "question": "Is de muziek groepsnamen generator gratis te gebruiken?",
+        "answer": "Ja, onze basis naamgeneratieservice is volledig gratis te gebruiken. Genereer zoveel namen als je nodig hebt om de perfecte match voor je muziekproject te vinden."
+      },
+      "q3": {
+        "question": "Kan ik namen krijgen voor specifieke muziekgenres?",
+        "answer": "Absoluut! Onze muziek groepsnamen generator kan namen creëren die geschikt zijn voor elk genre, van rock en pop tot klassiek en jazz. Voeg gewoon je genrevoorkeuren toe aan de beschrijving."
+      },
+      "q4": {
+        "question": "Hoeveel naamsuggesties kan ik genereren?",
+        "answer": "Er is geen limiet aan het aantal namen dat je kunt genereren. Blijf onze muziek groepsnamen generator gebruiken totdat je de perfecte naam voor je project hebt gevonden."
+      },
+      "q5": {
+        "question": "Zijn de gegenereerde namen uniek?",
+        "answer": "Hoewel onze muziek groepsnamen generator originele suggesties creëert, raden we aan om extra onderzoek te doen om ervoor te zorgen dat je gekozen naam niet al in gebruik is."
+      },
+      "q6": {
+        "question": "Kan ik het type gegenereerde namen aanpassen?",
+        "answer": "Ja, je kunt de naamgeving richting beïnvloeden door specifieke trefwoorden, thema's of concepten in je invoerbeschrijving op te geven."
+      },
+      "q7": {
+        "question": "Hoe weet ik of een gegenereerde naam beschikbaar is om te gebruiken?",
+        "answer": "Ons platform omvat basisbeschikbaarheidscontrole op grote sociale mediaplatforms, maar we raden aan om grondige handelsmerkonderzoeken uit te voeren voor je definitieve selectie."
+      },
+      "q8": {
+        "question": "Kan ik mijn favoriete gegenereerde namen opslaan?",
+        "answer": "Momenteel raden we aan om je favoriete namen extern te kopiëren en op te slaan. We werken aan het toevoegen van een opslagfunctie in toekomstige updates."
+      }
+    },
+    "cta": {
+      "text": "Klaar om Je Muziekproject een Naam te Geven?",
+      "subtext": "Sluit je aan bij duizenden muzikanten die hun perfecte naam hebben gevonden met behulp van onze muziek groepsnamen generator.",
+      "button": "Genereer Namen Nu"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Bespaar Tijd en Energie",
+        "description": "Sla lange brainstormsessies over en krijg direct toegang tot creatieve bandnaamideeën met onze efficiënte muziek groepsnamen generator."
+      },
+      "item02": {
+        "title": "Versterk Je Merkidentiteit",
+        "description": "Val op in de muziekindustrie met een unieke, AI-gegenereerde naam die de aandacht trekt en je artistieke visie weerspiegelt."
+      },
+      "item03": {
+        "title": "Verminder Creatieve Blokkades",
+        "description": "Raak nooit meer vast aan naamgeving. Onze muziek groepsnamen generator biedt eindeloze inspiratie voor je muziekprojecten."
+      },
+      "item04": {
+        "title": "Toekomstbestendig Je Merk",
+        "description": "Krijg moderne, relevante naamsuggesties die je muziekgroep zullen helpen om eigentijds te blijven in een evoluerende industrie."
+      }
+    }
+  },
+  "ai-singing-generator": {
+    "meta-title": "AI Zangles Generator | Creëer Aangepaste Muziek Met Gemak",
+    "meta-description": "Verander je muzikale ideeën in realiteit met onze AI zangles generator. Creëer aangepaste vocale en instrumentale muziek in elk genre.",
+    "heroSection": {
+      "h1": "Gratis AI Zangles Generator",
+      "description": "Verander je creatieve visie in prachtige muziek met de AI zangles generator. Of je nu zang of instrumentale tracks nodig hebt, onze AI-technologie brengt je muzikale ideeën tot leven."
+    },
+    "features": {
+      "title": "Ontgrendel de Kracht van AI Muziekcreatie",
+      "description": "Onze AI zangles generator combineert geavanceerde technologie met een intuïtief ontwerp om muziekcreatie toegankelijk te maken voor iedereen.",
+      "items": [
+        {
+          "title": "Veelzijdige Stijlgeneratie",
+          "description": "Van pop tot klassiek, rock tot jazz, onze AI zangles generator past zich aan elke gewenste muziekstijl aan. Beschrijf gewoon je visie, en onze AI creëert de perfecte soundtrack die past bij je creatieve richting."
+        },
+        {
+          "title": "Vocale en Instrumentale Opties",
+          "description": "Kies tussen AI-gegenereerde zang of pure instrumentale tracks. Onze geavanceerde AI zangles generator creëert zowel overtuigende vocale uitvoeringen als rijke instrumentale arrangementen die aan je behoeften voldoen."
+        },
+        {
+          "title": "Eenvoudige Tekst-naar-Muziek Interface",
+          "description": "Geen muzikale expertise vereist. Beschrijf gewoon wat je wilt in duidelijke taal, en onze AI zangles generator transformeert je woorden in professionele muziek."
+        },
+        {
+          "title": "Aanpasbare Genre-instellingen",
+          "description": "Fijn-afstem je creatie door specifieke genres te selecteren of meerdere stijlen te combineren. Onze AI zangles generator mengt naadloos verschillende muzikale elementen om je unieke sound te creëren."
+        },
+        {
+          "title": "Hoge Kwaliteit Output",
+          "description": "Ervaar studiokwaliteit geluid bij elke generatie. Onze AI zangles generator produceert heldere, duidelijke en professioneel gemasterde tracks die klaar zijn voor je projecten."
+        },
+        {
+          "title": "Snelle Generatie",
+          "description": "Krijg je aangepaste muziek binnen enkele minuten, niet uren. Onze efficiënte AI zangles generator levert snelle resultaten zonder compromissen op kwaliteit."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Creëer Je Perfecte Track in Vier Eenvoudige Stappen",
+      "description": "Onze AI zangles generator maakt muziekcreatie eenvoudig en plezierig. Volg deze eenvoudige stappen om je muzikale visie tot leven te brengen.",
+      "steps": {
+        "step1": {
+          "title": "Beschrijf Je Visie",
+          "description": "Vertel onze AI zangles generator over de stijl, stemming en het type muziek dat je wilt creëren. Hoe gedetailleerder je beschrijving, hoe beter de resultaten."
+        },
+        "step2": {
+          "title": "Kies Je Formaat",
+          "description": "Kies tussen vocale of instrumentale generatie. Onze AI zangles generator kan zowel zangoptredens als instrumentale arrangementen creëren."
+        },
+        "step3": {
+          "title": "Pas Je Track Aan",
+          "description": "Fijn-afstem je generatie door genre-instellingen, tempo en andere muzikale elementen aan te passen om je creatie te perfectioneren."
+        },
+        "step4": {
+          "title": "Genereer en Download",
+          "description": "Laat onze AI zangles generator zijn magie doen, en download vervolgens je aangepaste track in een hoogwaardige audioformaat."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Oneindige Mogelijkheden met AI Muziekcreatie",
+      "description": "Ontdek hoe onze AI zangles generator verschillende creatieve behoeften in verschillende domeinen kan dienen.",
+      "case01": {
+        "title": "Content Creators",
+        "description": "Creëer unieke achtergrondmuziek voor je video's, podcasts en social media content zonder je zorgen te maken over auteursrechtelijke kwesties."
+      },
+      "case02": {
+        "title": "Game Ontwikkelaars",
+        "description": "Genereer aangepaste soundtracks en achtergrondmuziek voor je gamingprojecten met onze veelzijdige AI zangles generator."
+      },
+      "case03": {
+        "title": "Reclame",
+        "description": "Produceer originele jingles en commerciële achtergrondmuziek die perfect past bij de identiteit van je merk."
+      },
+      "case04": {
+        "title": "Persoonlijke Projecten",
+        "description": "Creëer aangepaste nummers voor speciale gelegenheden, presentaties of persoonlijk plezier met behulp van onze AI zangles generator."
+      },
+      "case05": {
+        "title": "Onderwijs",
+        "description": "Genereer educatieve liedjes en muzikale materialen om leerervaringen en betrokkenheid te verbeteren."
+      },
+      "case06": {
+        "title": "Meditatie en Welzijn",
+        "description": "Creëer kalmerende instrumentale tracks voor meditatie, yogasessies of ontspanning."
+      }
+    },
+    "faqs": {
+      "title": "Veelgestelde Vragen over de AI Zangles Generator",
+      "q1": {
+        "question": "Hoe werkt de AI zangles generator?",
+        "answer": "Onze AI zangles generator gebruikt geavanceerde machine learning algoritmes om je input te analyseren en aangepaste muziek te creëren op basis van je beschrijvingen. Het begrijpt muzikale patronen, structuren en stijlen om originele composities te genereren die aan je eisen voldoen."
+      },
+      "q2": {
+        "question": "Kan ik de AI zangles generator proberen voordat ik koop?",
+        "answer": "Ja! We bieden gratis proefgeneraties aan, zodat je de kracht van onze AI zangles generator zelf kunt ervaren. Bezoek onze prijspagina voor meer informatie over onze plannen en proefopties."
+      },
+      "q3": {
+        "question": "Welke soorten muziek kan ik creëren?",
+        "answer": "Onze AI zangles generator kan bijna elke muziekstijl creëren, van pop en rock tot klassiek en elektronisch. Je kunt zowel vocale uitvoeringen als instrumentale tracks genereren."
+      },
+      "q4": {
+        "question": "Heb ik muzikale ervaring nodig om de AI zangles generator te gebruiken?",
+        "answer": "Nee, er is geen muzikale ervaring vereist. Onze AI zangles generator is ontworpen om gebruiksvriendelijk en toegankelijk te zijn voor iedereen, ongeacht hun muzikale achtergrond."
+      },
+      "q5": {
+        "question": "Wat is de kwaliteit van de gegenereerde muziek?",
+        "answer": "Onze AI zangles generator produceert hoogwaardige, professioneel gemasterde audiobestanden die geschikt zijn voor verschillende toepassingen, van persoonlijk gebruik tot commerciële projecten."
+      },
+      "q6": {
+        "question": "Wie bezit de rechten op de gegenereerde muziek?",
+        "answer": "Je behoudt alle rechten op alle muziek die is gemaakt met onze AI zangles generator. De tracks zijn volledig origineel en vrij van auteursrechtelijke beperkingen."
+      },
+      "q7": {
+        "question": "Hoe lang duurt het om een nummer te genereren?",
+        "answer": "De meeste tracks worden binnen enkele minuten gegenereerd, afhankelijk van de complexiteit van je eisen en de lengte van de gewenste compositie."
+      },
+      "q8": {
+        "question": "Kan ik de gegenereerde muziek bewerken?",
+        "answer": "Ja, je kunt verschillende aspecten van je generatie aanpassen, inclusief genre, stijl en muzikale elementen, om je gewenste resultaat te bereiken."
+      }
+    },
+    "cta": {
+      "text": "Klaar om Je Perfecte Track te Creëren?",
+      "subtext": "Doe mee met duizenden creators die onze AI zangles generator al gebruiken om hun muzikale ideeën tot leven te brengen.",
+      "button": "Begin Nu Met Creëren"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Kosteneffectief",
+        "description": "Bespaar geld op dure studio sessies en muzikanten kosten. Onze AI zangles generator levert professionele muziek voor een fractie van de kosten."
+      },
+      "item02": {
+        "title": "Tijdbesparend",
+        "description": "Genereer complete tracks in minuten in plaats van dagen of weken aan productie te besteden. Onze efficiënte AI zangles generator levert snelle resultaten zonder concessies aan kwaliteit."
+      },
+      "item03": {
+        "title": "Onbeperkte Creativiteit",
+        "description": "Verken eindeloze muzikale mogelijkheden met onze AI zangles generator. Creëer unieke composities in verschillende genres en stijlen zonder creatieve beperkingen."
+      },
+      "item04": {
+        "title": "Rechtenvrije Muziek",
+        "description": "Elke track die is gemaakt met onze AI zangles generator is origineel en volledig van jou om te gebruiken. Geen zorgen over licenties of auteursrechtelijke kwesties."
+      }
+    }
+  },
+  "yue-ai-music": {
+    "meta-title": "YuE AI Muziekgenerator",
+    "meta-description": "Creëer complete nummers vanuit songteksten met behulp van geavanceerde AI-basismodellen",
+    "heroSection": {
+      "h1": "YuE AI Muziekgenerator",
+      "description": "Transformeer je songteksten in complete nummers met zang en begeleiding met behulp van state-of-the-art AI-technologie",
+      "button": "Muziek genereren",
+      "clear-button": "Wissen",
+      "lyrics-placeholder": "Voer hier je songtekst in en laat YuE een compleet nummer met zang en begeleiding creëren.",
+      "ai-lyrics-generator": "AI Muziekgenerator",
+      "lyrics-label": "Songtekst",
+      "lyrics-tooltip": "Voer complete songteksten in voor de beste resultaten. YuE kan tot 5 minuten muziek genereren.",
+      "song-title": "Titel nummer",
+      "song-title-tooltip": "Geef je creatie een naam voor eenvoudig delen.",
+      "song-title-placeholder": "Voer hier de titel van het nummer in",
+      "custom": "Aangepast",
+      "isloading": "Wacht even terwijl we je nummer genereren, dit kan een paar minuten duren. Of je kunt later in je terugkomen",
+      "credits-alert": "Je hebt geen credits meer, koop meer credits",
+      "lyrics-length-alert": "Songteksten moeten minimaal 200 tekens bevatten",
+      "title-length-alert": "De titel van het nummer mag niet leeg zijn",
+      "custom-description-alert": "De beschrijving van het nummer mag niet leeg zijn!",
+      "song-description": "Omschrijving nummer",
+      "song-description-tooltip": "Beschrijf de stijl en stemming van het nummer dat je wilt genereren.",
+      "song-description-placeholder": "Een popballade met emotionele zang"
+    },
+    "features": {
+      "title": "Waarom kiezen voor YuE AI Muziekgenerator?",
+      "description": "Geavanceerde functies die je songteksten transformeren in complete nummers",
+      "items": [
+        {
+          "title": "Complete nummergeneratie",
+          "description": "YuE AI Muziekgenerator kan complete nummers genereren tot 5 minuten lang, inclusief zowel zang als begeleiding, waarbij de coherente muzikale structuur gedurende het hele stuk behouden blijft."
+        },
+        {
+          "title": "Songtekst-naar-nummer technologie",
+          "description": "YuE AI Muziekgenerator maakt gebruik van geavanceerde basismodellen om ervoor te zorgen dat je songteksten perfect gesynchroniseerd zijn met de melodie, terwijl de natuurlijke uitspraak en emotionele expressie in de zang behouden blijven."
+        },
+        {
+          "title": "Multi-genre mogelijkheid",
+          "description": "YuE AI Muziekgenerator kan nummers genereren in elke muziekstijl of genre, waarbij YuE de arrangementen en productiestijl automatisch aanpast aan het gewenste geluid."
+        },
+        {
+          "title": "Dual-track generatie",
+          "description": "De unieke dual-token technologie van YuE AI Muziekgenerator genereert perfect gesynchroniseerde zang- en instrumentale tracks, waardoor elke keer een professionele, uitgebalanceerde mix ontstaat."
+        },
+        {
+          "title": "Semantische audioverwerking",
+          "description": "De semantisch verbeterde audiotokenizer van YuE AI Muziekgenerator zorgt voor hoogwaardige geluidsgeneratie, terwijl de emotionele intentie van je songteksten behouden blijft."
+        },
+        {
+          "title": "Progressieve generatie",
+          "description": "YuE gebruikt lyrics-chain-of-thoughts technologie om je nummer progressief te genereren, waardoor consistente kwaliteit en coherente structuur van begin tot eind gegarandeerd zijn."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Hoe YuE AI Muziekgenerator werkt",
+      "description": "Het creëren van complete nummers vanuit songteksten was nog nooit zo makkelijk",
+      "steps": {
+        "step1": {
+          "title": "Kies je stijl",
+          "description": "Selecteer je favoriete muziekgenre, tempo en stemming. YuE past zijn generatie aan om aan je gewenste muzikale richting te voldoen."
+        },
+        "step2": {
+          "title": "Voer je songtekst in",
+          "description": "Voer je complete songteksten in. De basismodellen van YuE AI Muziekgenerator analyseren de emotionele inhoud en structuur om de perfecte muzikale setting te creëren."
+        },
+        "step3": {
+          "title": "Genereer & pas aan",
+          "description": "YuE AI Muziekgenerator creëert een compleet nummer met zang en begeleiding. Pas parameters aan en genereer opnieuw totdat je tevreden bent met het resultaat."
+        },
+        "step4": {
+          "title": "Exporteer & deel",
+          "description": "Download je voltooide nummer in een hoogwaardige audioformaat, compleet met gescheiden zang- en instrumentale tracks voor verdere mixing indien gewenst."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Wie kan profiteren van YuE AI Muziekgenerator?",
+      "description": "Van songwriters tot producers, YuE AI Muziekgenerator geeft iedereen de mogelijkheid om nummers van professionele kwaliteit te creëren",
+      "case01": {
+        "title": "Songwriters",
+        "description": "Transformeer je songteksten direct in complete nummers en verken verschillende muziekstijlen en arrangementen voor je woorden."
+      },
+      "case02": {
+        "title": "Muziekproducenten",
+        "description": "Genereer complete nummers met professionele productie, compleet met zang- en begeleidingstracks die klaar zijn voor verdere mixing."
+      },
+      "case03": {
+        "title": "Content creators",
+        "description": "Creëer originele muziek voor je video's, podcasts of social media content zonder je zorgen te maken over licenties of royalty's."
+      },
+      "case04": {
+        "title": "Onafhankelijke artiesten",
+        "description": "Prototypeer snel nummers en verken verschillende arrangementen van je songteksten voordat je investeert in studiotijd."
+      },
+      "case05": {
+        "title": "Reclamebureaus",
+        "description": "Genereer aangepaste jingles en achtergrondmuziek voor commercials en campagnes, compleet met zang die perfect bij je boodschap past."
+      },
+      "case06": {
+        "title": "Game ontwikkelaars",
+        "description": "Creëer originele soundtrackmuziek met zang voor je games, waarbij je de stijl en stemming aanpast aan verschillende scènes en situaties."
+      }
+    },
+    "faqs": {
+      "title": "Veelgestelde vragen over YuE AI Muziekgenerator",
+      "q1": {
+        "question": "Hoe lang kunnen de gegenereerde nummers zijn?",
+        "answer": "YuE AI Muziekgenerator kan nummers genereren tot 4 minuten lang, terwijl de coherente muzikale structuur behouden blijft en je songteksten gedurende het hele nummer gevolgd worden."
+      },
+      "q2": {
+        "question": "Kan ik de gegenereerde nummers commercieel gebruiken?",
+        "answer": "Ja, je bezit alle rechten op de nummers die met YuE zijn gecreëerd. Je creaties zijn van jou om te gebruiken zoals je wilt, of het nu voor persoonlijke projecten of commerciële releases is."
+      },
+      "q3": {
+        "question": "Welke genres kan YuE genereren?",
+        "answer": "YuE kan muziek genereren in elk genre of elke stijl. Het systeem past zich aan je voorkeuren aan om passende arrangementen en productiestijlen te creëren."
+      },
+      "q4": {
+        "question": "Biedt u gratis generatie aan?",
+        "answer": "Ja, YuE biedt gratis credits aan om het systeem uit te proberen. Als je meer nodig hebt, hebben we meerdere pakketten om uit te kiezen."
+      },
+      "q5": {
+        "question": "Hoe snel genereert YuE nummers?",
+        "answer": "De generatietijd varieert afhankelijk van de lengte en complexiteit van het nummer, maar de meeste nummers zijn binnen een paar minuten voltooid."
+      },
+      "q6": {
+        "question": "Wat is YuE AI muziekgenerator?",
+        "answer": "YuE is een geavanceerde AI-muziekgenerator die gebruikmaakt van basis taalmodellen om complete nummers te creëren vanuit songteksten. Het genereert zowel zang als begeleiding, waarbij de coherente muzikale structuur gedurende het hele nummer behouden blijft."
+      },
+      "q7": {
+        "question": "Wat maakt YuE anders dan andere muziekgeneratoren?",
+        "answer": "YuE maakt gebruik van geavanceerde basismodellen en unieke technologieën zoals dual-token generatie en lyrics-chain-of-thoughts om complete, coherente nummers tot 5 minuten lang te creëren. In tegenstelling tot veel alternatieven, genereert het zowel hoogwaardige zang als begeleiding die trouw blijven aan je songteksten gedurende het hele nummer."
+      },
+      "q8": {
+        "question": "Kan ik afzonderlijke zang- en instrumentale tracks krijgen?",
+        "answer": "Ja, YuE genereert afzonderlijke zang- en instrumentale tracks die je afzonderlijk kunt downloaden voor verdere mixing en aanpassing."
+      }
+    },
+    "cta": {
+      "text": "Creëer vandaag nog je complete nummer",
+      "subtext": "Sluit je aan bij de toekomst van muziekcreatie. YuE geeft je de mogelijkheid om je songteksten binnen enkele minuten te transformeren in nummers van professionele kwaliteit.",
+      "button": "Begin met het creëren van muziek"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Resultaten van professionele kwaliteit",
+        "description": "YuE genereert muziek van studiokwaliteit met natuurlijk klinkende zang en professionele arrangementen, ongeacht je muzikale ervaring."
+      },
+      "item02": {
+        "title": "Complete creatieve controle",
+        "description": "Van genre tot stemming, pas elk aspect van je nummer aan terwijl je YuE AI Muziekgenerator de technische complexiteit van muziekproductie laat afhandelen."
+      },
+      "item03": {
+        "title": "Behoud je artistieke visie",
+        "description": "YuE AI Muziekgenerator begrijpt en behoudt de emotionele inhoud van je songteksten en creëert muzikale settings die je boodschap versterken en ondersteunen."
+      },
+      "item04": {
+        "title": "Gestroomlijnd productieproces",
+        "description": "Ga binnen enkele minuten van songteksten naar een compleet nummer, met zowel zang- als instrumentale tracks die klaar zijn voor direct gebruik of verdere aanpassing."
+      }
+    }
+  },
+  "banner": {
+    "banner-description": "Vanwege misbruik, gratis proefstudie uitgeschakeld. \nAbonneer u op toegang tot functies.",
+    "banner-button": "Abonneren",
+    "banner-subscribe": "Abonneer u alstublieft om te genieten van advertentievrij."
+  },
+  "diff-rhythm": {
+    "meta-title": "DiffRhythm AI Muziek Generator",
+    "meta-description": "Genereer direct volledige nummers met DiffRhythm AI Muziek Generator, aangedreven door razendsnelle latentiediffusie technologie.",
+    "heroSection": {
+      "h1": "DiffRhythm AI Muziek Generator",
+      "description": "Creëer complete nummers in seconden met DiffRhythm AI Muziek Generator, gebruikmakend van eenvoudige, snelle en geavanceerde AI om jouw muzikale ideeën tot leven te brengen.",
+      "button": "Genereer Muziek",
+      "clear-button": "Wissen",
+      "lyrics-placeholder": "Voer een prompt in. DiffRhythm AI Muziek Generator maakt een volledig nummer met naadloze structuur en geluid.",
+      "ai-lyrics-generator": "AI Muziek Generator",
+      "lyrics-label": "Prompt",
+      "lyrics-tooltip": "Geef een korte prompt of idee voor de beste resultaten. DiffRhythm AI Muziek Generator kan nummers tot 6 minuten lang creëren.",
+      "song-title": "Nummertitel",
+      "song-title-tooltip": "Geef je nummer een naam voor gemakkelijke identificatie en deling.",
+      "song-title-placeholder": "Voer hier je nummer titel in",
+      "custom": "Aangepast",
+      "isloading": "Even geduld terwijl DiffRhythm AI Muziek Generator je nummer maakt - het gaat razendsnel, maar perfectie kost even!",
+      "credits-alert": "Je credits zijn op; koop er meer om DiffRhythm AI Muziek Generator te blijven gebruiken.",
+      "lyrics-length-alert": "Prompt moet minimaal 50 tekens lang zijn om DiffRhythm AI Muziek Generator zijn magie te laten werken.",
+      "title-length-alert": "Nummertitel kan niet leeg zijn - geef je creatie een naam!",
+      "custom-description-alert": "Nummerbeschrijving moet worden ingevuld voor aangepaste instellingen.",
+      "song-description": "Nummerbeschrijving",
+      "song-description-tooltip": "Vertel DiffRhythm AI Muziek Generator de stijl, stemming of sfeer die je wilt bereiken.",
+      "song-description-placeholder": "Een snelle rock anthem met epische energie"
+    },
+    "features": {
+      "title": "Waarom kiezen voor DiffRhythm AI Muziek Generator?",
+      "description": "Ontdek de opvallende functies die DiffRhythm AI Muziek Generator de snelste manier maken om volledige nummers te maken.",
+      "items": [
+        {
+          "title": "Razendsnelle Nummer Creatie",
+          "description": "DiffRhythm AI Muziek Generator levert complete nummers in seconden, gebruikmakend van latentiediffusie om de snelheid te optimaliseren zonder concessies te doen aan de kwaliteit over het hele nummer."
+        },
+        {
+          "title": "Volledige Nummer Output",
+          "description": "In tegenstelling tot andere tools produceert DiffRhythm AI Muziek Generator nummers tot 6 minuten lang, met coherente structuur en flow van begin tot eind."
+        },
+        {
+          "title": "Schandalig Eenvoudig Ontwerp",
+          "description": "DiffRhythm AI Muziek Generator verwijdert complexiteit en biedt een intuïtieve ervaring die iedereen kan gebruiken om moeiteloos muziek van professionele kwaliteit te genereren."
+        },
+        {
+          "title": "Open-Source Kracht",
+          "description": "Gebouwd op open-source innovatie, nodigt DiffRhythm AI Muziek Generator de community uit tot input en aanpassing, waardoor het een tool is van makers, voor makers."
+        },
+        {
+          "title": "Hoge Kwaliteit Audio",
+          "description": "DiffRhythm AI Muziek Generator gebruikt geavanceerde latentiediffusietechnieken om een helder, evenwichtig geluid te garanderen en tracks te leveren die concurreren met studioproducties."
+        },
+        {
+          "title": "Veelzijdige Stijlaanpassing",
+          "description": "Van rock tot ambient, DiffRhythm AI Muziek Generator past zich aan de gewenste stijl aan en maakt nummers die passen bij je creatieve visie met minimale input."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Hoe DiffRhythm AI Muziek Generator Werkt",
+      "description": "Muziek maken is nog nooit zo snel of eenvoudig geweest met DiffRhythm AI Muziek Generator.",
+      "steps": {
+        "step1": {
+          "title": "Stel je Visie In",
+          "description": "Voer een prompt of beschrijving in om DiffRhythm AI Muziek Generator te begeleiden naar je voorkeursstijl en -stemming."
+        },
+        "step2": {
+          "title": "Genereer Direct",
+          "description": "Druk op de knop en DiffRhythm AI Muziek Generator gebruikt latentiediffusie om in seconden een volledig nummer te maken."
+        },
+        "step3": {
+          "title": "Verfijn & Herhaal",
+          "description": "Luister naar je nummer en pas de prompt aan als dat nodig is - DiffRhythm AI Muziek Generator maakt iteratie snel en gemakkelijk."
+        },
+        "step4": {
+          "title": "Download & Gebruik",
+          "description": "Exporteer je nummer van hoge kwaliteit van DiffRhythm AI Muziek Generator, klaar om te delen of verder te produceren."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Wie kan profiteren van DiffRhythm AI Muziek Generator?",
+      "description": "DiffRhythm AI Muziek Generator stelt creators van alle soorten in staat om moeiteloos muziek te produceren.",
+      "case01": {
+        "title": "Muzikanten",
+        "description": "Genereer snel volledige nummers met DiffRhythm AI Muziek Generator om ideeën te testen of een portfolio op te bouwen zonder studiotijd."
+      },
+      "case02": {
+        "title": "Content Creators",
+        "description": "Gebruik DiffRhythm AI Muziek Generator om originele achtergrondtracks te maken voor video's, streams of podcasts in seconden."
+      },
+      "case03": {
+        "title": "Game Ontwikkelaars",
+        "description": "Maak snel meeslepende soundtracks met DiffRhythm AI Muziek Generator, afgestemd op de sfeer van je game."
+      },
+      "case04": {
+        "title": "Hobbyisten",
+        "description": "Verken het maken van muziek zonder ervaring - DiffRhythm AI Muziek Generator maakt het eenvoudig en leuk."
+      },
+      "case05": {
+        "title": "Evenementen Planners",
+        "description": "Genereer aangepaste muziek voor evenementen of promoties met behulp van DiffRhythm AI Muziek Generator's snelle, aanpasbare systeem."
+      },
+      "case06": {
+        "title": "Educators",
+        "description": "Leer muziek- of AI-concepten met DiffRhythm AI Muziek Generator, een open-source tool die gemakkelijk te demonstreren en te verkennen is."
+      }
+    },
+    "faqs": {
+      "title": "Veelgestelde Vragen over DiffRhythm AI Muziek Generator",
+      "q1": {
+        "question": "Hoe lang kunnen nummers van DiffRhythm AI Muziek Generator zijn?",
+        "answer": "DiffRhythm AI Muziek Generator kan nummers tot 6 minuten lang maken, met consistente kwaliteit gedurende het hele nummer."
+      },
+      "q2": {
+        "question": "Kan ik DiffRhythm AI Muziek Generator-nummers commercieel gebruiken?",
+        "answer": "Bekijk de open-source licentievoorwaarden, maar nummers van DiffRhythm AI Muziek Generator zijn meestal gratis voor persoonlijk gebruik; commerciële rechten kunnen afhankelijk zijn van je service-instelling."
+      },
+      "q3": {
+        "question": "Welke stijlen kan DiffRhythm AI Muziek Generator aan?",
+        "answer": "DiffRhythm AI Muziek Generator past zich aan elke stijl aan die je beschrijft, van klassiek tot elektronisch, gebaseerd op je prompt."
+      },
+      "q4": {
+        "question": "Is DiffRhythm AI Muziek Generator gratis?",
+        "answer": "De kerntechnologie is open-source en onze service biedt een gratis niveau om DiffRhythm AI Muziek Generator uit te proberen, met premium opties beschikbaar."
+      },
+      "q5": {
+        "question": "Hoe snel is DiffRhythm AI Muziek Generator?",
+        "answer": "Dankzij latentiediffusie genereert DiffRhythm AI Muziek Generator volledige nummers in seconden, niet minuten."
+      },
+      "q6": {
+        "question": "Wat is DiffRhythm AI Muziek Generator?",
+        "answer": "DiffRhythm AI Muziek Generator is een razendsnelle, open-source tool die latentiediffusie gebruikt om volledige nummers te maken met minimale input, en moeiteloos audio van hoge kwaliteit levert."
+      },
+      "q7": {
+        "question": "Wat maakt DiffRhythm AI Muziek Generator anders?",
+        "answer": "De snelheid, eenvoud en het vermogen om complete nummers te genereren onderscheiden DiffRhythm AI Muziek Generator, aangedreven door een schandalig eenvoudige latentiediffusiebenadering."
+      },
+      "q8": {
+        "question": "Kan ik afzonderlijke tracks krijgen van DiffRhythm AI Muziek Generator?",
+        "answer": "Momenteel produceert DiffRhythm AI Muziek Generator een enkele gemixte track, maar toekomstige updates kunnen gescheiden zang en instrumentale tracks bevatten."
+      }
+    },
+    "cta": {
+      "text": "Maak nu je nummer met DiffRhythm AI Muziek Generator",
+      "subtext": "Ervaar de snelste manier om muziek te maken. DiffRhythm AI Muziek Generator zet je ideeën direct om in volledige nummers.",
+      "button": "Begin met Genereren"
+    },
+    "benefits": {
+      "item01": {
+        "title": "Razende Snelheid",
+        "description": "DiffRhythm AI Muziek Generator maakt volledige nummers in seconden, waardoor muziekproductie sneller dan ooit tevoren wordt."
+      },
+      "item02": {
+        "title": "Moeiteloze Creativiteit",
+        "description": "Met DiffRhythm AI Muziek Generator kan iedereen professionele tracks genereren zonder technische kennis."
+      },
+      "item03": {
+        "title": "Volledige Nummer Meesterschap",
+        "description": "DiffRhythm AI Muziek Generator levert complete, gestructureerde nummers, niet alleen loops, en bewaart je creatieve intentie."
+      },
+      "item04": {
+        "title": "Open-Source Flexibiliteit",
+        "description": "Gebouwd op open-source technologie, laat DiffRhythm AI Muziek Generator je het aanpassen en afstemmen op je behoeften."
+      }
+    }
+  }
+}

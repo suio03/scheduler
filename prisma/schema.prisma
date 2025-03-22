@@ -1,0 +1,220 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+// User model
+model User {
+    id                String    @id // Google's sub field
+    name              String?
+    email             String    @unique
+    emailVerified     DateTime?
+    image             String?
+    subscriptionStatus SubscriptionStatus @default(FREE)
+    stripeCustomerId  String?   @unique // Stripe customer ID
+    stripePriceId     String?   // Stripe price ID for the active subscription
+    createdAt         DateTime  @default(now())
+    updatedAt         DateTime  @updatedAt
+
+    accounts         Account[]
+    platformAccounts PlatformAccount[]
+    posts            Post[]
+    sessions         Session[]
+}
+
+// NextAuth Account model
+model Account {
+    id                String  @id @default(cuid())
+    userId            String
+    type              String
+    provider          String
+    providerAccountId String
+    refresh_token     String? @db.Text
+    access_token      String? @db.Text
+    expires_at        Int?
+    token_type        String?
+    scope             String?
+    id_token          String? @db.Text
+    session_state     String?
+
+    user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+    @@unique([provider, providerAccountId])
+}
+
+// Session model for auth
+model Session {
+    id           String   @id @default(cuid())
+    sessionToken String   @unique
+    userId       String
+    expires      DateTime
+
+    user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+// Platform connection
+model PlatformAccount {
+    id                String    @id @default(cuid())
+    userId            String
+    platformType      PlatformType
+    platformAccountId String    // ID on the platform
+    accountName       String    // Username or handle
+    accessToken       String?   @db.Text
+    refreshToken      String?   @db.Text
+    tokenExpiry       DateTime?
+    profilePictureUrl String?
+    metadata          Json?     // Additional platform-specific data
+    createdAt         DateTime  @default(now())
+    updatedAt         DateTime  @updatedAt
+
+    user          User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+    platformPosts PlatformPost[]
+
+    @@unique([platformType, platformAccountId])
+}
+
+// Media model for uploads
+model Media {
+    id           String     @id @default(cuid())
+    userId       String     // Owner of the media
+    originalName String
+    fileSize     Int
+    mimeType     String
+    path         String     // Cloudflare R2 path
+    width        Int?
+    height       Int?
+    duration     Float?     // For videos
+    status       MediaStatus @default(UPLOADING)
+    metadata     Json?      // Additional media metadata
+    createdAt    DateTime   @default(now())
+    updatedAt    DateTime   @updatedAt
+
+    postMedia    PostMedia[]
+}
+
+// Post model - Core content container
+model Post {
+    id           String     @id @default(cuid())
+    userId       String
+    caption      String?    @db.Text
+    hashtags     String?    @db.Text
+    scheduledFor DateTime?
+    status       PostStatus @default(DRAFT)
+    createdAt    DateTime   @default(now())
+    updatedAt    DateTime   @updatedAt
+
+    user          User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+    media         PostMedia[]
+    platformPosts PlatformPost[]
+}
+
+// Many-to-many relationship between Posts and Media
+model PostMedia {
+    id        String   @id @default(cuid())
+    postId    String
+    mediaId   String
+    sortOrder Int      @default(0)  // For ordering multiple media items in a post
+    
+    post      Post     @relation(fields: [postId], references: [id], onDelete: Cascade)
+    media     Media    @relation(fields: [mediaId], references: [id])
+    
+    @@unique([postId, mediaId])
+}
+
+// Platform-specific post data
+model PlatformPost {
+    id                String          @id @default(cuid())
+    postId            String
+    platformAccountId String
+    scheduledFor      DateTime?       // Allow different schedule times per platform
+    publishedAt       DateTime?
+    status            PlatformStatus  @default(PENDING)
+    platformPostId    String?         // ID of the post on the platform after publishing
+    platformPostUrl   String?         // URL to the post on the platform
+    failureReason     String?         @db.Text
+    metadata          Json?           // Platform-specific post options
+    createdAt         DateTime        @default(now())
+    updatedAt         DateTime        @updatedAt
+
+    post            Post            @relation(fields: [postId], references: [id], onDelete: Cascade)
+    platformAccount PlatformAccount @relation(fields: [platformAccountId], references: [id], onDelete: Cascade)
+}
+
+// Job Queue tracking
+model SchedulerJob {
+    id          String       @id @default(cuid())
+    jobId       String       @unique // Redis job ID
+    postId      String?
+    platformPostId String?
+    type        JobType
+    status      JobStatus    @default(WAITING)
+    attempts    Int          @default(0)
+    nextAttempt DateTime?
+    result      Json?
+    error       String?      @db.Text
+    createdAt   DateTime     @default(now())
+    updatedAt   DateTime     @updatedAt
+}
+
+// Enums
+enum SubscriptionStatus {
+    FREE
+    TRIAL
+    BASIC
+    PREMIUM
+    ENTERPRISE
+}
+
+enum PlatformType {
+    TIKTOK
+    YOUTUBE
+    INSTAGRAM
+    FACEBOOK
+    TWITTER
+    LINKEDIN
+}
+
+enum MediaStatus {
+    UPLOADING
+    PROCESSING
+    READY
+    ERROR
+}
+
+enum PostStatus {
+    DRAFT
+    SCHEDULED
+    PUBLISHED
+    COMPLETED
+    FAILED
+}
+
+enum PlatformStatus {
+    PENDING
+    SCHEDULED
+    PUBLISHING
+    PUBLISHED
+    FAILED
+}
+
+enum JobType {
+    PUBLISH_POST
+    REFRESH_TOKEN
+    FETCH_ANALYTICS
+    MEDIA_PROCESSING
+}
+
+enum JobStatus {
+    WAITING
+    ACTIVE
+    COMPLETED
+    FAILED
+    DELAYED
+}
