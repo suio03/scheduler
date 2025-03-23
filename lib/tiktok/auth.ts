@@ -53,7 +53,7 @@ export async function handleTikTokOAuthCallback(
         const existingAccounts = await prisma.platformAccount.findMany({
             where: {
                 userId,
-                platformType: "tiktok",
+                platformType: "TIKTOK",
             },
         });
 
@@ -75,7 +75,7 @@ export async function handleTikTokOAuthCallback(
         // Check if we already have an account with this TikTok ID
         const existingAccount = await prisma.platformAccount.findFirst({
             where: {
-                platformType: "tiktok",
+                platformType: "TIKTOK",
                 platformAccountId: tokenData.open_id,
             },
         });
@@ -96,7 +96,7 @@ export async function handleTikTokOAuthCallback(
 
             return {
                 id: updatedAccount.id,
-                platformType: "tiktok",
+                platformType: "TIKTOK",
                 platformAccountId: tokenData.open_id,
                 accountName: updatedAccount.accountName,
                 accessToken: tokenData.access_token,
@@ -115,7 +115,7 @@ export async function handleTikTokOAuthCallback(
             const tempAccount = await prisma.platformAccount.create({
                 data: {
                     userId,
-                    platformType: "tiktok",
+                    platformType: "TIKTOK",
                     platformAccountId: tokenData.open_id,
                     accountName: "TikTok User", // Default name, will try to update
                     accessToken: tokenData.access_token,
@@ -162,7 +162,7 @@ export async function handleTikTokOAuthCallback(
 
                 return {
                     id: updatedAccount.id,
-                    platformType: "tiktok",
+                    platformType: "TIKTOK",
                     platformAccountId: tokenData.open_id,
                     accountName: displayName,
                     accessToken: tokenData.access_token,
@@ -180,7 +180,7 @@ export async function handleTikTokOAuthCallback(
                 // If we can't get user info, just return the account with default values
                 return {
                     id: tempAccount.id,
-                    platformType: "tiktok",
+                    platformType: "TIKTOK",
                     platformAccountId: tokenData.open_id,
                     accountName: "TikTok User",
                     accessToken: tokenData.access_token,
@@ -371,7 +371,7 @@ export async function saveTikTokAccount(
     // Check if account already exists
     const existingAccount = await prisma.platformAccount.findFirst({
         where: {
-            platformType: "tiktok",
+            platformType: "TIKTOK",
             platformAccountId: openId,
         },
     });
@@ -396,7 +396,7 @@ export async function saveTikTokAccount(
         return prisma.platformAccount.create({
             data: {
                 userId,
-                platformType: "tiktok",
+                platformType: "TIKTOK",
                 platformAccountId: openId,
                 accountName: displayName,
                 accessToken,

@@ -40,7 +40,7 @@ export const { auth, handlers, signIn, signOut } = NextAuth({
                             name: profile.name,
                             image: profile.picture,
                             emailVerified: new Date(),
-                            subscriptionStatus: "free",
+                            subscriptionStatus: "FREE",
                         }
                     });
                     

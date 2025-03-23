@@ -12,7 +12,6 @@ export async function GET(req: NextRequest) {
             { status: 400 }
         )
     }
-    
     const hasEnoughCredit = await checkUserSubscription(id)
     return NextResponse.json({ hasEnoughCredit })
 }
@@ -28,7 +27,7 @@ const checkUserSubscription = async (id: string) => {
         }
         
         // Check if user has a paid subscription or is in trial
-        return user.subscriptionStatus === "paid" || user.subscriptionStatus === "trial"
+        return user.subscriptionStatus === "PAID"
     } catch (error) {
         console.error("Error checking subscription:", error)
         return false // Fail-safe: assume insufficient if check fails

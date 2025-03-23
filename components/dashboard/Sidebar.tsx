@@ -8,18 +8,15 @@ import {
     CalendarIcon,
     ChartBarIcon,
     PencilSquareIcon,
-    EyeIcon,
-    Cog6ToothIcon,
     UserGroupIcon
 } from '@heroicons/react/24/outline'
 
 const navItems = [
+    { name: 'Create Post', icon: PencilSquareIcon, href: '/dashboard/create', exact: false },
     { name: 'Dashboard', icon: HomeIcon, href: '/dashboard', exact: true },
     { name: 'Analytics', icon: ChartBarIcon, href: '/dashboard/analytics', exact: false },
     { name: 'Accounts', icon: UserGroupIcon, href: '/dashboard/accounts', exact: false },
     { name: 'Scheduler', icon: CalendarIcon, href: '/dashboard/schedule', exact: false },
-    { name: 'Create Post', icon: PencilSquareIcon, href: '/dashboard/create', exact: false },
-    { name: 'Preview', icon: EyeIcon, href: '/dashboard/preview', exact: false },
 ]
 
 export default function Sidebar() {
@@ -27,11 +24,7 @@ export default function Sidebar() {
 
     return (
         <div className="w-64 bg-white border-r border-linear-100 hidden md:flex flex-col h-screen">
-            <div className="p-6">
-                <h2 className="text-xl font-bold text-linear-900">TikScheduler</h2>
-            </div>
-
-            <nav className="mt-2 flex-1 px-4 space-y-1">
+            <nav className="flex-1 px-4 space-y-1 mt-16">
                 {navItems.map((item) => {
                     // Check if the current path matches this nav item
                     const isActive = item.exact

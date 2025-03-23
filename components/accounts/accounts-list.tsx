@@ -40,7 +40,7 @@ export function AccountsList({ fallback }: AccountsListProps) {
     const t = useTranslations("Accounts")
     const [accounts, setAccounts] = useState<PlatformAccount[]>([])
     const [isLoading, setIsLoading] = useState(true)
-    const providers: SocialProvider[] = ["TikTok", "Youtube", "Instagram", "Facebook", "X (Twitter)"]
+    const providers: SocialProvider[] = ["TikTok", "Youtube", "Instagram", "Facebook", "X"]
     useEffect(() => {
         async function fetchAccounts() {
             try {

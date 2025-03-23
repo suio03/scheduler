@@ -154,7 +154,6 @@ export class TikTokApiClient {
                 body: body ? JSON.stringify(body) : undefined,
             });
 
-
             if (!response.ok) {
                 const errorText = await response.text();
                 console.error(
@@ -206,7 +205,8 @@ export class TikTokApiClient {
             const endpoint = "/v2/user/info/"; // Note the trailing slash and v2 prefix
 
             // The fields parameter is required as per documentation
-            const fields = "open_id,union_id,avatar_url,display_name,bio_description,profile_deep_link,username,follower_count,following_count,likes_count,video_count"
+            const fields =
+                "open_id,union_id,avatar_url,display_name,bio_description,profile_deep_link,username,follower_count,following_count,likes_count,video_count";
             // Prepare the URL with the query parameter
             const url = new URL(`https://open.tiktokapis.com${endpoint}`);
             url.searchParams.append("fields", fields);

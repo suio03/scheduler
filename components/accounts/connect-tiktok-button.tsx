@@ -3,9 +3,9 @@
 import { useState } from "react"
 import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
-import { toast } from "sonner"
+import { toast } from "react-hot-toast"
 
-export type SocialProvider = "TikTok" | "Youtube" | "Instagram" | "Facebook" | "X (Twitter)"
+export type SocialProvider = "TikTok" | "Youtube" | "Instagram" | "Facebook" | "X"
 
 interface ConnectProviderButtonProps {
     provider: SocialProvider
@@ -51,7 +51,9 @@ async function generateCodeChallenge(codeVerifier: string): Promise<string> {
 export function ConnectProviderButton({ provider, onSuccess, clientKey }: ConnectProviderButtonProps) {
     const t = useTranslations("Accounts")
     const [isConnecting, setIsConnecting] = useState(false)
-    
+    console.log(clientKey)
+    console.log('provider', provider)
+    console.log('process.env.NEXT_PUBLIC_TIKTOK_CLIENT_KEY', process.env.NEXT_PUBLIC_TIKTOK_CLIENT_KEY)
     const getProviderConfig = (provider: SocialProvider) => {
         switch(provider) {
             case "TikTok":
@@ -106,7 +108,7 @@ export function ConnectProviderButton({ provider, onSuccess, clientKey }: Connec
                     ),
                     usesPKCE: false
                 }
-            case "X (Twitter)":
+            case "X":
                 return {
                     authUrl: "https://twitter.com/i/oauth2/authorize",
                     scope: "tweet.read users.read",
@@ -149,7 +151,7 @@ export function ConnectProviderButton({ provider, onSuccess, clientKey }: Connec
             const authUrl = new URL(config.authUrl)
             
             // Add common OAuth parameters
-            authUrl.searchParams.append("client_id", actualClientKey)
+            authUrl.searchParams.append("client_key", actualClientKey)
             authUrl.searchParams.append("redirect_uri", redirectUri)
             authUrl.searchParams.append("scope", config.scope)
             authUrl.searchParams.append("state", state)
@@ -168,7 +170,7 @@ export function ConnectProviderButton({ provider, onSuccess, clientKey }: Connec
                 authUrl.searchParams.append("code_challenge", codeChallenge)
                 authUrl.searchParams.append("code_challenge_method", "S256")
             }
-            
+            await new Promise(resolve => setTimeout(resolve, 10000))
             // Redirect the user to the authorization page
             window.location.href = authUrl.toString()
         } catch (error) {

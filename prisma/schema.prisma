@@ -166,10 +166,7 @@ model SchedulerJob {
 // Enums
 enum SubscriptionStatus {
     FREE
-    TRIAL
-    BASIC
-    PREMIUM
-    ENTERPRISE
+    PAID
 }
 
 enum PlatformType {

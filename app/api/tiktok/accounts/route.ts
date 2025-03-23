@@ -23,7 +23,7 @@ export async function GET(req: NextRequest) {
         const accounts = await prisma.platformAccount.findMany({
             where: {
                 userId: session.user.id,
-                platformType: "tiktok",
+                platformType: "TIKTOK",
             },
             select: {
                 id: true,
@@ -100,7 +100,7 @@ export async function POST(req: NextRequest) {
     const account = await prisma.platformAccount.create({
         data: {
             userId: session.user.id,
-            platformType: "tiktok",
+            platformType: "TIKTOK",
             platformAccountId: accountId,
             accountName: accountName,   
         },

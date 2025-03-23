@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
-import { ConnectTikTokButton } from "./connect-tiktok-button"
+import { ConnectProviderButton } from "./connect-tiktok-button"
 
 export function AccountsEmptyState() {
     const t = useTranslations("Accounts")
@@ -24,7 +24,7 @@ export function AccountsEmptyState() {
                 </p>
             </CardContent>
             <CardFooter className="flex justify-center">
-                <ConnectTikTokButton clientKey={process.env.TIKTOK_CLIENT_KEY || ""} />
+                <ConnectProviderButton provider="TikTok" clientKey={process.env.TIKTOK_CLIENT_KEY || ""} />
             </CardFooter>
         </Card>
     )
