@@ -50,8 +50,6 @@ export async function POST(req: NextRequest) {
     try {
         // Log the webhook payload for debugging
         const body = await req.json();
-        console.log("Received TikTok webhook:", JSON.stringify(body, null, 2));
-
         // Process the webhook notification
         // TODO: Implement webhook processing logic based on TikTok's documentation
 

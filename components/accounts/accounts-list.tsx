@@ -5,8 +5,8 @@ import { useTranslations } from "next-intl"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { TrashIcon, PersonIcon, PlusIcon } from "@radix-ui/react-icons"
-import { toast } from "sonner"
-import { ConnectProviderButton, SocialProvider } from "./connect-tiktok-button"
+import { toast } from "react-hot-toast"
+import { ConnectProviderButton, SocialProvider } from "./connect-provider-button"
 import { Skeleton } from "@/components/ui/skeleton"
 import {
     Popover,
@@ -27,7 +27,11 @@ interface PlatformAccount {
         followerCount?: number
         followingCount?: number
         likesCount?: number
-        videoCount?: number;
+        videoCount?: number
+        isLoggedOut?: boolean
+        thumbnailUrl?: string
+        description?: string
+        subscriberCount?: number
         [key: string]: any
     }
 }
@@ -41,10 +45,11 @@ export function AccountsList({ fallback }: AccountsListProps) {
     const [accounts, setAccounts] = useState<PlatformAccount[]>([])
     const [isLoading, setIsLoading] = useState(true)
     const providers: SocialProvider[] = ["TikTok", "Youtube", "Instagram", "Facebook", "X"]
+
     useEffect(() => {
         async function fetchAccounts() {
             try {
-                const response = await fetch("/api/tiktok/accounts", {
+                const response = await fetch("/api/platform-accounts", {
                     method: "GET",
                     headers: { "Content-Type": "application/json" },
                 })
@@ -66,12 +71,12 @@ export function AccountsList({ fallback }: AccountsListProps) {
         fetchAccounts()
     }, [t])
 
-    const handleDisconnect = async (accountId: string) => {
+    const handleDisconnect = async (accountId: string, platformType: string) => {
         try {
-            const response = await fetch("/api/tiktok/accounts", {
+            const response = await fetch("/api/platform-accounts", {
                 method: "DELETE",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ accountId }),
+                body: JSON.stringify({ accountId, platformType }),
             })
 
             if (!response.ok) {
@@ -85,7 +90,20 @@ export function AccountsList({ fallback }: AccountsListProps) {
             toast.error(t("disconnectError"))
         }
     }
-    
+
+    // Group accounts by platform type
+    const groupedAccounts = accounts.reduce((acc, account) => {
+        const platformType = account.platformType.toUpperCase()
+        if (!acc[platformType]) {
+            acc[platformType] = []
+        }
+        acc[platformType].push(account)
+        return acc
+    }, {} as Record<string, PlatformAccount[]>)
+
+    // Get the list of platforms that have accounts
+    const platformsWithAccounts = Object.keys(groupedAccounts)
+
     if (isLoading) {
         return (
             <div className="space-y-6">
@@ -124,6 +142,63 @@ export function AccountsList({ fallback }: AccountsListProps) {
         return fallback
     }
 
+    const renderAccountCard = (account: PlatformAccount) => (
+        <Card key={account.id} className="overflow-hidden border border-border/40 transition-all hover:shadow-md">
+            <CardHeader className="pb-2">
+                <div className="flex items-center gap-3">
+                    {account.metadata?.avatarUrl || account.metadata?.thumbnailUrl ? (
+                        <img
+                            src={account.metadata.avatarUrl || account.metadata.thumbnailUrl}
+                            alt={account.metadata?.displayName || account.accountName}
+                            className="w-12 h-12 rounded-full object-cover border border-border/30"
+                        />
+                    ) : (
+                        <div className="w-12 h-12 rounded-full bg-muted flex items-center justify-center">
+                            <PersonIcon className="w-6 h-6 text-muted-foreground" />
+                        </div>
+                    )}
+                    <div>
+                        <CardTitle className="text-base">
+                            <a href={account.metadata?.profileDeepLink || ""} target="_blank" rel="noopener noreferrer">
+                                {account.metadata?.displayName || account.accountName}
+                            </a>
+                        </CardTitle>
+                    </div>
+                </div>
+            </CardHeader>
+            <CardContent className="pb-3">
+                {account.metadata && (
+                    <p className="text-sm text-muted-foreground mb-3 line-clamp-2">
+                        {account.metadata.bioDescription || account.metadata.description}
+                    </p>
+                )}
+                <div className="grid grid-cols-2 gap-3 mt-2">
+                    <div className="bg-muted/40 p-2 rounded-md">
+                        <p className="text-xs text-muted-foreground">Followers</p>
+                        <p className="font-medium">{account.metadata?.followerCount?.toLocaleString() || account.metadata?.subscriberCount?.toLocaleString() || 0}</p>
+                    </div>
+                    <div className="bg-muted/40 p-2 rounded-md">
+                        <p className="text-xs text-muted-foreground">Videos</p>
+                        <p className="font-medium">{account.metadata?.videoCount?.toLocaleString() || 0}</p>
+                    </div>
+                </div>
+            </CardContent>
+            <CardFooter className="pt-2">
+                <div className="w-full">
+                    <Button
+                        variant="destructive"
+                        size="sm"
+                        onClick={() => handleDisconnect(account.id, account.platformType)}
+                        className="w-full gap-1 hover:bg-destructive/90"
+                    >
+                        <TrashIcon className="h-4 w-4" />
+                        {t("disconnect")}
+                    </Button>
+                </div>
+            </CardFooter>
+        </Card>
+    )
+
     return (
         <div className="space-y-6">
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
@@ -153,68 +228,17 @@ export function AccountsList({ fallback }: AccountsListProps) {
                 </Popover>
             </div>
 
-            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-                {accounts.map((account) => (
-                    <Card key={account.id} className="overflow-hidden border border-border/40 transition-all hover:shadow-md">
-                        <CardHeader className="pb-2">
-                            <div className="flex items-center gap-3">
-                                {account.metadata?.avatarUrl ? (
-                                    <img
-                                        src={account.metadata.avatarUrl}
-                                        alt={account.metadata?.displayName || account.accountName}
-                                        className="w-12 h-12 rounded-full object-cover border border-border/30"
-                                    />
-                                ) : (
-                                    <div className="w-12 h-12 rounded-full bg-muted flex items-center justify-center">
-                                        <PersonIcon className="w-6 h-6 text-muted-foreground" />
-                                    </div>
-                                )}
-                                <div>
-                                    <CardTitle className="text-base">
-                                        <a href={account.metadata?.profileDeepLink || ""} target="_blank" rel="noopener noreferrer">
-                                            {account.metadata?.displayName || account.accountName}
-                                        </a>
-                                    </CardTitle>
-                                </div>
-                            </div>
-                        </CardHeader>
-                        <CardContent className="pb-3">
-                            {account.metadata?.bioDescription && (
-                                <p className="text-sm text-muted-foreground mb-3 line-clamp-2">
-                                    {account.metadata.bioDescription}
-                                </p>
-                            )}
-                            <div className="grid grid-cols-2 gap-3 mt-2">
-                                <div className="bg-muted/40 p-2 rounded-md">
-                                    <p className="text-xs text-muted-foreground">Followers</p>
-                                    <p className="font-medium">{account.metadata?.followerCount?.toLocaleString() || 0}</p>
-                                </div>
-                                <div className="bg-muted/40 p-2 rounded-md">
-                                    <p className="text-xs text-muted-foreground">Following</p>
-                                    <p className="font-medium">{account.metadata?.followingCount?.toLocaleString() || 0}</p>
-                                </div>
-                                <div className="bg-muted/40 p-2 rounded-md">
-                                    <p className="text-xs text-muted-foreground">Likes</p>
-                                    <p className="font-medium">{account.metadata?.likesCount?.toLocaleString() || 0}</p>
-                                </div>
-                                <div className="bg-muted/40 p-2 rounded-md">
-                                    <p className="text-xs text-muted-foreground">Videos</p>
-                                    <p className="font-medium">{account.metadata?.videoCount?.toLocaleString() || 0}</p>
-                                </div>
-                            </div>
-                        </CardContent>
-                        <CardFooter className="pt-2">
-                            <Button
-                                variant="destructive"
-                                size="sm"
-                                onClick={() => handleDisconnect(account.id)}
-                                className="w-full gap-1 hover:bg-destructive/90"
-                            >
-                                <TrashIcon className="h-4 w-4" />
-                                {t("disconnect")}
-                            </Button>
-                        </CardFooter>
-                    </Card>
+            <div className="space-y-8">
+                {platformsWithAccounts.map(platform => (
+                    <div key={platform} className="space-y-4">
+                        <div className="flex items-center gap-2">
+                            <h2 className="text-xl font-semibold">{platform}</h2>
+                            <div className="h-px flex-1 bg-border"></div>
+                        </div>
+                        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+                            {groupedAccounts[platform].map(renderAccountCard)}
+                        </div>
+                    </div>
                 ))}
             </div>
         </div>

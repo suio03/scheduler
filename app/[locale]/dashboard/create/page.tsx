@@ -68,9 +68,6 @@ const CreatePostPage = () => {
         setIsSubmitting(true)
 
         try {
-            // Here you'd implement the actual API call to create the post
-            console.log("Submitting post data:", data)
-
             // Mock API call
             await new Promise(resolve => setTimeout(resolve, 1500))
 

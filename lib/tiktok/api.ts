@@ -232,7 +232,6 @@ export class TikTokApiClient {
 
             // Parse the JSON response
             const responseData = await response.json();
-            console.log("TikTok DEBUG - getUserInfo - Response:", responseData);
             // Check if the response has the expected structure
             if (responseData.data && responseData.data.user) {
                 return responseData.data.user;

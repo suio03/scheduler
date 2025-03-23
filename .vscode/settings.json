@@ -2,5 +2,6 @@
     "typescript.tsdk": "node_modules/typescript/lib",
     "typescript.enablePromptUseWorkspaceTsdk": true,
     "i18n-ally.localesPaths": ["messages"],
-    "postman.settings.dotenv-detection-notification-visibility": false
+    "postman.settings.dotenv-detection-notification-visibility": false,
+    "i18n-ally.keystyle": "nested"
 }
