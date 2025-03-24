@@ -12,4 +12,3 @@ services:
       - NODE_ENV=development
       - NEXT_TELEMETRY_DISABLED=1
       - NEXT_SKIP_API_ROUTES=1
-      - NEXT_PUBLIC_APP_URL=http://localhost:3000
