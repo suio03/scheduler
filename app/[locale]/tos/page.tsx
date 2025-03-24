@@ -1,5 +1,5 @@
 import Link from "next/link"
-export const runtime = 'edge'
+
 export const metadata = {
     title: 'Terms and Conditions | AnySchedule',
     description: 'Terms and Conditions for AnySchedule',

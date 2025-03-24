@@ -5,7 +5,7 @@ import { signIn } from 'next-auth/react'
 import { useTranslations } from "next-intl"
 import { XMarkIcon } from "@heroicons/react/24/outline"
 
-export const runtime = 'edge'
+
 export default function Login() {
     const [isLoading, setIsLoading] = useState<boolean>(false)
     const t = useTranslations('signin')

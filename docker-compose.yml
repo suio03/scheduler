@@ -8,7 +8,3 @@ services:
       - .:/app
       - /app/node_modules
       - /app/.next
-    environment:
-      - NODE_ENV=development
-      - NEXT_TELEMETRY_DISABLED=1
-      - NEXT_SKIP_API_ROUTES=1

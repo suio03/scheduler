@@ -1,5 +1,5 @@
 import Link from "next/link";
-export const runtime = 'edge'
+
 export const metadata = {
     title: 'Privacy Policy | AnySchedule',
     description: 'Privacy Policy for AnySchedule',
